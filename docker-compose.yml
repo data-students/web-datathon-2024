@@ -1,0 +1,22 @@
+services:
+  front:
+    container_name: sveltekit
+    build:
+      context: ./front_sk
+      dockerfile: Dockerfile
+    ports:
+      - '5173:5173'
+    volumes:
+      - ./front_sk:/frontend
+      - /frontend/node_modules/
+
+  back:
+    container_name: pocketbase
+    build:
+      context: ./back_pb
+      dockerfile: Dockerfile
+    ports:
+      - '8090:8090'
+    volumes:
+      - ./back_pb/pb_data:/backend/pb_data
+
