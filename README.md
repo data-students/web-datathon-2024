@@ -31,7 +31,9 @@ Add new components in `src/routes` or `src/lib`.
 Use Tailwind classes directly in Svelte components.
 
 Example:
+```
 <div class="p-4 bg-blue-500 text-white">Hello, Tailwind CSS!</div>
+```
 
 ## Using PocketBase
 Data is stored in `pb_data`. Access PocketBase admin UI at http://localhost:8090/_/.
