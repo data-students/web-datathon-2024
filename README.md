@@ -1,40 +1,58 @@
-# Datathon Hackathon Web Application
-
-Welcome to the Datathon hackathon project! This repository contains the code for a web application built using SvelteKit, Supabase, and Tailwind CSS. This README provides an overview of the technologies used, setup instructions, and contribution guidelines.
+# DATATHON WEB
+## Overview
+This project uses SvelteKit for the frontend with Tailwind CSS and PocketBase for the backend.
 
 ## Technologies Used
+- Frontend: SvelteKit
+- Styling: Tailwind CSS
+- Backend: PocketBase
+- Containerization: Docker
 
-### SvelteKit
-SvelteKit is a framework for building web applications using Svelte. It provides a powerful and flexible development environment that includes server-side rendering, routing, and other advanced features.
+## Getting Started
+Prerequisites: Docker, Docker Compose
 
-- **Website**: [SvelteKit](https://kit.svelte.dev/)
-- **Documentation**: [SvelteKit Documentation](https://kit.svelte.dev/docs)
+1. Clone the repository:
+```
+   git clone https://github.com/PDelos/Datathon_Web.git
+   cd Datathon_Web
+```
 
-### Supabase
-Supabase is an open-source backend as a service that offers real-time databases, authentication, and storage. It is a great alternative to Firebase, providing all the backend services needed to build a modern web application.
+2. Build and start the Docker containers:
+   docker-compose up --build
 
-- **Website**: [Supabase](https://supabase.io/)
-- **Documentation**: [Supabase Documentation](https://supabase.io/docs)
+## Running the Application
+- Frontend: http://localhost:5173
+- Backend: http://localhost:8090
+    - API: http://localhost:8090/api/
+    - Admin Panel: http://localhost:8090/_/
 
-### Tailwind CSS
-Tailwind CSS is a utility-first CSS framework that provides low-level utility classes to build custom designs without writing CSS. It allows for rapid and responsive design.
+## Using SvelteKit with Tailwind CSS
+Add new components in `src/routes` or `src/lib`.
+Use Tailwind classes directly in Svelte components.
 
-- **Website**: [Tailwind CSS](https://tailwindcss.com/)
-- **Documentation**: [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+Example:
+<div class="p-4 bg-blue-500 text-white">Hello, Tailwind CSS!</div>
 
-## Features
+## Using PocketBase
+Data is stored in `pb_data`. Access PocketBase admin UI at http://localhost:8090/_/.
 
-- **User Authentication**: Secure sign-up and login functionality powered by Supabase.
-- **Real-Time Updates**: Instant updates and notifications using Supabase's real-time capabilities.
-- **Data Visualization**: Interactive charts and graphs to help participants visualize their data insights.
-- **Collaboration Tools**: Features to enable teamwork and collaboration among hackathon participants.
-- **Project Submission**: An easy-to-use interface for submitting project entries.
+## Commands to dockerize dev enviorment
+- Build the project (first time running): 
+```
+docker compose up --build
+```
+- Start the project (once image, containers and volumes are set): 
+```
+docker compose up
+```
+- If having problems with docker, make sure all volumes, images and containers related to this repo are deleted before running docker commands.
+- To enter inside a container through a terminal, use:
+```
+docker exec -it sveltekit /bin/sh
+docker exec -it pocketbase /bin/sh
+```
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/datathon-hackathon.git
-   cd datathon-hackathon
+## Additional Resources
+- SvelteKit Documentation: https://kit.svelte.dev/docs
+- Tailwind CSS Documentation: https://tailwindcss.com/docs
+- PocketBase Documentation: https://pocketbase.io/docs
