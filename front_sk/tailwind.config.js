@@ -6,8 +6,8 @@ export default {
       colors:{
         'accent': '#21918c',
         'secondary': '#64748b',
-        'dark': '27272a',
-        'terc': 'd9d9d9',
+        'dark': '#27272a',
+        'terc': '#d9d9d9',
       },
       fontFamily: {
         title: "var(--font-title)",
