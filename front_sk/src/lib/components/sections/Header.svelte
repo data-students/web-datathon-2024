@@ -4,7 +4,7 @@
     import menuIcon from '$lib/assets/menu.svg';
     import crossIcon from '$lib/assets/cross.svg';
 
-    let toggle = false;
+    let toggle = true;
 </script>
 
 <nav class="flex flex-row justify-between lg:justify-center items-center w-full py-10">
@@ -52,10 +52,10 @@
     </div>
 
     {#if toggle}
-    <div  class="fixed inset-0 flex items-center justify-center">
-        <div class="bg-white flex flex-col items-center space-y-8 pt-[5rem] text-center w-full h-full">
+    <div  class="fixed inset-0 flex items-center justify-center bg-white w-full h-full ">
+        <div class=" flex flex-col just-center items-center space-y-2  text-center ">
             <h2 class="text-[36px] font-title font-bold mb-4 text-accent">Menu</h2>
-            <ul class="space-y-4 text-[20px]">
+            <ul class="space-y-4 text-[20px] ">
                 <li><a href="/" class=" text-primary font-body">Home</a></li>
                 <li><a href="/about" class=" text-primary font-body">About</a></li>
                 <li><a href="/schedule" class=" text-primary font-body">Schedule</a></li>
@@ -66,7 +66,7 @@
                 <Button outline >Sign Up</Button>
                 <Button >Sign In</Button>
             </div>
-            <div class="pt-[30%]">
+            <div class="fixed bottom-0">
                 <Button  plain outline onClick={() => (toggle = !toggle)} className="w-22 h-22  mb-8 bg-primary text-dark px-4 py-2 rounded">
                     <img src={crossIcon} class="w-8 h-8" alt="menu" />
                 </Button>
