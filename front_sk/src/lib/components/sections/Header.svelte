@@ -52,7 +52,7 @@
     </div>
 
     {#if toggle}
-    <div  class="fixed inset-0 flex items-center justify-center bg-white w-full h-full ">
+    <div  class="fixed inset-0 flex items-center justify-center bg-white w-full h-full overflow-hidden z-50">
         <div class=" flex flex-col just-center items-center space-y-2  text-center ">
             <h2 class="text-[36px] font-title font-bold mb-4 text-accent">Menu</h2>
             <ul class="space-y-4 text-[20px] ">
