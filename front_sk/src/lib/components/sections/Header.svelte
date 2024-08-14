@@ -4,7 +4,7 @@
     import menuIcon from '$lib/assets/menu.svg';
     import crossIcon from '$lib/assets/cross.svg';
 
-    let toggle = true;
+    let toggle = false;
 </script>
 
 <nav class="flex flex-row justify-between lg:justify-center items-center w-full py-10">
