@@ -3,13 +3,16 @@
     import Title from '$lib/components/sections/Title.svelte';
     import Footer from '$lib/components/sections/Footer.svelte';
     import Schedule from '$lib/components/sections/Schedule.svelte';
+    import Aed from '$lib/components/sections/AED.svelte';
 </script>
 
 <div class="flex flex-col items-center ">
     <Header />
     <Title />
-    <div class="h-[500px]"></div>
+    <div class="h-[200px]"></div>
     <Schedule />
-    <div class="h-[500px]"></div>
+    <div class="h-[200px]"></div>
+    <Aed />
+    <div class="h-[200px]"></div>
     <Footer />
 </div>

@@ -11,7 +11,7 @@
     <a href="/" class=" flex justify-center items-center lg:basis-1/4 pl-9 lg:pl-0"><img src={logo} class="h-20 lg:h-[113px] lg:w-[160px] " alt="logo" /></a>
 
     <div class="flex items-center justify-center">
-        <ul class=" hidden lg:flex flex-row space-x-16 px-10 py-2.5 rounded-full font-title font-semibold  bg-dark text-terc text-[16px]">
+        <ul class=" hidden lg:flex flex-row space-x-12 px-10 py-2.5 rounded-full font-title font-semibold  bg-dark text-terc text-[16px]">
             <li class="hover:text-accent group relative ">
                 <a href="/">Home</a>
                 <span class="absolute -bottom-1 left-1/2 w-0 transition-all h-0.5 bg-accent group-hover:w-3/6"></span>
