@@ -15,7 +15,7 @@
         <li class="hover:-translate-y-1  transform transition duration-200 ease-in-out"><a href="https://x.com/datastudents" target="_blank"><img src={x} alt="x logo"/></a></li>
         <li class="hover:-translate-y-1 transform transition duration-200 ease-in-out"><a href="https://www.youtube.com/@datastudents" target="_blank"><img src={youtube} alt="youtube logo"/></a></li>
         <li class="hover:-translate-y-1  transform transition duration-200 ease-in-out"><a href="https://www.instagram.com/datastudents" target="_blank"><img src={instagram} alt="instagram logo"/></a></li>
-        <li class="hover:-translate-y-1 transform transition duration-200 ease-in-out"><a href="https://www.tiktok.com/@datastudents" target="_blank"><img src={tiktok} alt="tiktok logo"/></a></li>
+        <li class="hover:-translate-y-1  transform transition duration-200 ease-in-out"><a href="https://www.tiktok.com/@datastudents" target="_blank"><img src={tiktok} alt="tiktok logo"/></a></li>
     </ul>
     <ul class="text-terc font-body text-[13px] sm:text-[16px] flex flex-row space-x-2 pt-6 text-center">
         <li>© 2024</li>
