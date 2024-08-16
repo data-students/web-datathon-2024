@@ -12,7 +12,7 @@
       <div class="flex flex-col items-center lg:items-start max-w-sm">
         <h2 class="font-title font-bold text-[36px] md:text-[48px] text-dark">About us</h2>
         <p class="text-secondary font-body mb-6 text-justify text-[16px] p-6 sm:p-0">
-          We are the Data Students' Association! We are organizing the third edition of this datathon, jointly with FME. Among our goals, we aim to promote data science within UPC. If you are studying <a href="#" class="text-blue-500 underline">Data Science & Engineering</a>, you should definitely join us!
+          We are the Data Students' Association! We are organizing the third edition of this datathon, jointly with FME. Among our goals, we aim to promote data science within UPC. If you are studying <a href="https://dse.upc.edu/" target="_blank" class="text-accent underline">Data Science & Engineering</a>, you should definitely join us!
         </p>
         <a href="https://aed.cat/" target="_blank">
           <Button outline>Learn More</Button>
