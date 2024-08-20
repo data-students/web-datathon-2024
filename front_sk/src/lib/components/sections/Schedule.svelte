@@ -4,3 +4,4 @@
             <h2 class="font-title font-bold  text-[36px] md:text-[48px] text-terc text-center">COMING SOON...</h2>
     </div>
 </div>
+
