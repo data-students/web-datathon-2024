@@ -1,0 +1,56 @@
+{
+  "faqs": [
+    {
+      "section_title": "General Information",
+      "questions": [
+        {
+          "question": "What is the purpose of this website?",
+          "answer": "This website aims to provide users with information and services related to [Your Service/Product]."
+        },
+        {
+          "question": "How can I contact customer support?",
+          "answer": "You can contact customer support via email at support@example.com or by calling +1-234-567-890."
+        }
+      ]
+    },
+    {
+      "section_title": "Account Management",
+      "questions": [
+        {
+          "question": "How do I create an account?",
+          "answer": "To create an account, click on the 'Sign Up' button and follow the instructions provided."
+        },
+        {
+          "question": "I forgot my password. How do I reset it?",
+          "answer": "Click on the 'Forgot Password' link on the login page, and enter your email address. We'll send you instructions to reset your password."
+        }
+      ]
+    },
+    {
+      "section_title": "Billing and Payments",
+      "questions": [
+        {
+          "question": "What payment methods are accepted?",
+          "answer": "We accept Visa, MasterCard, PayPal, and bank transfers."
+        },
+        {
+          "question": "How do I view my billing history?",
+          "answer": "You can view your billing history by logging into your account and navigating to the 'Billing' section."
+        }
+      ]
+    },
+    {
+      "section_title": "Technical Support",
+      "questions": [
+        {
+          "question": "How do I report a technical issue?",
+          "answer": "You can report technical issues by contacting our support team through the 'Contact Us' page."
+        },
+        {
+          "question": "Which browsers are supported?",
+          "answer": "Our website supports the latest versions of Chrome, Firefox, Safari, and Edge."
+        }
+      ]
+    }
+  ]
+}
