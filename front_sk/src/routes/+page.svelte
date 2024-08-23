@@ -12,11 +12,8 @@
     <Header />
     <Title />
     <About/>
-    <div class="h-[200px]"></div>
     <Schedule />
-    <div class="h-[200px]"></div>
     <Aed />
-    <div class="h-[200px]"></div>
     <Faqs />
     <Footer />
 </div>

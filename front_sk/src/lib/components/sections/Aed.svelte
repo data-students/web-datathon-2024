@@ -4,10 +4,11 @@
   import blackLogo from '$lib/assets/blackLogo.png';
 </script>
 
-<div class="flex w-full justify-center items-center">
-  <div class="flex flex-col lg:grid lg:grid-cols-2 gap-20 lg:gap-16 items-start">
+<div class="flex justify-center items-center w-full mt-52">
+  <!-- <div class="flex flex-col lg:grid lg:grid-cols-2 gap-20 lg:gap-26 items-start"> -->
+  <div class="flex flex-col gap-24 lg:gap-0 lg:flex-row w-full lg:justify-evenly">
 
-    <section class="flex flex-col lg:flex-row items-center text-center lg:text-left w-full mb-8 lg:mb-0">
+    <section class="flex flex-col lg:flex-row items-center text-center lg:text-left mb-8 lg:mb-0">
       <img src={aedLogo} alt="About us icon" class="mb-4 lg:mb-0 lg:mr-6 h-auto w-24" />
       <div class="flex flex-col items-center lg:items-start max-w-sm">
         <h2 class="font-title font-bold text-[36px] md:text-[48px] text-dark">About us</h2>
@@ -20,7 +21,7 @@
       </div>
     </section>
 
-    <section class="flex flex-col lg:flex-row items-center text-center lg:text-left w-full">
+    <section class="flex flex-col lg:flex-row items-center text-center lg:text-left ">
       <img src={blackLogo} alt="Join the event icon" class="mb-4 lg:mb-0 lg:mr-6 h-auto w-24" />
       <div class="flex flex-col items-center lg:items-start max-w-sm">
         <h2 class="font-title font-bold text-[36px] md:text-[48px] text-dark">Join the event!</h2>

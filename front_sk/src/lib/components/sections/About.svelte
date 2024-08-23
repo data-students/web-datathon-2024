@@ -35,7 +35,7 @@
 
            <div class="flex flex-col items-start space-y-2 lg:w-1/3">
             <img src={user} class="h-16 w-auto" alt="location icon"/>
-            <h3 class="font-title font-bold text-[28px] md:text-[32px] text-dark">Who ?</h3>
+            <h3 class="font-title font-bold text-[28px] md:text-[32px] text-dark">Who?</h3>
             <p class="font-body text-secondary text-justify text-[14px] md:text-[16px]">Our event will take place in UPC's School of Mathematics and Statistics, located in C/ Pau Gargallo 14, Barcelona. You can find a map here!
               You will have access to classrooms to work with your own laptop. We will provide you Wi-Fi and food.
             </p>

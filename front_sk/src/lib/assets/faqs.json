@@ -1,54 +1,110 @@
 {
   "faqs": [
     {
-      "section_title": "General Information",
+      "section_title": "About the event",
       "questions": [
         {
-          "question": "What is the purpose of this website?",
-          "answer": "This website aims to provide users with information and services related to [Your Service/Product]."
+          "question": "Can I participate online?",
+          "answer": "Yes, as long as there are 3 team members present in person."
         },
         {
-          "question": "How can I contact customer support?",
-          "answer": "You can contact customer support via email at support@example.com or by calling +1-234-567-890."
+          "question": "What happens if in the end I can't attend?",
+          "answer": "You can let us know by sending an email to inscripcions.datathon@aed.cat."
+        },
+        {
+          "question": "Can I leave the faculty during the competition?",
+          "answer": "Of course! You are free to come and go as you please."
+        },
+        {
+          "question": "Can I stay overnight?",
+          "answer": "Yes. We provide rooms for your rest. We recommend bringing a sleeping bag and a mat."
+        },
+        {
+          "question": "Do I need to bring food?",
+          "answer": "We will provide breakfast, lunch, and dinner on Saturday, as well as breakfast and lunch on Sunday. You can bring your own snacks."
+        },
+        {
+          "question": "What if I have specific dietary requirements (vegetarian, vegan, no pork, celiac, etc.)?",
+          "answer": "Don't worry! Indicate it during registration, and we will provide meals suitable for you."
+        },
+        {
+          "question": "Can I connect to the internet?",
+          "answer": ""
+        },
+        {
+          "question": "What happens if I arrive late?",
+          "answer": "If you arrive before X o'clock, we will be in the Auditorium of X. If you arrive later, you will need to go to X. In any case, you will need to notify an organizer of your arrival."
+        },
+        {
+          "question": "Is furry dress allowed to sleep and night coding?",
+          "answer": ""
+        },
+        {
+          "question": "Is there parking available?",
+          "answer": ""
+        },
+        {
+          "question": "Can I reuse code?",
+          "answer": ""
+        },
+        {
+          "question": "What prizes will there be?",
+          "answer": ""
+        },
+        {
+          "question": "How can I know if I am a rookie?",
+          "answer": ""
         }
       ]
     },
     {
-      "section_title": "Account Management",
+      "section_title": "About the registration",
       "questions": [
         {
-          "question": "How do I create an account?",
-          "answer": "To create an account, click on the 'Sign Up' button and follow the instructions provided."
+          "question": "What happens if I made a mistake with the attached file?",
+          "answer": ""
         },
         {
-          "question": "I forgot my password. How do I reset it?",
-          "answer": "Click on the 'Forgot Password' link on the login page, and enter your email address. We'll send you instructions to reset your password."
+          "question": "What happens if I registered without a team, but now I have one?",
+          "answer": "If we decide to use forms, notify an organizer. If we decide on web registration, you can change it yourself."
+        },
+        {
+          "question": "How should the CV be if I have little experience?",
+          "answer": ""
+        },
+        {
+          "question": "What happens if I don't have a team?",
+          "answer": ""
+        },
+        {
+          "question": "Until what day can I register?",
+          "answer": ""
         }
       ]
     },
     {
-      "section_title": "Billing and Payments",
+      "section_title": "About volunteering",
       "questions": [
         {
-          "question": "What payment methods are accepted?",
-          "answer": "We accept Visa, MasterCard, PayPal, and bank transfers."
+          "question": "Can I be a volunteer if I am a participant?",
+          "answer": "No, you cannot. We need fully involved volunteers."
         },
         {
-          "question": "How do I view my billing history?",
-          "answer": "You can view your billing history by logging into your account and navigating to the 'Billing' section."
+          "question": "What tasks would I need to do?",
+          "answer": "You can choose one or more of the following options: Pre-event organization, Mentor, Logistics during the event."
         }
       ]
     },
     {
-      "section_title": "Technical Support",
+      "section_title": "About sponsoring",
       "questions": [
         {
-          "question": "How do I report a technical issue?",
-          "answer": "You can report technical issues by contacting our support team through the 'Contact Us' page."
+          "question": "I am interested in being a sponsor for the Datathon. What should I do?",
+          "answer": "Send us an email to Datathon FME, and we will help you find a sponsorship that fits your company's needs."
         },
         {
-          "question": "Which browsers are supported?",
-          "answer": "Our website supports the latest versions of Chrome, Firefox, Safari, and Edge."
+          "question": "What should I know about previous editions?",
+          "answer": "(We'll showcase a bit)"
         }
       ]
     }
