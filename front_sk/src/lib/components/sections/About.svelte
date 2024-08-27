@@ -50,3 +50,35 @@
       <iframe class="w-[70%] h-[30vh] sm:h-[50vh] lg:h-[70vh] pt-10" src="https://www.youtube.com/embed/5PUtT34NhrI?si=vmb4dj6mWIEaoNfW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 </div>
+
+
+<div class="custom-shape-divider-top-1724412405">
+    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path d="M1200 120L0 16.48 0 0 1200 0 1200 120z" class="shape-fill"></path>
+    </svg>
+</div>
+
+<style>
+
+.custom-shape-divider-top-1724412405 {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1724412405 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 79px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1724412405 .shape-fill {
+    fill: #27272A;
+}
+
+</style>
