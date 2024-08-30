@@ -6,6 +6,7 @@
     import Aed from '$lib/components/sections/Aed.svelte';
     import About from '$lib/components/sections/About.svelte'
     import Faqs from '$lib/components/sections/Faqs.svelte';
+    import Scroll from '$lib/components/Scroll.svelte';
 </script>
 
 <div class="flex flex-col items-center ">
@@ -16,4 +17,5 @@
     <Aed />
     <Faqs />
     <Footer />
+    <Scroll />
 </div>
