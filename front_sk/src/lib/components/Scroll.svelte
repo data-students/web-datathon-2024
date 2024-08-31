@@ -19,7 +19,7 @@
 
 <button 
     on:click={scrollToTop}
-    class="fixed center bottom-5 md:bottom-8 md:right-8 w-12 h-12 bg-accent hover:bg-accent/70 text-white rounded-full flex items-center justify-center shadow-lg transition-opacity duration-500"
+    class="fixed center bottom-5 md:top-8 md:right-8 w-12 h-12 bg-accent hover:bg-accent/70 text-white rounded-full flex items-center justify-center shadow-lg transition-opacity duration-500"
     class:opacity-0={!showButton}
     class:opacity-100={showButton}
 >
