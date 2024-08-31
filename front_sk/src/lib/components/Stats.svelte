@@ -57,7 +57,7 @@
    
 
     <Card
-        className=" z-50 lg:mt-60 mt-20 w-[250px] sm:w-[330px] h-[200px] bg-accent p-[30px] justify-center"
+        className=" z-40 lg:mt-60 mt-20 w-[250px] sm:w-[330px] h-[200px] bg-accent p-[30px] justify-center"
     >
         <div class="">
             <p class="text-terc font-title text-[44px] font-bold text-center">
