@@ -5,7 +5,7 @@
     import Card from "$lib/components/Card.svelte";
 </script>
 
-<div class=" w-full flex flex-col items-center pb-40 mt-52">
+<div id="faqs" class=" w-full flex flex-col items-center pb-40 mt-52">
     <h2 class="font-title font-bold md:text-[48px] text-[36px] mb-10  text-dark text-center">FAQs</h2>
 
     {#each faqs as section}

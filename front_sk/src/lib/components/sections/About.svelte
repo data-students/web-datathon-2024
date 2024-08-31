@@ -7,7 +7,7 @@
   import user from "$lib/assets/user.svg";
 
 </script>
-<div class="bg-dark w-full flex flex-col justify-center items-center py-64 space-y-44 ">
+<div id="about" class="bg-dark w-full flex flex-col justify-center items-center py-52 space-y-44 ">
      <Card className="w-[90%] md:w-[70%]  bg-terc flex flex-col  p-12">
         <h2 class="text-dark font-title md:text-[48px] text-[35px]  font-bold w-full ">What's the datathon?</h2> 
         <div class=" w-full flex flex-row space-x-6 pt-2">

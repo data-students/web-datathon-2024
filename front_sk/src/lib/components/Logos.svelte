@@ -4,75 +4,34 @@
     import upc from '$lib/assets/upcLogo.png';
     import fme from '$lib/assets/fmeLogo.jpeg';
     import aed from '$lib/assets/aedLogo2.png';
-
 </script>
 
-
-<div class="w-[70%] flex  justify-items-center overflow-hidden opacity-90 ">
-<div class="logos w-full inline-flex flex-nowrap">
-    <ul class="logos-slide flex items-center justify-center md:justify-start [&_li]:mx-8 [&_img]:max-w-none animate-infinite-scroll">
+<div class="w-full opacity-80">
+    <ul class="flex flex-wrap items-center justify-center [&_li]:mx-8 [&_li]:my-4 ">
         <li>
-            <img src={restb} alt="restb logo" class="h-16 w-auto" />
+            <a href="https://restb.ai/" target="_blank" aria-label="restb logo">
+                <img src={restb} alt="restb logo" class="h-16 w-auto sm:h-12 md:h-14 lg:h-16" />
+            </a>
         </li>
         <li>
-            <img src={schneider} alt="schneider electric logo" class="h-16 w-auto"/>
+            <a href="https://www.se.com/" target="_blank" aria-label="schneider electric logo">
+                <img src={schneider} alt="schneider electric logo" class="h-16 w-auto sm:h-12 md:h-14 lg:h-16"/>
+            </a>
         </li>
         <li>
-            <img src={upc} alt="upc logo" class="h-16 w-auto" />
+            <a href="https://www.upc.edu/" target="_blank" aria-label="upc logo">
+                <img src={upc} alt="upc logo" class="h-16 w-auto object-contain sm:h-12 md:h-14 lg:h-16" />
+            </a>
         </li>
         <li>
-            <img src={aed} alt="aed logo" class="h-16 w-auto"/>
+            <a href="https://aed.cat/" target="_blank" aria-label="aed logo">
+                <img src={aed} alt="aed logo" class="h-16 w-auto sm:h-12 md:h-14 lg:h-16"/>
+            </a>
         </li>
         <li>
-            <img src={fme} alt="fme logo" class="h-16 w-auto"/>
+            <a href="https://fme.upc.edu/es" target="_blank" aria-label="fme logo">
+                <img src={fme} alt="fme logo" class="h-16 object-contain sm:h-12 md:h-14 lg:h-16"/>
+            </a>
         </li>
-        
     </ul>                
-    <ul class="logos-slide flex items-center justify-center md:justify-start [&_li]:mx-8 [&_img]:max-w-none animate-infinite-scroll" aria-hidden="true">
-        <li>
-            <img src={restb} alt="restb logo" class="h-16 w-auto" />
-        </li>
-        <li>
-            <img src={schneider} alt="schneider electric logo" class="h-16 w-auto"/>
-        </li>
-        <li>
-            <img src={upc} alt="upc logo" class="h-16 w-auto" />
-        </li>
-        <li>
-            <img src={aed} alt="aed logo" class="h-16 w-auto"/>
-        </li>
-        <li>
-            <img src={fme} alt="fme logo" class="h-16 w-auto"/>
-        </li>
-    </ul>          
 </div>
-</div>
-
-<style>
-    .logos {
-    overflow: hidden;
-    white-space: nowrap;
-    position: relative;
-    }
-    .logos:before,
-    .logos:after {
-    position: absolute;
-    top: 0;
-    width: 50px;
-    height: 100%;
-    content: "";
-    z-index: 2;
-    }
-    .logos:before {
-    left: 0;
-    background: linear-gradient(to left, rgba(255, 255, 255, 0), white);
-    }
-
-    .logos:after {
-    right: 0;
-    background: linear-gradient(to right, rgba(255, 255, 255, 0), white);
-    }
-    .logos:hover .logos-slide{
-        animation-play-state: paused;
-    }
-</style>
