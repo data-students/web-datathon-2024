@@ -4,12 +4,40 @@
       "section_title": "About the event",
       "questions": [
         {
-          "question": "Can I participate online?",
-          "answer": "Yes, as long as there are 3 team members present in person."
+          "question": "What is a Datathon?",
+          "answer": "A datathon is a team-based competition where participants solve real-world problems using machine learning (ML) and data science techniques. It's a great opportunity to collaborate, learn, and apply your data skills in a practical setting."
         },
         {
-          "question": "What happens if in the end I can't attend?",
-          "answer": "You can let us know by sending an email to inscripcions.datathon@aed.cat."
+          "question": "When does the Datathon FME take place?",
+          "answer": "Datathon FME will be held on November 16th and 17th."
+        },
+        {
+          "question": "I don't have a lot of programming experience. Would you recommend me to participate?",
+          "answer": "Absolutely! Datathon FME is a great opportunity to learn and grow, regardless of your experience level. We have mentors available to guide and support you throughout the event."
+        },
+        {
+          "question": "What is the price of the event?",
+          "answer": "Participation at Datathon FME is completely FREE!"
+        },
+        {
+          "question": "What should I bring?",
+          "answer": "Please bring your laptop, charger, and a valid ID. We also recommend bringing toiletries, a sleeping bag, and a mat for overnight stays. "
+        },
+        {
+          "question": "Can I connect to the internet?",
+          "answer": "Of course! We will provide you with free Wifi."
+        },
+        {
+          "question": "Do I need to bring food?",
+          "answer": "We will provide breakfast, lunch, and dinner on Saturday, as well as breakfast and lunch on Sunday. You can bring your own snacks."
+        },
+        {
+          "question": "What if I have specific dietary requirements?",
+          "answer": "Don't worry! Indicate it during registration, and we will provide meals suitable for you."
+        },
+        {
+          "question": "Datathon FME is in-person?",
+          "answer": "Yes, Datathon FME is an in-person event. This format provides a fantastic opportunity to connect face-to-face with mentors, fellow participants, and industry professionals. You can engage in networking, exchange ideas, and build valuable relationships that could benefit your career and learning journey."
         },
         {
           "question": "Can I leave the faculty during the competition?",
@@ -20,40 +48,24 @@
           "answer": "Yes. We provide rooms for your rest. We recommend bringing a sleeping bag and a mat."
         },
         {
-          "question": "Do I need to bring food?",
-          "answer": "We will provide breakfast, lunch, and dinner on Saturday, as well as breakfast and lunch on Sunday. You can bring your own snacks."
-        },
-        {
-          "question": "What if I have specific dietary requirements (vegetarian, vegan, no pork, celiac, etc.)?",
-          "answer": "Don't worry! Indicate it during registration, and we will provide meals suitable for you."
-        },
-        {
-          "question": "Can I connect to the internet?",
-          "answer": ""
-        },
-        {
           "question": "What happens if I arrive late?",
-          "answer": "If you arrive before X o'clock, we will be in the Auditorium of X. If you arrive later, you will need to go to X. In any case, you will need to notify an organizer of your arrival."
+          "answer": "f you arrive before [TBC time], head to [TBC location]. If you arrive later, head directly to the School of Mathematics and Statistics. In both cases, please notify an organizer upon your arrival."
         },
         {
-          "question": "Is furry dress allowed to sleep and night coding?",
-          "answer": ""
+          "question": "What happens if finally I can't attend?",
+          "answer": "If you can't attend, please let us know by sending an email to registrations.datathon@aed.cat. This way, we can offer your spot to someone else."
         },
         {
-          "question": "Is there parking available?",
-          "answer": ""
+          "question": "Do you offer travel reimbursement?",
+          "answer": "We are afraid we cannot cover your travel costs."
         },
         {
-          "question": "Can I reuse code?",
-          "answer": ""
+          "question": "What prizes will be there?",
+          "answer": "There will be a prize for each challenge and an additional special prize for rookies, which is aimed at first or second-year university students or high school participants."
         },
         {
-          "question": "What prizes will there be?",
-          "answer": ""
-        },
-        {
-          "question": "How can I know if I am a rookie?",
-          "answer": ""
+          "question": "My participation will be officially recognized?",
+          "answer": "Upon presentation of their projects, UPC students can earn 1 ECTS. Furthermore, those who request it can obtain an attendance certificate."
         }
       ]
     },
@@ -61,37 +73,50 @@
       "section_title": "About the registration",
       "questions": [
         {
-          "question": "What happens if I made a mistake with the attached file?",
-          "answer": ""
-        },
-        {
-          "question": "What happens if I registered without a team, but now I have one?",
-          "answer": "If we decide to use forms, notify an organizer. If we decide on web registration, you can change it yourself."
-        },
-        {
-          "question": "How should the CV be if I have little experience?",
-          "answer": ""
-        },
-        {
-          "question": "What happens if I don't have a team?",
+          "question": "Who can participate?",
           "answer": ""
         },
         {
           "question": "Until what day can I register?",
+          "answer": "The registration deadline is [TBC]. Make sure to sign up before this date to secure your participation."
+
+        }
+      ]
+    },
+
+    {
+      "section_title": "About the teams",
+      "questions": [
+        {
+          "question": "What is the maximum team size?",
+          "answer": "Teams up to 4 members are allowed."
+        },
+        {
+          "question": "What if I don't have a team?",
+          "answer": "No worries! You can register as an individual, and we will help you form a team with other participants who are also looking for teammates."
+        },
+
+        {
+          "question": "What happens if I registered without a team, but now I have one?",
           "answer": ""
         }
       ]
     },
+  
     {
       "section_title": "About volunteering",
       "questions": [
         {
-          "question": "Can I be a volunteer if I am a participant?",
-          "answer": "No, you cannot. We need fully involved volunteers."
+          "question": "Can I be a volunteer if I am also a participant?",
+          "answer": "We are afraid that's not possible."
         },
         {
-          "question": "What tasks would I need to do?",
-          "answer": "You can choose one or more of the following options: Pre-event organization, Mentor, Logistics during the event."
+          "question": "What tasks would I do as a volunteer?",
+          "answer": "You can choose to assist in one or more areas: Pre-event organization, Mentoring and Event Logistics. We would highly appreciate your contribution to the event!"
+        },
+        {
+          "question": "Is there any recognition?",
+          "answer": "If you are a UPC student, you will earn 1 ECTS for volunteering."
         }
       ]
     },
@@ -99,12 +124,8 @@
       "section_title": "About sponsoring",
       "questions": [
         {
-          "question": "I am interested in being a sponsor for the Datathon. What should I do?",
-          "answer": "Send us an email to Datathon FME, and we will help you find a sponsorship that fits your company's needs."
-        },
-        {
-          "question": "What should I know about previous editions?",
-          "answer": "(We'll showcase a bit)"
+          "question": "I am interested in being a sponsor at Datathon FME. What should I do?",
+          "answer": "Send us an email to sponsors.datathon@aed.cat, and we will help you find a sponsorship that fits your needs."
         }
       ]
     }
