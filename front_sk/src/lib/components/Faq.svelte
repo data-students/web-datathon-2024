@@ -46,11 +46,11 @@
 
 <li>
   <button on:click={() => toggle = !toggle} class="flex flex-row justify-between w-full text-left items-center">
-    <h5 class="text-dark font-title text-[20px] font-bold pr-4">{question.question}</h5>
+    <h5 class="text-dark font-title text-[18px] md:text-[20px] font-bold pr-4">{question.question}</h5>
     <div class="text-accent font-title text-[36px] p-0 m-0 icon-container {toggle ? 'toggle' : ''}">
         <div class=" plusminus {toggle ? "active" : ''}"></div>
     </div>
   </button>
   <div class="w-full bg-accent h-[2px] rounded-full mt-1"></div>
-  <p class={`text-dark font-body text-[16px] mt-1 ${toggle ? "block" : "hidden"}`}>{question.answer}</p>
+  <p class={`text-dark font-body text-[14px] md:text-[17px] mt-1 ${toggle ? "block" : "hidden"}`}>{question.answer}</p>
 </li>
