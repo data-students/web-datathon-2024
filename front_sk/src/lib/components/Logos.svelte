@@ -1,6 +1,6 @@
 <script>
-    import restb from '$lib/assets/restbLogo.svg';
-    import schneider from '$lib/assets/schneiderLogo.svg';
+    import restb from '$lib/assets/sponsors/restbLogo.svg';
+    import schneider from '$lib/assets/sponsors/schneiderLogo.svg';
     import fme from '$lib/assets/fmeLogo.png';
     import aed from '$lib/assets/aedLogo2.png';
 </script>

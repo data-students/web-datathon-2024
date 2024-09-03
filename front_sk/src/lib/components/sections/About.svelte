@@ -2,9 +2,9 @@
   import Card from "$lib/components/Card.svelte";
   import Button from "$lib/components/Button.svelte";
 
-  import location from "$lib/assets/location.svg";
-  import time from "$lib/assets/time.svg";
-  import user from "$lib/assets/user.svg";
+  import location from "$lib/assets/info-icons/location.svg";
+  import time from "$lib/assets/info-icons/time.svg";
+  import user from "$lib/assets/info-icons/user.svg";
 
 </script>
 <div id="about" class="bg-dark w-full flex flex-col justify-center items-center py-52 space-y-44 ">
