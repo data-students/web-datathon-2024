@@ -15,7 +15,7 @@
                 </a>
             </li>
             <li>
-                <a href="https://www.se.com/" target="_blank" aria-label="schneider electric logo">
+                <a href="https://www.se.com/es/es/" target="_blank" aria-label="schneider electric logo">
                     <img src={schneider} alt="schneider electric logo" class="h-16 w-auto sm:h-12 md:h-14 lg:h-16"/>
                 </a>
             </li>
@@ -32,7 +32,7 @@
                 </a>
             </li>
             <li>
-                <a href="https://fme.upc.edu/es" target="_blank" aria-label="fme logo">
+                <a href="https://fme.upc.edu/ca" target="_blank" aria-label="fme logo">
                     <img src={fme} alt="fme logo" class="h-16 object-contain sm:h-12 md:h-14 lg:h-16"/>
                 </a>
             </li>
