@@ -20,24 +20,21 @@
           <div class="flex flex-col items-start space-y-2 lg:w-1/3">
             <img src={location} class="h-16 w-auto" alt="location icon"/>
             <h3 class="font-title font-bold text-[28px] md:text-[32px] text-dark">Where?</h3>
-            <p class="font-body text-black/75 text-justify text-[14px] md:text-[17px]">Our event will take place in UPC's School of Mathematics and Statistics, located in C/ Pau Gargallo 14, Barcelona. You can find a map here!
-              You will have access to classrooms to work with your own laptop. We will provide you Wi-Fi and food.
+            <p class="font-body text-black/75 text-justify text-[14px] md:text-[17px]">Our event will take place in UPC's School of Mathematics and Statistics, located in C/ Pau Gargallo 14, Barcelona.
             </p>
           </div>
 
            <div class="flex flex-col flex-wrap items-start space-y-2 lg:w-1/3">
             <img src={time} class="h-16 w-auto" alt="location icon"/>
             <h3 class="font-title font-bold text-[28px] md:text-[32px]  text-dark">When?</h3>
-            <p class="font-body text-black/75 text-justify  text-[14px] md:text-[17px]">Our event will take place in UPC's School of Mathematics and Statistics, located in C/ Pau Gargallo 14, Barcelona. You can find a map here!
-              You will have access to classrooms to work with your own laptop. We will provide you Wi-Fi and food.
+            <p class="font-body text-black/75 text-justify  text-[14px] md:text-[17px]"> The fourth edition of Datathon FME will take place on <b> November 16 and 17 </b>.
             </p>
           </div>
 
            <div class="flex flex-col items-start space-y-2 lg:w-1/3">
             <img src={user} class="h-16 w-auto" alt="location icon"/>
             <h3 class="font-title font-bold text-[28px] md:text-[32px] text-dark">Who?</h3>
-            <p class="font-body text-black/75 text-justify text-[14px] md:text-[17px]">Our event will take place in UPC's School of Mathematics and Statistics, located in C/ Pau Gargallo 14, Barcelona. You can find a map here!
-              You will have access to classrooms to work with your own laptop. We will provide you Wi-Fi and food.
+            <p class="font-body text-black/75 text-justify text-[14px] md:text-[17px]"> Data enthusiasts currently enrolled at university or recent graduates are welcome!
             </p>
           </div>
 
