@@ -1,11 +1,11 @@
 <script>
     import Button from '$lib/components/Button.svelte';
     import logo from '$lib/assets/whiteLogo.png';
-    import linkedin from '$lib/assets/linkedin.svg';
-    import x from '$lib/assets/x.svg';
-    import youtube from '$lib/assets/youtube.svg';
-    import instagram from '$lib/assets/instagram.svg';
-    import tiktok from '$lib/assets/tiktok.svg';
+    import linkedin from '$lib/assets/social-media/linkedin.svg';
+    import x from '$lib/assets/social-media/x.svg';
+    import youtube from '$lib/assets/social-media/youtube.svg';
+    import instagram from '$lib/assets/social-media/instagram.svg';
+    import tiktok from '$lib/assets/social-media/tiktok.svg';
 </script>
 
 <footer class="bg-dark w-full h-70 flex flex-col justify-center items-start md:items-center p-10">
