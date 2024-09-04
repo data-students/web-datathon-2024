@@ -12,10 +12,9 @@
 
 
 :root {
-    /* --font-title: "Open Sans", sans-serif; */
-    --font-title: "Poppins", sans-serif;
-    /* --font-title: "Sora", sans-serif; */
-    /* --font-title: "Space Grotesk", sans-serif; */
+    --font-title: "Open Sans", sans-serif;
+    /*--font-title: "Poppins", sans-serif;*/
+    /*--font-title: "Space Grotesk", sans-serif;*/
 
     --font-body: "Montserrat", sans-serif;
 }
