@@ -9,7 +9,7 @@
 </script>
 <div id="about" class="bg-dark w-full flex flex-col justify-center items-center py-52 space-y-44 ">
      <Card className="w-[90%] xl:w-[70%]  bg-terc flex flex-col p-12">
-        <h2 class="text-dark font-title md:text-[48px] text-[35px]  font-bold w-full ">What's the datathon?</h2> 
+        <h2 class="text-dark font-title md:text-[48px] text-[35px]  font-bold w-full ">What is Datathon FME?</h2> 
         <div class=" w-full flex flex-row space-x-6 pt-2">
             <p class="w-full lg:w-[80%] font-body text-black/75 text-justify  text-[14px] md:text-[17px]"> The datathon is a weekend-long competition where you are challenged to solve real-world problems using machine learning, AI and data science techniques in groups of maximum 4 people. We'll present <span class="text-red-500">n</span> challenges, and you'll have to  choose one. Typically, you'll be asked to find solutions to specific  problems using some datasets. Apart from this, there will be  non-mandatory workshops and activities to get relaxed and meet new  people!</p>
           <div class="hidden lg:flex items-center justify-center w-1/4">
