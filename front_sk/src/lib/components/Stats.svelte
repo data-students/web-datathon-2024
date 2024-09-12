@@ -41,43 +41,66 @@
     }
 </script>
 
-<div class="mt-32 flex flex-col lg:flex-row lg:-space-x-10 " use:handleIntersect>
-        <Card
-        className="mt-20  w-[250px] sm:w-[330px] h-[200px] bg-terc p-[30px] justify-center"
-    >
-        <div class="">
-            <p class="text-accent font-title text-[64px] font-bold">
-                {$animatedMoney}€
-            </p>
-            <p class="text-dark font-title font-bold text-[22px] text-center">
-                IN PRIZES
-            </p>
+<div class="mt-32 " use:handleIntersect>
+     <div class="parent ">
+        <div class="div1 -z-10">
+            <Card className=" w-[250px] sm:w-[330px] h-[200px] bg-terc p-[30px] justify-center">
+                <div class="">
+                    <p class="text-accent font-title text-[64px] font-bold">
+                        {$animatedMoney}€
+                    </p>
+                    <p class="text-dark font-title font-bold text-[22px] text-center">
+                        IN PRIZES
+                    </p>
+                </div>
+            </Card>
         </div>
-    </Card>
-   
-
-    <Card
-        className=" z-40 lg:mt-60 mt-20 w-[250px] sm:w-[330px] h-[200px] bg-accent p-[30px] justify-center"
-    >
-        <div class="">
-            <p class="text-terc font-title text-[44px] font-bold text-center">
-                It's <span class="text-dark font-extrabold a">FREE</span> to join!
-            </p>
+        <div class="div2 z-20">
+            <Card className="w-[250px] sm:w-[330px] h-[200px] bg-accent p-[30px] justify-center">
+                <div class="">
+                    <p class="text-terc font-title text-[44px] font-bold text-center">
+                        It's <span class="text-dark font-extrabold a">FREE</span> to join!
+                    </p>
+                </div>
+            </Card>
         </div>
-    </Card>
-     <Card
-        className="mt-20 w-[250px] sm:w-[336px] h-[200px] bg-dark p-[30px]  justify-start"
-    >
-        <div class="">
-            <p class="text-terc font-title text-[64px] font-bold">
-                +{$animatedParticipants}
-            </p>
-            <p
-                class="text-terc font-title font-bold text-[22px] absolute bottom-0/2 right-1 pr-8 -my-4"
-            >
-                PARTICIPANTS
-            </p>
+        <div class="div3 ">
+            <Card className="-z-10 w-[250px] sm:w-[336px] h-[200px] bg-dark p-[30px]  justify-start">
+                <div class="">
+                    <p class="text-terc font-title text-[64px] font-bold">
+                        +{$animatedParticipants}
+                    </p>
+                    <p class="text-terc font-title font-bold text-[22px] absolute bottom-0/2 right-1 pr-8 -my-4">
+                        PARTICIPANTS
+                    </p>
+                </div>
+            </Card>
         </div>
-    </Card>
-
+    </div> 
 </div>
+
+<style>
+   
+    .parent {
+        display: grid;
+        grid-template-columns: repeat(13, 1fr);
+        grid-template-rows: repeat(5, 1fr);
+        grid-column-gap: 10px;
+        grid-row-gap: 0px;
+    }
+
+    .div1 { grid-area: 1 / 1 / 4 / 6; }
+    .div2 { grid-area: 3 / 5 / 6 / 10; }
+    .div3 { grid-area: 1 / 9 / 4 / 14; }
+
+     @media (max-width: 1000px) {
+        .parent {
+            display: block;
+        }
+        .div1, .div2, .div3 {
+            margin-bottom: 3rem;
+        }
+    }
+
+
+</style>
