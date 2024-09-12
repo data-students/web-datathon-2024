@@ -20,11 +20,11 @@
     <ul class="text-terc font-body text-[13px] sm:text-[16px] flex flex-row space-x-2 pt-6 text-center">
         <li>© 2024</li>
         <li >·</li>
-        <li><a href="/" class="underline hover:text-white">Legal notice</a></li>
+        <li><a href="/legal" target="_blank" class="underline hover:text-white">Legal notice</a></li>
         <li>·</li>
-        <li><a href="/" class="underline hover:text-white">Terms & conditions</a></li>
+        <li><a href="/terms" target="_blank" class="underline hover:text-white">Terms & conditions</a></li>
         <li>·</li>
-        <li><a href="/" class="underline hover:text-white">Privacy policy</a></li>
+        <li><a href="/privacy" target="_blank" class="underline hover:text-white">Privacy policy</a></li>
     </ul>
 
 </footer>
