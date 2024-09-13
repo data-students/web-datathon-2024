@@ -5,9 +5,9 @@
     import aed from '$lib/assets/aedLogo2.png';
 </script>
 
-<div class="space-y-20">
+<div class="py-10">
     <div class="w-full ">
-        <h6 class="text-secondary/40 font-title text-center font-bold">SPONSORED BY</h6>
+        <h6 class="text-dark/80 font-title text-center font-bold">SPONSORED BY</h6>
         <ul class="flex flex-wrap items-center justify-center [&_li]:mx-8 [&_li]:my-4 ">
             <li>
                 <a href="https://restb.ai/" target="_blank" aria-label="restb logo">
@@ -22,9 +22,8 @@
         </ul>                
     </div>
 
-
-    <div class="w-full opacity-80">
-        <h6 class="text-secondary/40 font-title text-center font-bold">ORGANIZED BY</h6>
+    <div class="w-full pt-24">
+        <h6 class="text-dark/90 font-title text-center font-bold">ORGANIZED BY</h6>
         <ul class="flex flex-wrap items-center justify-center [&_li]:mx-8 [&_li]:my-4 ">
             <li>
                 <a href="https://aed.cat/" target="_blank" aria-label="aed logo">

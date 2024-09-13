@@ -41,7 +41,7 @@
     }
 </script>
 
-<div class="mt-32 " use:handleIntersect>
+<div class="mt-44 pb-20" use:handleIntersect>
      <div class="parent ">
         <div class="div1 -z-10">
             <Card className=" w-[250px] sm:w-[330px] h-[200px] bg-terc p-[30px] justify-center">
