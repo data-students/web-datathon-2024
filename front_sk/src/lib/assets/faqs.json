@@ -49,7 +49,7 @@
         },
         {
           "question": "What happens if finally I can't attend?",
-          "answer": "If you can't attend, please let us know by sending an email to registrations.datathon@aed.cat. This way, we can offer your spot to someone else."
+          "answer": "If you can't attend, please let us know by sending an email to <a class='text-accent' href='mailto:registrations.datathon@aed.cat'>registrations.datathon@aed.cat</a> . This way, we can offer your spot to someone else."
         },
         {
           "question": "Do you offer travel reimbursement?",
@@ -117,7 +117,7 @@
       "questions": [
         {
           "question": "I am interested in being a sponsor at Datathon FME. What should I do?",
-          "answer": "Send us an email to sponsors.datathon@aed.cat, and we will help you find a sponsorship that fits your needs."
+          "answer": "Send us an email to <a class='text-accent' href='mailto:sponsors.datathon@aed.cat'>sponsors.datathon@aed.cat</a> , and we will help you find a sponsorship that fits your needs."
         }
       ]
     }

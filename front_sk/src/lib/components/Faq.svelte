@@ -52,5 +52,5 @@
     </div>
   </button>
   <div class="w-full bg-accent h-[2px] rounded-full mt-1"></div>
-  <p class={`text-dark font-body text-[14px] md:text-[17px] mt-1 ${toggle ? "block" : "hidden"}`}>{question.answer}</p>
+  <p class={`text-dark font-body text-[14px] md:text-[17px] mt-1 ${toggle ? "block" : "hidden"}`}>{@html question.answer}</p>
 </li>
