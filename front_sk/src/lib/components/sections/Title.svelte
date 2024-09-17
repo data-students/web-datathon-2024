@@ -6,7 +6,7 @@
 </script>
 
 <div class="h-full">
-    <iframe class=" absolute inset-x-0 -top-[10%] sm:-top-[10%] md:-top-[10%] lg:top-1 w-full  h-[155rem] sm:h-[143rem] md:h-[147rem] lg:h-[120rem] -z-10 border-0 opacity-[40%] overfow-hidden" title="bg" src='https://my.spline.design/vaporwavebackgroundcopy-d951eda28d2ab9cb3bdc517f94e2bdd4/' frameborder='0'></iframe>
+    <iframe loading="lazy" class=" absolute inset-x-0 -top-[10%] sm:-top-[10%] md:-top-[10%] lg:top-1 w-full  h-[155rem] sm:h-[143rem] md:h-[147rem] lg:h-[120rem] -z-10 border-0 opacity-[40%] overfow-hidden" title="bg" src='https://my.spline.design/vaporwavebackgroundcopy-d951eda28d2ab9cb3bdc517f94e2bdd4/' frameborder='0'></iframe>
 
     <div class="flex flex-col justify-center items-center my-[15vh]">
         <h1 class="font-title font-bold text-[62px] md:text-[96px] text-dark text-center">Datathon FME</h1>
