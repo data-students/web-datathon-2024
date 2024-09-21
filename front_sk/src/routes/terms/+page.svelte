@@ -4,113 +4,394 @@
 
 <div class="p-6 sm:p-10">
   <h1 class="text-dark font-title md:text-[48px] sm:text-[35px] text-[30px] font-bold">Datathon FME - Terms & Conditions</h1>
-    <p>
-      This Legal Notice is intended to regulate access and use and, in general, the relationship between this website,
-      accessible from the Internet addresses datathon.cat and datathon.netlify.app (the “Website”) and its Users.
-    </p>
 
-    <h2>1. IDENTITY OF THE SERVICE PROVIDER</h2>
-    <p>The owner of this Website is Associació d'Estudiants de Dades (hereinafter, “AED”) with address at C/ Pau Gargallo
-      14, D.413, 08028, Barcelona (Spain) and contact email address <a
-        href="mailto:datathon.fme@upc.edu">datathon.fme@upc.edu</a>.
-      <br>
-      This Website is informative, open and available to the public. The access to the Website attributes to the person
-      who carries it out the condition of User, who accepts from that moment on, fully and without any reservation, the
-      conditions contained in this Legal Notice.
-    </p>
-    <h2>2. USE AND CONTENT OF THE WEBSITE</h2>
-    <p>
-      The User undertakes to use the Website, its contents and services in accordance with the Law, this Legal Notice, the
-      good customs and the public order. The use of the Website for illicit or harmful purposes against AED or third
-      parties is prohibited.
-      <br>
-      Reproduction, distribution or modification of the contents of this website is prohibited without the written
-      permission of the legitimate owners.
-      <br>
-      The User expressly undertakes not to destroy, alter, render useless or in any other way damage the data, programs or
-      electronic documents that are on the Website, or to introduce programs, viruses, macros, applets, Active X controls
-      or any other logical device or sequence of characters that cause or are likely to cause any kind of alteration in
-      computer systems.
-      <br>
-      The duration of the service provided by the Website is indefinite. Without prejudice to the foregoing, AED reserves
-      the right to discontinue this service at any time and without prior notice.
-    </p>
-    <h2>3. LINKS TO THIRD PARTY WEBSITES</h2>
-    <p>
-      This Legal Notice refers only to this Website and its content. Therefore, it does not apply to third party web pages
-      accessible through links inserted in the Website.
-      <br>
-      Under no circumstances shall AED be liable for the contents or services of other links made available on the
-      Website, nor can it guarantee the technical availability, quality, reliability, accuracy, breadth, accuracy,
-      validity and legality of any material or information contained in any of said links.
-      <br>
-      Unless expressly stated otherwise, the contents of the Website do not constitute a binding offer.
-      <br>
-      Links that appear on the Website may not be approved by AED.
-      <br>
-      Likewise, the inclusion of these external connections will not imply any type of association, merger or
-      participation with the connected entities.
-      <br>
-    </p>
+  <p>These Terms and Conditions (hereinafter, "T&amp;C") are intended to regulate the relationship between "Associació
+    d'Estudiants de Dades" (hereinafter, "AED") and "Facultat de Matemàtiques i Estadística - UPC" (hereinafter, "FME")
+    and the Users who decide to sign up and participate in the event "Datathon FME".</p>
 
-    <h2>4. INTELLECTUAL PROPERTY</h2>
-    <p>
-      AED is the legitimate owner of all rights, titles and interests in and to the Website, its contents and software,
-      including any modifications, updates and new versions, as well as any trademarks, trade names, know-how, copyrights,
-      images, photographs, graphic drawings, text files, audio, video and any other intellectual or industrial property
-      rights inherent therein.
-      <br>
-      It is strictly forbidden to remove, circumvent or manipulate the copyright notice and any other data identifying the
-      rights of AED or their respective owners incorporated into the contents, product and/or services, as well as the
-      technical protection devices or any information and/or identification mechanisms that may be contained therein.
-      Under no circumstances shall the provision of these contents to the Users imply the transfer of their ownership or
-      any right of use and/or exploitation to the User, other than the use that the legitimate use entails and in
-      accordance with the nature of the services and functionalities of AED.
-      <br>
-      Any use of any of the elements subject to industrial and intellectual property for any type of purpose, especially
-      commercial, as well as their transmission, distribution, public communication, reproduction or storage, in whole or
-      in part, whether for profit or for commercial or non-commercial purposes, is strictly prohibited, unless expressly
-      authorised in writing by the owner of the same.
-    </p>
-    <h2>5. LIABILITY</h2>
-    <p>Visiting users undertake not to introduce, voluntarily or involuntarily, viruses or files of any nature that may
-      disturb the functioning of the Website; in which case they would be fully responsible.
-      <br>
-      Your use and browsing of the Website is at your own risk. AED shall be exempt from any liability for damages to the
-      User and third parties in connection with:
-      <br>
-    </p>
-    <ul class="list-disc pt-4 pl-10">
-      <li>The incorrect functioning of the Website.</li>
-      <li>The lack of adequacy of the Website and/or its services or contents to satisfy the needs, specific results or
-        expectations of the Users.</li>
-      <li>Presence of contaminating codes or viruses that could produce alterations in the computer system of the Users.
-      </li>
-      <li>Any damage that may occur as a result of the contents of third parties included on the Website.</li>
-      <li>AED reserves the right to prevent, block and/or remove from the Website those Users who display inappropriate
-        behaviour or who breach any of the clauses of this Legal Notice, without prior notice from AED.</li>
-    </ul>
-    <h2>6. APPLICABLE LAW AND JURISDICTION</h2>
-    <p>
-      This Legal Notice shall be governed by Spanish law.
-      <br>
-      In the event that the User’s domicile is outside Spain, AED and the User, expressly waiving any other jurisdiction
-      to which they may be entitled, hereby submit to the jurisdiction of the Courts and Tribunals of Barcelona.
-      <br>
-      AED will pursue the breach of this Legal Notice as well as any improper use of the Website by exercising all civil
-      and criminal actions that may correspond.
-    </p>
-    <h2>7. MODIFICATION AND UPDATE</h2>
-    <p>
-      The information contained in these pages is current as of the date of the last update.
-      <br>
-      AED reserves the right to modify this Legal Notice at any time and to restrict access temporarily or permanently,
-      indicating at the end of this Legal Notice the date of the last modification.
-    </p>
-    <p class="pt-10">
-      Last Reviewed: October 8, 2022.
-    </p>
+  <p>For the purposes of this Agreement, the parties agree that, when used capitalized herein, the following terms shall
+    have the following meanings unless they are otherwise defined in this Agreement.</p>
+
+  <h2>DEFINITIONS</h2>
+
+  <p><strong>The “Organizers”</strong> refers to:
+
+  <ul class="list-disc pt-4 pl-10">
+    <li>AED, with address at C/ Pau Gargallo 14, D.413, 08028, Barcelona (Spain) and contact email address <a
+         class="text-accent hover:text-dark" href="mailto:hola@aed.cat">hola@aed.cat</a>.</li>
+    <li>FME, with address at C/ Pau Gargallo 14, 08028, Barcelona (Spain) and contact email address <a
+        class="text-accent hover:text-dark" href="mailto:deganat.fme@upc.edu">deganat.fme@upc.edu</a>.</li>
+  </ul>
+
+
+  <p class="pt-6"><strong>The “Participant”</strong> refers to any User who decides to sign up accepting these T&amp;Cs and
+    participates in the event organized by the Organizers by competing in the Datathon.</p>
+
+  <p class="pt-6"><strong>The “Attendee”</strong> refers to any User who decides to sign up accepting these T&amp;Cs and participates
+    in the event organized by the Organizers in any other role that is not the role of Participant. It includes the
+    following: Sponsor, Judge, Mentor, Organizer, Volunteer and other attendees.</p>
+
+  <p class="pt-6"><strong>The event “Datathon FME”</strong> refers to the Event organized by the Organizers, which is a Datathon.
+    Datathons are weekend-long competitions where you Participants are challenged to work on real-world business cases
+    from different areas of Machine Learning, AI, and Data Science. Participants are given some datasets in order to
+    answer questions or implement solutions.</p>
+
+  <p class="pt-6"><strong>The “Swag”</strong> refers to any gift provided by The Organizers or any "Datathon FME" sponsor or partner
+    in any physical or online form with no cost.</p>
+
+  <h2>CLAUSES</h2>
+
+  <h2>1. OBJECT</h2>
+
+  <p>By virtue of this Agreement the Participant or Attendee agrees to participate in the event Datathon FME organized
+    by the Organizers.</p>
+
+  <p>these T&amp;Cs apply to both the Participants and the Attendees, although some of its clauses may only be applicable
+    to the Participant given their role in the Datathon.</p>
+
+  <h2>2. Datathon FME COMPETITION RULES</h2>
+
+  <p>These are the Datathon FME competition rules. They are a customized version of the standard competition rules used
+    at MLH Member Hackathons. If you have a suggestion for these rules or a question about them, please submit it to the
+    email address provided.</p>
+
+  <h3 class="pt-6">The rules of the competition</h3>
+
+  <ol class="list-decimal pt-4 pl-10">
+    <li>There is no minimum team size, however, the maximum size is 4 people. There will be 1 prize for each member of
+      the team, independently of the team size.</li>
+    <li>Teams should be made up exclusively of students who are not organizers, judges, sponsors, or in any other
+      privileged position at the event.</li>
+    <li>All team members should be accepted into the Datathon by the organization and registered into the online
+      platforms/forms used before and during the event.</li>
+    <li>All team members should be reachable by any member of the organization team during the event.</li>
+    <li>Teams can, of course, gain advice and support from organizers, volunteers, sponsors, mentors and other related
+      people to the Datathon.</li>
+    <li>All work on a project should be done at the Datathon.</li>
+    <li>Teams can use an idea they had before the event.</li>
+    <li>Teams can work on ideas that have already been done. Solutions do not have to be “innovative”, although it is a
+      plus.</li>
+    <li>Teams can work on an idea that they have worked on before (as long as they do not re-use code).</li>
+    <li>Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the
+      event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the
+      rules and is not allowed.</li>
+    <li>Adding new features to existing projects is allowed. Judges will only consider new functionality introduced, or
+      new features added during the Datathon in determining the winners.</li>
+    <li>Teams must stop working once the time is up. However, teams are allowed to make small fixes to their
+      programs/documents after time is up. Making large changes or adding new features is not allowed.</li>
+    <li>Projects that violate the Code of Conduct are not allowed (clause 3).</li>
+    <li>Teams can be disqualified from the competition at the organizers’ discretion. Reasons might include, but are not
+      limited to, breaking the Competition Rules, breaking the Code of Conduct, or other unsporting behavior.</li>
+  </ol>
+
+  <h3 class="pt-6">Demos</h3>
+
+  <p>After the working time finishes, teams will show their projects to each other and to the judges.</p>
+
+  <p>In order to present your project to Datathon FME judges and sponsors, you would need to be able to sign up and log
+    in to third-party services complying with the applicable laws of your country. Agreeing with the terms and
+    conditions of any third-party service suggested, used or proposed by the organization.</p>
+
+  <p>You are strongly encouraged to present a demo of what you have built. Pitches or presentations are also an option.
+  </p>
+
+  <p>You are encouraged to present what you have done, even if your solution is broken, or you weren’t able to finish.
+    It’s okay if you didn’t finish your project, that happens all the time! Completion is only one part of the judging
+    criteria, so you might still do well. Also, demoing is not just about the competition. It’s a chance to share with
+    others what you learned and what you tried to build! In the case that you don’t have anything to demo, you can give
+    a presentation about what you tried and what you learned. Hearing what other people learned is interesting and
+    inspiring for other attendees.</p>
+
+  <h3 class="pt-6">Judging Criteria</h3>
+
+  <p>Teams will be judged on several criteria, which may include but are not limited to:
+
+  <ul class="list-disc pt-4 pl-10">
+    <li>Idea &amp; Innovation: How good is the idea? Is it innovative?</li>
+    <li>Technology: How technically impressive was the solution? Was the technical problem the team tackled difficult?
+      Did it use a particularly interesting data science technique?</li>
+    <li>Learning: Did the team stretch themselves? Did they try to learn something new?</li>
+    <li>Design & usability: Was the solution intuitive to use? Was it well-thought? </li>
+    <li>Presentation: Did you clearly communicate your solution and/or your conclusions? </li>
+    <li>Problem-solving: Is your solution useful to solve the given challenge(s)?</li>
+    <li>Efficiency: Is your solution efficient? Is it scalable?</li>
+  </ul>
+
+  <p class="pt-4">Note that these criteria are just guidelines. Ultimately judges are free to make decisions based on their gut
+    feeling about which projects are the most impressive and deserving.</p>
+
+
+  <h3>Prizes</h3>
+  <p>The Organizers keep the right to decide which method is used to give the prizes to each winner, without the need or
+    obligation to make public the criteria. The non-acceptance of the method chosen by the Organizers will be
+    cause for withdrawal of the prize.</p>
+
+  <p>The Organizers shall not take any responsibility for the failure of the participant to avail themselves of the prize due to
+    inaccurate information provided by the participant. The Organizers reserve the right to replace any winner if we
+    discover that the winner is or was in breach of these general terms and conditions.</p>
+
+  <ul class="list-disc pt-4 pl-10">
+    <li>Prizes are non-exchangeable.</li>
+    <li>Quoted prizes might be taxable in your jurisdiction and each winner will be solely responsible for complying
+      with any and all applicable federal, state, provincial, local, or other statutes, regulations, and other laws and
+      for bearing any personal, income, VAT, GST, withholding taxes, customs duties, or other taxes, fees, insurance,
+      surcharges or other costs relating to any reward.</li>
+    <li>If the Organizers are obliged to withhold taxes under the applicable laws, they will do so without any
+      notice.</li>
+    <li>The Organizers will cooperate and issue any documents that might be required for tax purposes, but it is the
+      Participant’s obligation to request and collect such documents.</li>
+  </ul>
+
+  <p class="pt-6">In order to carry out the delivery of the prize, the winners must provide all information required by the
+    Organizers or third parties on its behalf, such as identity documents, passports, etc.; any delay or failure to
+    provide the required documentation and/or information will be cause for the withdrawal of the prize.</p>
+
+  <p>Each winner will be responsible for complying with the tax and accounting obligations involved in obtaining the
+    prize for personal taxation purposes.</p>
+
+  <h3>Cheating</h3>
+
+  <p>Accusations of cheating may include, but are not limited to:</p>
+
+  <ul class="list-disc pt-4 pl-10">
+    <li>A team using somebody else’s code.</li>
+    <li>A team misrepresenting the work they did.</li>
+    <li>A team having too many team members.</li>
+    <li>A team using code that was written outside the event.</li>
+    <li>A team with members who are not properly registered for the Datathon.</li>
+  </ul>
+
+  <p class="pt-6">If you suspect cheating, please get in touch with the organizers of the event. If you are still at the event,
+    please talk to a Datathon FME organizer. If it is after the event, please email us at the given email address. Don't
+    forget to clearly state the following:
+
+  <ul class="list-disc pt-4 pl-10">
+    <li>Identifying information (name, email, phone, etc.) about yourself.</li>
+    <li>Identifying information (name, email, phone, etc.) about the participant/team accused of cheating.</li>
+    <li>Reason why you suspect cheating.</li>
+    <li>Other people suspected of being involved in the cheating.</li>
+    <li>Other witnesses / people who suspect the cheating.</li>
+    <li>Any relevant URLs (e.g., for GitHub repos or Devpost pages).</li>
+  </ul>
+
+  <p class="pt-6">Datathon FME Organizers will then investigate the allegation by reviewing public materials about the solution,
+    including project repos, project submissions, and anything else available to them.</p>
+
+  <p>If Organizers determine cheating did not occur, they will inform the reporter.</p>
+
+  <p>If Organizers are unable to determine that cheating did not occur based on publicly available resources, they
+    will then communicate with the alleged cheater. Informing them of what has been reported about them and allowing the
+    alleged cheater to give their side of the story to the staff. After this point, if the report stands, the alleged
+    cheater will be informed of what actions will be taken against them.</p>
+
+  <p>Actions that Organizers will consider when dealing with alleged cheating offenders are:</p>
+
+  <ul class="list-disc pt-4 pl-10">
+    <li>Warning the cheater to cease their behavior and that any further reports will result in sanctions.</li>
+    <li>Not allowing the participants to demo.</li>
+    <li>Not allowing the participants to win prizes.</li>
+    <li>Revocation of prizes &amp; recognitions.</li>
+    <li>Banning the participants from future events (either indefinitely or for a certain time period).</li>
+    <li>Publishing an account of the cheating.</li>
+  </ul>
+
+  <p class="pt-6">Depending on the cheating allegation, the Organizers may decide to make one or more public announcements. If
+    necessary, this will be done with a short announcement. No one other than the Datathon FME directors should make any
+    announcements.</p>
+
+  <h3>Remember!</h3>
+
+  <p>The competition is just a part of the Datathon. To make the most out of the event, try something new, teach other
+    people, and make new friends!</p>
+
+  <h2>3. CODE OF CONDUCT</h2>
+  <p>You can check out the Code of Conduct <a target="_blank" rel="noreferrer"
+      class="text-accent hover:text-dark" href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf">here</a>.</p>
+  <p>The Code of Conduct extends to all attendees, including hackers, volunteers, organizers, sponsors, judges, mentors,
+    and MLH staff.</p>
+
+  <h2>4. SWAG</h2>
+
+  <ul class="list-disc pt-4 pl-10">
+    <li>The organization may send swag to sponsors and attendees. Expenses incurred by team members as a result of
+      sending merchandising, as well as the acceptance of the prize, will be borne by the winner of the prize.</li>
+    <li>Still, the organization keeps the right to decide which attendees and sponsors will receive swag. Without the
+      obligation or need to make public the followed criteria.</li>
+  </ul>
+
+
+  <h2>5. TERMINATION AND CANCELLATION</h2>
+
+  <p>The Organizers may at any time, in its sole discretion, immediately terminate this Agreement with or without cause.
+    The Organizers will make commercially reasonable efforts to notify the Participant or Attendee via email of any such
+    termination or cancellation up to the date of the event.</p>
+
+  <p>Participants or Attendees may cancel and/or terminate this Agreement with or without cause at any time, always
+    notifying the Organizers in a reasonable period of time.</p>
+
+  <p>If either party does not fulfill a material obligation defined in this Agreement, the other party has the right to
+    terminate this Agreement immediately with written notice to the party in breach, provided that such material breach
+    remains uncured, without prejudice of the right to claim the damages caused to the non-breaching party.</p>
+
+  <h2>6. CONFIDENTIALITY, PERSONAL DATA PROTECTION, AND RIGHTS OF IMAGE</h2>
+
+  <p>In accordance with the current data protection legislation, particularly the Regulation (EU) 2016/679 of The
+    European Parliament and of The Council, of April 27th, on the protection of natural persons with regard to the
+    processing of personal data and on the free movement of such data, all personal data collected during the use of the
+    Website and during the event will be processed in accordance with the provisions of the <a
+      class="text-accent hover:text-dark" target="_blank" href="/privacy">Privacy Policy</a> which all Users must expressly accept.</p>
+
+  <p>As it is explained in the Privacy Policy, one of the personal data that you authorize AED to process is your image:
+  </p>
+
+  <ul class="list-disc pt-4 pl-10">
+    <li>By accepting the Privacy Policy and these T&amp;Cs you grant Datathon FME, its Organizers, volunteers, and
+      sponsors permission to capture photographs and/or record videos of yourself in the event you request to
+      participate.</li>
+    <li>You give your consent for the images and/or videos taken during the course of this event to be displayed,
+      broadcasted, and/or published by the Organizers and/or the Sponsors of the event you request to participate for
+      advertising purposes through any audiovisual and/or written media (TV, press, internet, social networks, etc.) and
+      in any advertising and media support (brochures, banners, panels, websites, memory of activities, publications,
+      reports, etc.), worldwide, for an indefinite period and without limitation.</li>
+    <li>This authorization is perpetual and has no other limitations than those contained in the Spanish Organic Law
+      1/1982, of May 5, on Civil Protection of the right to honor, personal and family privacy, and self-image.</li>
+    <li>This authorization is made completely free of charge, and you undertake not to request or claim any
+      compensation, payment or reimbursement in exchange for this authorization.</li>
+    <li>When the photographs and/or videos are taken by AED, the applicable Privacy Policy will be AED’s Privacy
+      Policy. When the photographs and/or videos are taken by a Sponsor, the applicable Privacy Policy will be the
+      Sponsor’s Privacy Policy.</li>
+  </ul>
+
+  <h2>7. LIMITATION OF LIABILITY AND INDEMNIFICATION</h2>
+
+  <h3>Indemnification</h3>
+
+  <p>You agree to indemnify, defend and hold the Organizers, its members (hosts and volunteers), and other personalities
+    that have a role in this event (sponsors, judges, mentors) harmless from and against any and all costs, claims,
+    demands, liabilities, expenses, losses, damages and attorney fees arising from any claims and lawsuits or proceeding
+    for libel, slander, copyright, and trademark violation, as well as all other claims resulting from (i) the
+    participation in the event Datathon FME or (ii) otherwise arising from a relationship with the Organizers. You also
+    agree to indemnify the Organizers for any legal fees incurred by the Organizers, acting reasonably, in investigating
+    or enforcing their rights under this Agreement.</p>
+
+  <h3>Limitation of Liability</h3>
+
+  <p>Under no circumstances will the Organizers be liable to the participant or attendee with respect to any subject
+    matter of these terms and conditions under contract, tort (including negligence), strict liability or other legal or
+    equitable theory, whether or not the Organizers have been advised of the possibility of such damage, for indirect,
+    incidental, consequential, special or exemplary damages arising from any provision of these terms. These limitations
+    shall apply notwithstanding any failure of essential purpose.</p>
+
+  <h2>8. MODIFICATIONS</h2>
+
+  <p>The Organizers reserve the right to amend the provisions of the present Agreement that are minor in scope or
+    nature, and to do so without citing any reasons, provided such modifications do not lead to the Agreement as a whole
+    being restructured.</p>
+
+  <p>If a Participant or Attendee objects to the new (modified) Terms, then the Agreement between the two parties will be
+    terminated (clause 6). The Organizers, once the agreement is terminated, won’t consider the participation of the
+    participant unless the new terms and conditions are accepted again in a new application process for the Event
+    following the standard acceptance process.</p>
+
+  <h2>9. APPLICABLE LAW AND JURISDICTION</h2>
+
+  <p>This Agreement shall be governed by Spanish law.</p>
+
+  <p>In the event that the User’s domicile is outside Spain, the Organizers and the Participant or Attendee, expressly
+    waiving any other jurisdiction to which they may be entitled, hereby submit to the jurisdiction of the Courts and
+    Tribunals of Barcelona.</p>
+
+  <p>The Organizers will pursue the breach of this Agreement by exercising all civil and criminal actions that may
+    correspond.</p>
+
+  <h2>10. GENERAL PROVISIONS</h2>
+
+  <h3>Force Majeure</h3>
+
+  <p>Except for payment obligations, if either party is prevented from performing or is unable to perform any of its
+    obligations under this Agreement due to causes beyond the reasonable control of the party invoking this provision,
+    including but not limited to acts of God, acts of civil or military authorities, riots or civil disobedience, wars,
+    strikes or labor disputes (each, a “Force Majeure Event”), such party’s performance shall be excused and the time
+    for performance shall be extended accordingly provided that the party immediately takes all reasonably necessary
+    steps to resume full performance. If such party remains unable to resume full performance fifteen (15) days after
+    the Force Majeure Event, the other party may terminate this Agreement upon written notice.</p>
+
+  <h3>Severability</h3>
+
+  <p>Should any of the provisions of this Agreement be adjudged invalid or unenforceable by the rules and regulations of
+    Spain or a Spanish court, such provisions shall be deemed several from the remainder of this Agreement and not
+    affect the validity or enforceability of the remainder of this Agreement. In that case, such provisions shall be
+    changed and interpreted to achieve the purposes of those provisions as much as possible within the extent of
+    relevant laws or the judgment of the court.</p>
+
+  <h3>Survival</h3>
+
+  <p>Clauses 2, 5 and 8 shall survive termination or expiration of this Agreement for any reason. All other rights and
+    obligations of the parties under this Agreement shall expire upon termination of this Agreement, except that all
+    payment obligations accrued hereunder prior to termination or expiration shall survive such termination.</p>
+
+  <h3>Assignment</h3>
+
+  <p>The organizers are hereby authorized to assign, sublicense, delegate or otherwise transfer any of their rights or
+    obligations under this Agreement without the prior written consent of the other party, provided that the assignee
+    shall assume all rights and obligations under this Agreement.</p>
+
+  <p>The Participant or Attendee shall not assign, sublicense, delegate or otherwise transfer any of their rights or
+    obligations.</p>
+
+  <h3>Notices</h3>
+
+  <p>All notices and other communications hereunder shall be in writing and shall be deemed to have been duly given when
+    delivered in person (including by internationally recognized commercial delivery service), and on the day the notice
+    is sent when sent by email with confirmation receipt, if the time of transmission is during the recipient’s business
+    day, or if not on the next business day thereafter, in each case to the respective parties at the postal or email
+    addresses provided by them in writing.</p>
+
+  <p>Either party may change its address by providing the other party with written notice of the change in accordance
+    with this section.</p>
+
+  <h3>Relationship of Parties</h3>
+
+  <p>The parties are independent contractors and will have no right to assume or create any obligation or responsibility
+    on behalf of the other party. Neither party shall hold itself out as an agent of the other party. This Agreement
+    will not be construed to create or imply any employment relationship, partnership, agency, joint venture or formal
+    business entity of any kind.</p>
+
+  <h3>Waiver</h3>
+
+  <p>No delay or failure by either party to exercise any right or remedy under this Agreement will constitute a waiver
+    of such right or remedy. All waivers must be in writing and signed by an authorized representative of the party
+    waiving its rights. A waiver by any party of any breach or covenant shall not be construed as a waiver of any
+    succeeding breach of any other covenant.</p>
+
+  <h3>Entire Agreement</h3>
+
+  <p>This Agreement constitutes the entire agreement between the parties and supersedes all previous agreements, oral or
+    written, with respect to the subject matter of this Agreement. The information and documents provided by the
+    Participant or Attendee to the Organizers, as requested by the latest in order to enter the Agreement, shall also be
+    considered part of this Agreement. This Agreement may not be amended without the written consent of the parties.
+  </p>
+
+  <h3>Headings</h3>
+
+  <p>The headings of the articles and paragraphs contained in this Agreement are inserted for convenience and are not
+    intended to be part of or affect the interpretation of this Agreement.</p>
+
+  <h3>Counterparts</h3>
+
+  <p>This Agreement may be executed in counterparts or online which, taken together, shall form one legal instrument.</p>
+
+  <h3>No Third-Party Beneficiaries</h3>
+
+  <p>This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted
+    assigns, and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or
+    equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement.</p>
+
+  <p class="pt-10">Last Reviewed: September 19, 2024.</p> 
+
 </div>
+
+
 
 <style>
   h1{
@@ -122,18 +403,29 @@
     color: var(--accent);
     margin-top: 2rem;
     font-size: 18pt;
+    margin-bottom: 1rem;
+  }
+  h3{
+    font-family: var(--font-title);
+    font-weight: bold;
+    color: var(--accent);
+    margin-top: 1rem;
+    font-size: 14pt;
   }
   p, li{
     font-family: var(--font-body);
-    font-size: 14pt;
+    font-size: 12pt;
   }
 
 @media (max-width: 768px) {
   h2{
     font-size: 14pt;
   }
-  p, li{
+  h3{
     font-size: 12pt;
+  }
+  p, li{
+    font-size: 10pt;
   }
 }
 div{

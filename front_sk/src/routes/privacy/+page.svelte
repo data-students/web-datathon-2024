@@ -2,115 +2,239 @@
     <title>Datathon - Privacy Policy</title> 
 </svelte:head>
 
+
 <div class="p-6 sm:p-10">
   <h1 class="text-dark font-title md:text-[48px] sm:text-[35px] text-[30px] font-bold">Datathon FME - Privacy Policy</h1>
-    <p>
-      This Legal Notice is intended to regulate access and use and, in general, the relationship between this website,
-      accessible from the Internet addresses datathon.cat and datathon.netlify.app (the “Website”) and its Users.
+  <main>
+
+    <p>In compliance with current regulations on the protection of personal data, you are informed of the following
+      aspects.</p>
+
+    <h2>1. DATA CONTROLLER</h2>
+
+    <p>Associació d'Estudiants de Dades (hereinafter, “AED”), with address at C/ Pau Gargallo 14, D.413, 08028, Barcelona
+      (Spain), is the Data Controller of the processing of your personal data.</p>
+
+    <p>You may contact AED at the postal address previously indicated or at the following email address for any query,
+      request or clarification regarding the processing of your personal data: <a class="text-accent hover:text-dark"
+        href="mailto:hola@aed.cat">hola@aed.cat</a>.</p>
+
+    <h2>2. WHAT PERSONAL DATA WE PROCESS AND HOW WE HAVE OBTAINED IT</h2>
+
+    <p>AED shall process the following personal data: (i) any initial data that you voluntarily provide related to a
+      request to register as a participant, information requests made to our association, requests to take part in
+      promotions or requests to receive any of the services offered by AED (We shall give clear, precise instructions of
+      the mandatory data you must provide on each form); (ii) any data that is subsequently generated or exchanged with
+      Users in order for AED to fulfill your initial request; and (iii) any personal data that you provide through social
+      media in order to handle your requests. These data shall depend on the privacy settings of each participant and the
+      use made by each participant of social media, in addition to the privacy policies of the social media in question.
     </p>
 
-    <h2>1. IDENTITY OF THE SERVICE PROVIDER</h2>
-    <p>The owner of this Website is Associació d'Estudiants de Dades (hereinafter, “AED”) with address at C/ Pau Gargallo
-      14, D.413, 08028, Barcelona (Spain) and contact email address <a
-        href="mailto:datathon.fme@upc.edu">datathon.fme@upc.edu</a>.
-      <br>
-      This Website is informative, open and available to the public. The access to the Website attributes to the person
-      who carries it out the condition of User, who accepts from that moment on, fully and without any reservation, the
-      conditions contained in this Legal Notice.
-    </p>
-    <h2>2. USE AND CONTENT OF THE WEBSITE</h2>
-    <p>
-      The User undertakes to use the Website, its contents and services in accordance with the Law, this Legal Notice, the
-      good customs and the public order. The use of the Website for illicit or harmful purposes against AED or third
-      parties is prohibited.
-      <br>
-      Reproduction, distribution or modification of the contents of this website is prohibited without the written
-      permission of the legitimate owners.
-      <br>
-      The User expressly undertakes not to destroy, alter, render useless or in any other way damage the data, programs or
-      electronic documents that are on the Website, or to introduce programs, viruses, macros, applets, Active X controls
-      or any other logical device or sequence of characters that cause or are likely to cause any kind of alteration in
-      computer systems.
-      <br>
-      The duration of the service provided by the Website is indefinite. Without prejudice to the foregoing, AED reserves
-      the right to discontinue this service at any time and without prior notice.
-    </p>
-    <h2>3. LINKS TO THIRD PARTY WEBSITES</h2>
-    <p>
-      This Legal Notice refers only to this Website and its content. Therefore, it does not apply to third party web pages
-      accessible through links inserted in the Website.
-      <br>
-      Under no circumstances shall AED be liable for the contents or services of other links made available on the
-      Website, nor can it guarantee the technical availability, quality, reliability, accuracy, breadth, accuracy,
-      validity and legality of any material or information contained in any of said links.
-      <br>
-      Unless expressly stated otherwise, the contents of the Website do not constitute a binding offer.
-      <br>
-      Links that appear on the Website may not be approved by AED.
-      <br>
-      Likewise, the inclusion of these external connections will not imply any type of association, merger or
-      participation with the connected entities.
-      <br>
-    </p>
 
-    <h2>4. INTELLECTUAL PROPERTY</h2>
-    <p>
-      AED is the legitimate owner of all rights, titles and interests in and to the Website, its contents and software,
-      including any modifications, updates and new versions, as well as any trademarks, trade names, know-how, copyrights,
-      images, photographs, graphic drawings, text files, audio, video and any other intellectual or industrial property
-      rights inherent therein.
-      <br>
-      It is strictly forbidden to remove, circumvent or manipulate the copyright notice and any other data identifying the
-      rights of AED or their respective owners incorporated into the contents, product and/or services, as well as the
-      technical protection devices or any information and/or identification mechanisms that may be contained therein.
-      Under no circumstances shall the provision of these contents to the Users imply the transfer of their ownership or
-      any right of use and/or exploitation to the User, other than the use that the legitimate use entails and in
-      accordance with the nature of the services and functionalities of AED.
-      <br>
-      Any use of any of the elements subject to industrial and intellectual property for any type of purpose, especially
-      commercial, as well as their transmission, distribution, public communication, reproduction or storage, in whole or
-      in part, whether for profit or for commercial or non-commercial purposes, is strictly prohibited, unless expressly
-      authorised in writing by the owner of the same.
-    </p>
-    <h2>5. LIABILITY</h2>
-    <p>Visiting users undertake not to introduce, voluntarily or involuntarily, viruses or files of any nature that may
-      disturb the functioning of the Website; in which case they would be fully responsible.
-      <br>
-      Your use and browsing of the Website is at your own risk. AED shall be exempt from any liability for damages to the
-      User and third parties in connection with:
-      <br>
-    </p>
+    <p class="pt-6">Here are the details of which personal data may be collected when you register as a Participant:</p>
+
     <ul class="list-disc pt-4 pl-10">
-      <li>The incorrect functioning of the Website.</li>
-      <li>The lack of adequacy of the Website and/or its services or contents to satisfy the needs, specific results or
-        expectations of the Users.</li>
-      <li>Presence of contaminating codes or viruses that could produce alterations in the computer system of the Users.
-      </li>
-      <li>Any damage that may occur as a result of the contents of third parties included on the Website.</li>
-      <li>AED reserves the right to prevent, block and/or remove from the Website those Users who display inappropriate
-        behaviour or who breach any of the clauses of this Legal Notice, without prior notice from AED.</li>
+      <li>Identifying data: Name, surname(s), city, country, images or videos of yourself.</li>
+      <li>Contact data: email.</li>
+      <li>Data on personal characteristics: Gender, age, t-shirt size and menu preferences.</li>
+      <li>Academic and professional data: CV, university, current studies, current year of studies.</li>
     </ul>
-    <h2>6. APPLICABLE LAW AND JURISDICTION</h2>
-    <p>
-      This Legal Notice shall be governed by Spanish law.
-      <br>
-      In the event that the User’s domicile is outside Spain, AED and the User, expressly waiving any other jurisdiction
-      to which they may be entitled, hereby submit to the jurisdiction of the Courts and Tribunals of Barcelona.
-      <br>
-      AED will pursue the breach of this Legal Notice as well as any improper use of the Website by exercising all civil
-      and criminal actions that may correspond.
-    </p>
-    <h2>7. MODIFICATION AND UPDATE</h2>
-    <p>
-      The information contained in these pages is current as of the date of the last update.
-      <br>
-      AED reserves the right to modify this Legal Notice at any time and to restrict access temporarily or permanently,
-      indicating at the end of this Legal Notice the date of the last modification.
-    </p>
-    <p class="pt-10">
-      Last Reviewed: October 8, 2022.
-    </p>
+
+    <p class="pt-6">Here are the details of which personal data may be collected when you register as a Judge, a Mentor or a
+      Volunteer:</p>
+
+    <ul class="list-disc pt-4 pl-10">
+      <li>Identifying data: Name, surname(s), images or videos of yourself, links to social media and personal websites.</li>
+      <li>Contact data: email and phone number.</li>
+      <li>Data on personal characteristics: Gender, t-shirt size and menu preferences.</li>
+    </ul>
+
+    <p class="pt-6">Here are the details of which personal data may be collected when you register as a Sponsor:</p>
+
+    <ul class="list-disc pt-4 pl-10">
+      <li>Identifying data: Name, surname(s), address, zip code, and images or videos of the contact person or the
+        employee of the Sponsor.</li>
+      <li>Business contact data: Corporate e-mail of the contact person or the employee of the Sponsor. We also collect
+        what company you are working for currently, as well as your Job title.</li>
+      <li>Data on personal characteristics: Gender, t-shirt size and menu preferences.</li>
+    </ul>
+
+    <p class="pt-6">Here are the details of which personal data is collected to check if cheating has ocurred (check the "Cheating"
+      section in our <a class="text-accent hover:text-dark" target="_blank" href="/terms">terms and conditions</a>):</p>
+
+    <ul class="list-disc pt-4 pl-10">
+      <li>Identifying and contact data of the reporter: Name, email, phone, etc.</li>
+      <li>Identifying and contact data of the participant/team accused of cheating: Name, email, phone, etc.</li>
+      <li>Identifying data of other people suspected of being involved in the cheating.</li>
+      <li>Identifying data of other witnesses or people who suspect the cheating.</li>
+    </ul>
+
+    <h2>3. WHAT WE PROCESS YOUR PERSONAL DATA FOR</h2>
+
+    <p class="pt-6">When you subscribe to be the first to know when applications open, register as a Participant, register as a
+      Volunteer, register as a Judge or a Mentor or register as “other attendees/users”:</p>
+
+    <ul class="list-disc pt-4 pl-10">
+      <li>AED shall process your personal data to handle and process requests received from you, providing services
+        before and during the event, whether for information, registration, participation in promotions or the rendering
+        of services.</li>
+      <li>In addition, your personal data shall be processed to send, including via electronic media, commercial
+        communications about activities, services or products offered by AED that are of a similar nature to those
+        previously requested by you.</li>
+    </ul>
+
+    <p class="pt-6">When you register as a Sponsor:</p>
+
+    <ul class="list-disc pt-4 pl-10">
+      <li>Your business contact data will be processed with the exclusive purpose of maintaining the commercial,
+        contractual or collaborative relationships that the organizers have with the company, entity or organization you
+        work for or collaborate with.</li>
+      <li>In addition, your business contact data shall be processed to send, including via electronic media, commercial
+        communications about activities, services or products offered by AED that are of a similar nature to those that
+        motivate the existing relationship between our entity and the company, entity or organization that you work for
+        or collaborate with or providing services before and during the event.</li>
+    </ul>
+
+    <p class="pt-6">When personal data is collected to check if cheating has occured (check "Cheating" section in our <a
+      class="text-accent hover:text-dark" target="_blank" href="/terms">terms and conditions</a>):</p>
+
+    <ul class="list-disc pt-4 pl-10">
+      <li>AED shall process your personal data to handle and process the request received from the reporter and carry
+        out the investigation related to cheating.</li>
+    </ul>
+
+    <p class="pt-6">Regarding the images and videos of yourself:</p>
+
+    <ul class="list-disc pt-4 pl-10">
+      <li>AED shall process your personal data to display, broadcast, and/or publish it for advertising purposes
+        through any audiovisual and/or written media (TV, press, internet, social networks, etc.) and in any advertising
+        and media support (brochures, banners, panels, website, memory of activities, publications, reports, etc.).</li>
+    </ul>
+
+    <h2>4. WHY WE MAY PROCESS YOUR PERSONAL DATA</h2>
+
+    <p class="pt-6">When you subscribe to be the first to know when applications open, register as a Participant, register as a
+      Volunteer, register as a Judge or a Mentor or register as “other attendees/users”:</p>
+
+    <ul class="list-disc pt-4 pl-10">
+      <li>AED is legally entitled to process personal data for handling and processing requests from you, as this is
+        required for AED to meet its contractual obligations in respect of such requests.</li>
+      <li>With regard to commercial communications sent about activities, services or products offered by AED of a
+        similar nature to those previously requested or acquired by you, the processing of your personal data responds
+        to a legitimate interest of AED, expressly recognized by the data protection regulation as well as by the
+        regulations on services in the information society.</li>
+      <li>You may now or at any time in the future object to receiving commercial communications about activities,
+        services or products offered by AED by sending an email to <a
+         class="text-accent hover:text-dark"  href="mailto:hola@aed.cat">hola@aed.cat</a>.</li>
+    </ul>
+
+    <p class="pt-6">When you register as a Sponsor:</p>
+
+    <ul class="list-disc pt-4 pl-10">
+      <li>The processing of your business contact data relative to maintaining the relationship between the organizers
+        and the company, entity or organization you work for or collaborate with responds to a legitimate interest of
+        our organization, specifically recognized in the privacy regulation.</li>
+      <li>With regard to commercial communications sent about activities, services or products offered by the organizers
+        of a similar nature to those that motivate the existing relationship between our entity and the company, entity
+        or organization that you work for or collaborate with, the processing of your personal data responds to a
+        legitimate interest of the organizers, expressly recognised by the data protection regulation as well as by the
+        regulations on services in the information society.</li>
+      <li>You may now or at any time in the future object to receive commercial communications about activities,
+        services or products offered by AED by sending an email to <a
+        class="text-accent hover:text-dark"  href="mailto:datathon.fme@upc.edu">datathon.fme@upc.edu</a>.</li>
+    </ul>
+
+    <p class="pt-6">When personal data is collected to check if cheating has occurred (check the "Cheating" section in our <a
+      class="text-accent hover:text-dark" target="_blank" href="/terms">terms and conditions</a>):</p>
+
+    <ul class="list-disc pt-4 pl-10">
+      <li>AED is legally entitled to process personal data to handle and process the request received from the reporter
+        and carry out the investigation related to cheating, as this is required for AED to meet its contractual
+        obligations in respect of such requests.</li>
+    </ul>
+
+    <p class="pt-6">Regarding the images and videos of yourself:</p>
+
+    <ul class="list-disc pt-4 pl-10">
+      <li>AED is legally entitled to process your personal data to display, broadcast, and/or publish it because you have
+        given express consent.</li>
+    </ul>
+
+    <p class="pt-6">Regarding food preferences:</p>
+
+    <p>AED shall process your personal data in order to manage the catering service because you have given express
+      consent.</p>
+
+    <h2>5. WHEN AND WHY WE MAY TRANSFER YOUR DATA TO THIRD PARTIES</h2>
+
+    <p class="pt-6">Your data may be transferred to the following addressees for these reasons:</p>
+
+    <ul class="list-disc pt-4 pl-10">
+      <li>Public Administrations: for compliance with legal obligations to which AED is subject based on its activity.
+      </li>
+      <li>Accounting audit firms: to comply with the legal obligations of auditing accounts to which AED is subject due
+        to its activity.</li>
+      <li>Law Enforcement: when our organization is required to provide information in compliance with a legal
+        obligation.</li>
+      <li>Other organizers of the event. In this case, data may be transferred to the School of Mathematics and
+        Statistics of the Polytechnic University of Catalonia.
+      <li>Providers who require access to your personal data in order to provide the services that AED has hired from
+        them, and with whom AED has subscribed confidentiality and data processing agreements that are necessary and
+        mandatory by the privacy protection regulation.</li>
+      <li>We may share your CV with the Sponsors participating at the specific event organized by AED in which you
+        request to participate in. AED will be able to transfer your data due to the fact that you have given your
+        consent.</li>
+    </ul>
+
+    <p class="pt-6">You will be duly informed if AED transfers personal data to other addressees in the future.</p>
+
+    <h2>6. INTERNATIONAL DATA TRANSFERS</h2>
+
+    <p>AED has hired technology service providers located in countries that do not have a data protection regulation
+      equivalent to the European (“Third Countries”). These service providers have signed the confidentiality and data
+      processing agreements required by the regulation, which apply the warranties and safeguards needed to preserve
+      your privacy.</p>
+
+    <p>For further information regarding warranties to your privacy, you may contact AED at the electronic or postal
+      addresses previously indicated.</p>
+
+    <h2>7. HOW LONG WE WILL STORE YOUR DATA</h2>
+
+    <p>Your personal data will be stored while your relationship with AED is ongoing and, once said relationship is
+      terminated for whatever cause, for the applicable legal terms. Once the relationship is terminated, your data will
+      be processed solely to the effects of demonstrating compliance with the legal or contractual obligations of the
+      Company. Once said legal terms are met, your data will be eliminated or, alternatively, anonymized.</p>
+
+    <h2>8. WHAT ARE YOUR RIGHTS</h2>
+
+    <p>We inform you that you have a right to access your personal data, rectify inaccurate data, request their erasure
+      when they are no longer necessary, oppose or limit the processing or request the portability of the data, through
+      the postal and electronic addresses indicated.</p>
+
+    <p>Furthermore, if you consider the processing of your personal data violates the regulation or your rights to
+      privacy, you may file a complaint:</p>
+
+    <ul class="list-disc pt-4 pl-10">
+      <li>To AED, through the electronic and postal addresses indicated.</li>
+      <li>To the Spanish Data Protection Agency (Agencia Española de Protección de Datos) through its electronic or
+        postal addresses.</li>
+    </ul>
+
+    <h2>9. WARNING TO MINORS</h2>
+
+    <p>AED hereby informs you that minors under the age of 14 may not register on this Website and, therefore, they may
+      not take part in promotional campaigns that AED may conduct in relation to its activity.</p>
+
+    <p>Furthermore, you are informed that if you are aged over 14 but under 18, it is recommended that you tell your
+      parents or legal guardians that you intend to access the Website before doing so, in order that the former explain
+      to you the implications of our <a class="text-accent hover:text-dark" target="_blank" href="/terms">Terms and Conditions</a> and, specifically, of the Privacy
+      Policy contained herein, as well as elucidating on the possible uses to be made of this Website, notwithstanding
+      the specific cases in which by law the parents or legal guardians of minors between the ages of 14 and 18 must
+      give their consent for their personal data to be processed.</p>
+
+    <p class="pt-10">Last Reviewed: September 19, 2024.</p>
 </div>
+
 
 <style>
   h1{
@@ -122,10 +246,11 @@
     color: var(--accent);
     margin-top: 2rem;
     font-size: 18pt;
+    margin-bottom: 1rem;
   }
   p, li{
     font-family: var(--font-body);
-    font-size: 14pt;
+    font-size: 12pt;
   }
 
 @media (max-width: 768px) {
@@ -133,7 +258,7 @@
     font-size: 14pt;
   }
   p, li{
-    font-size: 12pt;
+    font-size: 10pt;
   }
 }
 div{
