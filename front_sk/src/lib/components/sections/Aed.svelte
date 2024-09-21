@@ -2,7 +2,6 @@
   import Button from "../Button.svelte";
   import aedLogo from '$lib/assets/aedLogo.png';
   import blackLogo from '$lib/assets/blackLogo.png';
-  import circle from '$lib/assets/circle.png';
 </script>
 
 <div id="aed" class="flex justify-center items-center w-full mt-52">
@@ -30,7 +29,7 @@
           If you are thinking of partnering/sponsoring us, don’t hesitate to reach us via email. If you have any doubts, feel free to contact us as well! We also accept suggestions or ideas for other events. 
         </p>
         <div class="flex flex-wrap space-x-1 align-stretch sm:space-x-4 justify-center">
-          <a href="https://aed.cat/" target="_blank" class="mb-4">
+          <a href="mailto:sponsors.datathon@aed.cat" target="_blank" class="mb-4">
             <Button outline>Contact us</Button>
           </a>
         </div>
@@ -47,12 +46,13 @@
     
     <!-- Content of the section -->
     <div class="flex flex-col items-center max-w-sm md:max-w-2xl  z-10">
-      <h2 class=" u font-title font-bold text-[36px] md:text-[48px] text-accent text-center">We're looking for volunteers!</h2>
+      <h2 class=" u font-title font-bold text-[36px] md:text-[48px] text-accent text-center">We're looking for mentors!</h2>
       <p class="text-secondary font-body mb-6 mt-2 text-justify text-[14px] md:text-[17px]">
-        If you are thinking of partnering/sponsoring us, don’t hesitate to reach us via email. If you have any doubts, feel free to contact us as well! We also accept suggestions or ideas for other events. We’re currently recruiting mentors and volunteers! Join us, it'll be fun!
+        Would you like to assist the participants with their projects? If you have any remarkable technical skill (ML, frameworks, programming languages) apply now for being a mentor!
+        
       </p>
       <div class="flex flex-wrap space-x-1 sm:space-x-4 justify-center">
-        <a href="https://aed.cat/" target="_blank">
+        <a href="https://otld03s5z97.typeform.com/to/rvhjbdrf" target="_blank">
           <Button outline>Volunteer</Button>
         </a>
       </div>
