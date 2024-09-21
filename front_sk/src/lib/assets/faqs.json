@@ -70,12 +70,11 @@
       "questions": [
         {
           "question": "Who can participate?",
-          "answer": ""
+          "answer": "Anyone who has been a part of the academic community within the last two years is welcome to join! This includes undergraduate, master’s, and PhD students. Whether you're currently enrolled or graduated recently, as long as you’ve been affiliated with a university in the past two years, you’re eligible to participate."
         },
         {
           "question": "Until what day can I register?",
-          "answer": "The registration deadline is [TBC]. Make sure to sign up before this date to secure your participation."
-
+          "answer": "The registration deadline is [TBC]. However, once reached our maximum capacity we might close the registrations sooner. Make sure to sign up as soon as possible to secure your participation."
         }
       ]
     },
@@ -91,7 +90,6 @@
           "question": "What if I don't have a team?",
           "answer": "No worries! You can register as an individual, and we will help you form a team with other participants who are also looking for teammates."
         },
-
         {
           "question": "What happens if I registered without a team, but now I have one?",
           "answer": ""
