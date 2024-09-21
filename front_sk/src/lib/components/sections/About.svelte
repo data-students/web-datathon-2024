@@ -43,7 +43,7 @@
     </Card>
 
     <div class="w-full h-full flex items-center justify-center flex-col">
-      <h2 class="font-title font-bold md:text-[48px] text-[36px]  text-terc text-center">Summary of last year’s edition!  </h2>
+      <h2 class="font-title font-bold md:text-[48px] text-[36px]  text-terc text-center px-4">Summary of last year’s edition!  </h2>
       <iframe class="w-[70%] h-[30vh] sm:h-[50vh] lg:h-[70vh] pt-10" src="https://www.youtube.com/embed/5PUtT34NhrI?si=vmb4dj6mWIEaoNfW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 </div>
