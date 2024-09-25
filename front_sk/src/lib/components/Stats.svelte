@@ -44,7 +44,7 @@
 <div class="mt-44 pb-20" use:handleIntersect>
      <div class="parent ">
         <div class="div1 -z-10">
-            <Card className=" w-[250px] sm:w-[330px] h-[200px] bg-terc p-[30px] justify-center">
+            <Card className=" w-[250px] sm:w-[330px] h-[200px] bg-terc p-[30px] justify-center drop-shadow-xl">
                 <div class="">
                     <p class="text-accent font-title text-[64px] font-bold">
                         {$animatedMoney}€
@@ -56,7 +56,7 @@
             </Card>
         </div>
         <div class="div2 z-20">
-            <Card className="w-[250px] sm:w-[330px] h-[200px] bg-accent p-[30px] justify-center">
+            <Card className="w-[250px] sm:w-[330px] h-[200px] bg-accent p-[30px] justify-center drop-shadow-xl">
                 <div class="">
                     <p class="text-terc font-title text-[44px] font-bold text-center">
                         It's <span class="text-dark font-extrabold a">FREE</span> to join!
@@ -65,7 +65,7 @@
             </Card>
         </div>
         <div class="div3 ">
-            <Card className="-z-10 w-[250px] sm:w-[336px] h-[200px] bg-dark p-[30px]  justify-start">
+            <Card className="-z-10 w-[250px] sm:w-[336px] h-[200px] bg-dark p-[30px]  justify-start drop-shadow-xl">
                 <div class="">
                     <p class="text-terc font-title text-[64px] font-bold">
                         +{$animatedParticipants}

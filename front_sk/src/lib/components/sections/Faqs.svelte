@@ -8,7 +8,7 @@
     <h2 class="font-title font-bold md:text-[48px] text-[36px] mb-10 text-dark text-center col-span-full">FAQs</h2>
 
     <div class="flex flex-col items-center ">
-        <Card className="w-full sm:w-[90%] bg-terc p-12 flex flex-col mb-20 drop-shadow-none">
+        <Card className="w-full sm:w-[90%] bg-terc p-12 flex flex-col mb-20 ">
             <h6 class="text-accent font-title text-[16px] font-bold">{faqs[0].section_title}</h6>
 
             <ul class="pt-4 space-y-6">
@@ -21,7 +21,7 @@
 
     <div class="flex flex-col items-center">
         {#each faqs.slice(1) as section}
-            <Card className="w-[90%] sm:w-[90%] bg-terc p-10 flex flex-col mb-10 drop-shadow-none">
+            <Card className="w-[90%] sm:w-[90%] bg-terc p-10 flex flex-col mb-10 ">
                 <h6 class="text-accent font-title text-[16px] font-bold">{section.section_title}</h6>
 
                 <ul class="pt-4 space-y-6">
