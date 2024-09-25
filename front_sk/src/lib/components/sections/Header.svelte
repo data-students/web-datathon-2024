@@ -7,22 +7,10 @@
     let toggle = false;
     function scrollToSection({ target }) {
         toggle = false;
+
         const el = document.querySelector(target.getAttribute('href'));
         if (!el) return;
-        const scrollStep = 20; 
-        const scrollInterval = 1; 
-        const targetPosition = el.getBoundingClientRect().top + window.pageYOffset;
-        let currentPosition = window.pageYOffset;
-        function scrollStepFn() {
-            if (Math.abs(currentPosition - targetPosition) < scrollStep) {
-                window.scrollTo(0, targetPosition);
-                return;
-            }
-            currentPosition += currentPosition < targetPosition ? scrollStep : -scrollStep;
-            window.scrollTo(0, currentPosition);
-            setTimeout(scrollStepFn, scrollInterval);
-        }
-        scrollStepFn();
+        el.scrollIntoView({ behavior: 'smooth' });
 }
 </script>
 
