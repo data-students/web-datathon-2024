@@ -10,7 +10,7 @@
 
     <div class="flex flex-col justify-center items-center my-[14vh]">
         <h1 class="font-title font-bold text-[62px] md:text-[96px] text-dark text-center">Datathon FME</h1>
-        <h4 class="font-body text-[20px] md:text-[36px] text-secondary text-center">Barcelona, November 16 - 17</h4>
+        <h4 class="font-body text-[20px] md:text-[36px] text-secondary text-center">Barcelona, 16-17 November 2024</h4>
         <Button className="mt-8">Register</Button>
     </div>
     <Logos />

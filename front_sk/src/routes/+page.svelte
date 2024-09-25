@@ -9,7 +9,7 @@
     import Scroll from '$lib/components/Scroll.svelte';
 </script>
 
-<div class="flex flex-col items-center w-screen overflow-hidden ">
+<div class="flex flex-col items-center max-w-screen overflow-hidden ">
     <Header />
     <Title />
     <About/>

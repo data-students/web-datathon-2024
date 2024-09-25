@@ -12,12 +12,12 @@
         <ul class="flex flex-wrap items-center justify-center [&_li]:mx-8 [&_li]:my-4 ">
             <li>
                 <a href="https://restb.ai/" target="_blank" aria-label="restb logo">
-                    <img src={restb} alt="restb logo" class="w-auto h-12 md:h-16 lg:h-20 " />
+                    <img src={restb} alt="restb logo" class="w-auto h-12 md:h-14 lg:h-16 " />
                 </a>
             </li>
             <li>
                 <a href="https://www.se.com/es/es/" target="_blank" aria-label="schneider electric logo">
-                    <img src={schneider} alt="schneider electric logo" class=" w-auto h-12 md:h-16 lg:h-20"/>
+                    <img src={schneider} alt="schneider electric logo" class=" w-auto h-12 md:h-14 lg:h-16"/>
                 </a>
             </li>
         </ul>                
