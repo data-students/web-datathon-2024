@@ -65,12 +65,12 @@
             </Card>
         </div>
         <div class="div3 ">
-            <Card className="-z-10 w-[250px] sm:w-[336px] h-[200px] bg-dark p-[30px]  justify-start drop-shadow-xl">
+            <Card className="-z-10 w-[250px] sm:w-[336px] h-[200px] bg-dark p-[30px]  justify-center drop-shadow-xl">
                 <div class="">
                     <p class="text-terc font-title text-[64px] font-bold">
                         +{$animatedParticipants}
                     </p>
-                    <p class="text-terc font-title font-bold text-[22px] absolute bottom-0/2 right-1 pr-8 -my-4">
+                    <p class="text-terc font-title font-bold text-[22px] text-center">
                         PARTICIPANTS
                     </p>
                 </div>
