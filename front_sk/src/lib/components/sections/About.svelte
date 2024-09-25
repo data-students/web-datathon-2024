@@ -49,7 +49,7 @@
 </div>
 
 
-<div class="custom-shape-divider-top-1724412405">
+<div class="custom-shape-divider-top-1724412405 -mt-2 ">
     <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
         <path d="M1200 120L0 16.48 0 0 1200 0 1200 120z" class="shape-fill"></path>
     </svg>
@@ -61,7 +61,7 @@
     position: relative;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 101%;
     overflow: hidden;
     line-height: 0;
 }
