@@ -13,7 +13,7 @@
         <div class=" w-full flex flex-row space-x-6 pt-2">
             <p class="w-full lg:w-[80%] font-body text-black/75 text-justify  text-[14px] md:text-[17px]"> The datathon is a weekend-long competition where you are challenged to solve real-world problems using machine learning, AI and data science techniques in groups of maximum 4 people. We'll present 3 challenges, and you'll have to  choose one. Typically, you'll be asked to find solutions to specific  problems using some datasets. Apart from this, there will be  non-mandatory workshops and activities to get relaxed and meet new  people!</p>
           <div class="hidden lg:flex items-center justify-center w-1/4">
-            <Button plain className="-mt-4">Join now!</Button>
+        <a class="-mt-4" href="https://otld03s5z97.typeform.com/to/GAz1tKet" target="_blank"><Button >Join now!</Button></a>
           </div>
         </div>
         <div class="flex flex-col lg:flex-row  pt-10 w-full lg:space-x-12 space-y-12 lg:space-y-0">
