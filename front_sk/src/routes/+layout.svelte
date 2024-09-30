@@ -1,5 +1,5 @@
-<script lang="postcss">
-  import "../app.css";
+<script lang="ts">
+	import '../app.css';
 </script>
 
 <slot />

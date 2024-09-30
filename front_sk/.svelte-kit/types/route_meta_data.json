@@ -1,6 +1,10 @@
 {
+	"/(app)": [],
 	"/": [],
-	"/legal": [],
-	"/privacy": [],
-	"/terms": []
+	"/(app)/generator": [
+		"src/routes/(app)/generator/+page.server.ts"
+	],
+	"/(app)/legal": [],
+	"/(app)/privacy": [],
+	"/(app)/terms": []
 }

@@ -1,5 +1,4 @@
 <script>
-    import Header from '$lib/components/sections/Header.svelte';
     import Title from '$lib/components/sections/Title.svelte';
     import Footer from '$lib/components/sections/Footer.svelte';
     import Schedule from '$lib/components/sections/Schedule.svelte';
@@ -10,7 +9,6 @@
 </script>
 
 <div class="flex flex-col items-center max-w-screen overflow-hidden ">
-    <Header />
     <Title />
     <About/>
     <Schedule />
