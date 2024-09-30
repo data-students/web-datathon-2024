@@ -54,7 +54,7 @@
         {:else}
             <a href="/generator"><Button outline>Generator</Button></a>
         {/if}
-        <Button >Join</Button>
+        <a href="https://otld03s5z97.typeform.com/to/GAz1tKet" target="_blank"><Button >Join</Button></a>
     </div>
     
     <div class="pr-9 lg:pr-0">
@@ -80,7 +80,7 @@
                 {:else}
                     <a href="/generator"><Button onClick={() => (toggle = !toggle)} outline>Generator</Button></a>
                 {/if}
-                <Button >Join</Button>
+                <a href="https://otld03s5z97.typeform.com/to/GAz1tKet" target="_blank"><Button >Join</Button></a>
             </div>
             <div class="fixed bottom-0">
                 <Button  plain outline onClick={() => (toggle = !toggle)} className="w-22 h-22  mb-8 bg-primary text-dark px-4 py-2 rounded">
