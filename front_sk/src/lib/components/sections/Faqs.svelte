@@ -4,7 +4,7 @@
     import Card from "$lib/components/Card.svelte";
 </script>
 
-<div id="faqs" class="w-[90%] sm:w-[85%] grid grid-cols-1 lg:grid-cols-2 items-start pb-40 mt-52 ">
+<div id="faqs" class="w-[90%] sm:w-[85%] grid grid-cols-1 lg:grid-cols-2 items-start pb-40 mt-40 ">
     <h2 class="font-title font-bold md:text-[48px] text-[36px] mb-10 text-dark text-center col-span-full">FAQs</h2>
 
     <div class="flex flex-col items-center ">

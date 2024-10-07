@@ -20,11 +20,7 @@
 
      <div class={`items-center justify-center ${$page.url.pathname !== '/' ? 'opacity-0' : ''}`}>
         <ul class=" hidden lg:flex flex-row space-x-12 px-10 py-2.5 rounded-full font-title font-semibold  bg-dark text-terc text-[16px]">
-            <li class="hover:text-accent group relative ">
-                <a href="#home" on:click|preventDefault={scrollToSection} >Home</a>
-                <span class="absolute -bottom-1 left-1/2 w-0 transition-all h-0.5 bg-accent group-hover:w-3/6"></span>
-                <span class="absolute -bottom-1 right-1/2 w-0 transition-all h-0.5 bg-accent group-hover:w-3/6"></span>
-            </li>
+            
             <li class="hover:text-accent group relative ">
                 <a href="#about" on:click|preventDefault={scrollToSection} >About</a>
                 <span class="absolute -bottom-1 left-1/2 w-0 transition-all h-0.5 bg-accent group-hover:w-3/6"></span>
@@ -37,6 +33,11 @@
             </li>
             <li class="hover:text-accent group relative ">
                 <a href="#aed" on:click|preventDefault={scrollToSection}>AED</a>
+                <span class="absolute -bottom-1 left-1/2 w-0 transition-all h-0.5 bg-accent group-hover:w-3/6"></span>
+                <span class="absolute -bottom-1 right-1/2 w-0 transition-all h-0.5 bg-accent group-hover:w-3/6"></span>
+            </li>
+            <li class="hover:text-accent group relative ">
+                <a href="#contact" on:click|preventDefault={scrollToSection} >Contact</a>
                 <span class="absolute -bottom-1 left-1/2 w-0 transition-all h-0.5 bg-accent group-hover:w-3/6"></span>
                 <span class="absolute -bottom-1 right-1/2 w-0 transition-all h-0.5 bg-accent group-hover:w-3/6"></span>
             </li>
@@ -68,10 +69,10 @@
         <div class=" flex flex-col just-center items-center space-y-2  text-center ">
             <h2 class="text-[36px] font-title font-bold mb-4 text-accent">Menu</h2>
             <ul class={` space-y-4 text-[20px] ${$page.url.pathname !== '/' ? 'hidden' : ''} `}>
-                <li><a href="#home" on:click|preventDefault={scrollToSection} class=" text-primary font-body">Home</a></li>
                 <li><a href="#about" on:click|preventDefault={scrollToSection} class=" text-primary font-body">About</a></li>
                 <li><a href="#schedule" on:click|preventDefault={scrollToSection}  class=" text-primary font-body">Schedule</a></li>
                 <li><a href="#aed" on:click|preventDefault={scrollToSection}  class=" text-primary font-body">AED</a></li>
+                <li><a href="#contact" on:click|preventDefault={scrollToSection} class=" text-primary font-body">Contact</a></li>
                 <li><a href="#faqs" on:click|preventDefault={scrollToSection}  class="font-body">FAQs</a></li>
             </ul>
             <div class="space-x-4 flex flex-row flex-wrap justify-center items-center pt-4">
