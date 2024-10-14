@@ -15,10 +15,10 @@ export const server_loads = [];
 
 export const dictionary = {
 		"/(app)": [3,[2]],
-		"/(app)/generator": [~6,[2]],
-		"/(app)/legal": [7,[2]],
-		"/(app)/privacy": [5,[2]],
-		"/(app)/terms": [4,[2]]
+		"/(app)/generator": [~4,[2]],
+		"/(app)/legal": [5,[2]],
+		"/(app)/privacy": [6,[2]],
+		"/(app)/terms": [7,[2]]
 	};
 
 export const hooks = {
@@ -27,4 +27,4 @@ export const hooks = {
 	reroute: (() => {})
 };
 
-export { default as root } from '../root.js';
+export { default as root } from '../root.svelte';

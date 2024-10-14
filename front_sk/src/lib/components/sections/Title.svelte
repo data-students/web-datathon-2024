@@ -1,17 +1,18 @@
 
-<script>
+<script lang="ts">
     import Button from '$lib/components/Button.svelte';
     import Logos from '$lib/components/Logos.svelte';
     import Stats from '$lib/components/Stats.svelte';
+    import { t, locale, loadTranslations } from '$lib/translations/translations';
 </script>
 
 <div class="h-full">
     <iframe loading="lazy" class=" absolute inset-x-0 -top-[17%] sm:-top-[20%] md:-top-[10%] lg:top-1 w-full  h-[158rem] sm:h-[143rem] md:h-[147rem] lg:h-[120rem] -z-10 border-0 opacity-[50%] overfow-hidden" title="bg" src='https://my.spline.design/vaporwavebackgroundcopy-d951eda28d2ab9cb3bdc517f94e2bdd4/' frameborder='0'></iframe>
 
     <div class="flex flex-col justify-center items-center my-[14vh]">
-        <h1 class="font-title font-bold text-[62px] md:text-[96px] text-dark text-center">Datathon FME</h1>
-        <h4 class="font-body text-[20px] md:text-[36px] text-secondary text-center">Barcelona, 16-17 November 2024</h4>
-        <a class="mt-8" href="https://otld03s5z97.typeform.com/to/GAz1tKet" target="_blank"><Button >Register</Button></a>
+        <h1 class="font-title font-bold text-[62px] md:text-[96px] px-4 text-dark text-center">Datathon FME</h1>
+        <h4 class="font-body text-[20px] md:text-[36px] px-4 text-secondary text-center">{$t("main.subtitle")}</h4>
+        <a class="mt-8" href="https://otld03s5z97.typeform.com/to/GAz1tKet" target="_blank"><Button >{$t("main.register")}</Button></a>
     </div>
     <Logos />
 </div>

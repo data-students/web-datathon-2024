@@ -3,6 +3,9 @@ export default {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
     extend: {
+      screens: {
+        'xl': '1300px',
+      },
       animation: {
         "infinite-scroll": "infinite-scroll 55s linear infinite",
       },

@@ -1,5 +1,6 @@
 <script>
     import Card from "$lib/components/Card.svelte";
+    import { t } from '$lib/translations/translations';
 
     import { tweened } from "svelte/motion";
     import { expoOut } from "svelte/easing";
@@ -50,7 +51,7 @@
                         {$animatedMoney}€
                     </p>
                     <p class="text-dark font-title font-bold text-[22px] text-center">
-                        IN PRIZES
+                        {$t("main.prizes")}
                     </p>
                 </div>
             </Card>
@@ -59,7 +60,7 @@
             <Card className="w-[250px] sm:w-[330px] h-[200px] bg-accent p-[30px] justify-center drop-shadow-xl">
                 <div class="">
                     <p class="text-terc font-title text-[44px] font-bold text-center">
-                        It's <span class="text-dark font-extrabold a">FREE</span> to join!
+                        {@html $t("main.join_free")}
                     </p>
                 </div>
             </Card>
