@@ -13,6 +13,57 @@
   "sponsored" : "SPONSORED BY",
   "organized" : "ORGANIZED BY",
   "prizes" : "IN PRIZES",
-  "join_free": "It's <span class='text-dark font-extrabold a'>FREE</span> to join!"
+  "join_free": "It's <span class='text-dark font-extrabold a'>FREE</span> to join!",
+
+  "what": {
+    "title" : "What is Datathon FME?",
+    "body": "The datathon is a weekend-long competition where you are challenged to solve real-world problems using machine learning, AI and data science techniques in groups of maximum 4 people. We'll present 3 challenges, and you'll have to choose one. Typically, you'll be asked to find solutions to specific problems using some datasets. Apart from this, there will be non-mandatory workshops and activities to get relaxed and meet new people!",
+    "cta": "Join now!",
+    "section1":{
+      "title": "Where?",
+      "body": "Our event will take place in UPC's School of Mathematics and Statistics, located in <a class='underline decoration-accent hover:text-accent'  href='https://maps.app.goo.gl/14XKLDg4Jk5bdcZj6' target='_blank'>C/ Pau Gargallo 14, Barcelona.</a>"
+    },
+    "section2":{
+      "title": "When?",
+      "body": "The fourth edition of Datathon FME will take place on <b> November 16 and 17 </b>."
+    },
+    "section3":{
+      "title": "Who?",
+      "body": "Data enthusiasts currently enrolled at university or recent graduates are welcome!."
+    }
+  },
+  "summary": "Summary of last year’s edition!",
+
+  "aed1":{
+    "title": "About us",
+    "body": "We are the Data Students' Association! We are organizing the fourth edition of this datathon, jointly with FME. Among our goals, we aim to promote data science within UPC. If you are studying <a href='https://dse.upc.edu/' target='_blank' class='text-accent decoration-accent underline'>Data Science & Engineering</a>, you should definitely join us!",
+    "cta": "Learn more"
+  },
+ "aed2":{
+    "title": "Join the event!",
+    "body": "If you are thinking of partnering/sponsoring us, don’t hesitate to reach us via email. If you have any doubts, feel free to contact us as well! We also accept suggestions or ideas for other events.",
+    "cta": "Contact us"
+  },
+   "aed3":{
+    "title": "We're looking for mentors!",
+    "body": "Would you like to assist the participants with their projects? If you have any remarkable technical skill (ML, frameworks, programming languages) apply now for being a mentor!",
+    "cta": "Volunteer"
+  },
+  "mails": {
+    "title": "Contact us",
+    "general": "General",
+    "sponsors": "Sponsors",
+    "registrations": "Registrations"
+  },
+  "legal": "Legal notice",
+  "terms": "Terms & conditions",
+  "privacy": "Privacy policy",
+
+  "gen": {
+    "title": "Team Code Generator",
+    "copy": "Click the code to copy!",
+    "copied" : "Copied to clipboard!"
+  }
+
 
 }

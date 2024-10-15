@@ -6,6 +6,7 @@
     import youtube from '$lib/assets/social-media/youtube.svg';
     import instagram from '$lib/assets/social-media/instagram.svg';
     import tiktok from '$lib/assets/social-media/tiktok.svg';
+    import {t, locale} from '$lib/translations/translations';
 </script>
 
 <footer class="bg-dark w-full h-70 flex flex-col justify-center items-start md:items-center p-10">
@@ -20,11 +21,11 @@
     <ul class="text-terc font-body text-[13px] sm:text-[16px] flex flex-row space-x-2 pt-6 text-center">
         <li>© 2024</li>
         <li >·</li>
-        <li><a href="/legal" target="_blank" class="underline hover:text-white">Legal notice</a></li>
+        <li><a href={`legal/${$locale}`} target="_blank" class="underline hover:text-white">{$t("main.legal")}</a></li>
         <li>·</li>
-        <li><a href="/terms" target="_blank" class="underline hover:text-white">Terms & conditions</a></li>
+        <li><a href={`terms/${$locale}`} target="_blank" class="underline hover:text-white">{$t("main.terms")}</a></li>
         <li>·</li>
-        <li><a href="/privacy" target="_blank" class="underline hover:text-white">Privacy policy</a></li>
+        <li><a href={`privacy/${$locale}`} target="_blank" class="underline hover:text-white">{$t("main.privacy")}</a></li>
     </ul>
 
 </footer>

@@ -1,17 +1,67 @@
 {
-  "subtitle": "Barcelona, 16-17 de novembre de 2024",
+  "subtitle": "Barcelona, 16-17 Novembre 2024",
   "generator": "Generador",
   "join": "Unir-se",
-  "about": "Sobre",
+  "about": "Sobre nosaltres",
   "schedule": "Horari",
-  "aed": "AED",
+  "aed": "DEA",
   "contact": "Contacte",
-  "faqs": "FAQs",
+  "faqs": "Preguntes freqüents",
   "menu": "Menú",
   "home": "Inici",
   "register": "Registrar-se",
   "sponsored": "PATROCINAT PER",
   "organized": "ORGANITZAT PER",
   "prizes": "EN PREMIS",
-  "join_free": "És <span class='text-dark font-extrabold a'>GRATUÏT</span> participar!"
+  "join_free": "Unir-se és <span class='text-dark font-extrabold a'>GRATUÏT</span>!",
+
+  "what": {
+    "title": "Què és el Datathon FME?",
+    "body": "El datathon és una competició de cap de setmana on se't desafia a resoldre problemes del món real utilitzant tècniques d’aprenentatge automàtic, IA i ciència de dades en grups de màxim 4 persones. Presentarem 3 reptes, i hauràs de triar-ne un. Normalment, se't demanarà trobar solucions a problemes específics utilitzant alguns conjunts de dades. A més, hi haurà tallers i activitats no obligatoris per relaxar-se i conèixer gent nova!",
+    "cta": "Uneix-te ara!",
+    "section1": {
+      "title": "On?",
+      "body": "El nostre esdeveniment tindrà lloc a la Facultat de Matemàtiques i Estadística de la UPC, situada a <a class='underline decoration-accent hover:text-accent' href='https://maps.app.goo.gl/14XKLDg4Jk5bdcZj6' target='_blank'>C/ Pau Gargallo 14, Barcelona.</a>"
+    },
+    "section2": {
+      "title": "Quan?",
+      "body": "La quarta edició del Datathon FME se celebrarà el <b>16 i 17 de novembre</b>."
+    },
+    "section3": {
+      "title": "Qui?",
+      "body": "Apte per a entusiastes de les dades que actualment estan matriculats a la universitat o que recentment s'han graduat!"
+    }
+  },
+  "summary": "Resum de l'edició de l'any passat!",
+
+  "aed1": {
+    "title": "Sobre nosaltres",
+    "body": "Som l'Associació d'Estudiants de Dades! Estem organitzant la quarta edició d'aquest datathon, conjuntament amb l'FME. Un dels nostres objectius és promoure la ciència de dades dins la UPC. Si estàs estudiant <a href='https://dse.upc.edu/' target='_blank' class='text-accent decoration-accent underline'>Ciència i Enginyeria de Dades</a>, t'has d'unir a nosaltres!",
+    "cta": "Més informació"
+  },
+  "aed2": {
+    "title": "Uneix-te a l'esdeveniment!",
+    "body": "Si estàs pensant a associar-te o patrocinar-nos, no dubtis a contactar-nos per correu electrònic. Si tens algun dubte, també ens pots contactar! També acceptem suggeriments o idees per a altres esdeveniments.",
+    "cta": "Contacta'ns"
+  },
+  "aed3": {
+    "title": "Busquem mentors!",
+    "body": "T'agradaria ajudar els participants amb els seus projectes? Si tens alguna habilitat tècnica destacada (ML, frameworks, llenguatges de programació), aplica ara per ser mentor!",
+    "cta": "Fes-te voluntari"
+  },
+  "mails": {
+    "title": "Contacta'ns",
+    "general": "General",
+    "sponsors": "Patrocinadors",
+    "registrations": "Inscripcions"
+  },
+  "legal": "Avís legal",
+  "terms": "Termes i condicions",
+  "privacy": "Política de privacitat",
+
+  "gen": {
+    "title": "Generador de codi d'equip",
+    "copy": "Fes clic al codi per copiar!",
+    "copied": "Copiat al porta-retalls!"
+  }
 }
