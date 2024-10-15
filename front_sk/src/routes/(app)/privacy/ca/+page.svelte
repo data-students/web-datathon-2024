@@ -2,238 +2,231 @@
     <title>Datathon - Privacy Policy</title> 
 </svelte:head>
 
-
 <div class="p-6 sm:p-10">
-  <h1 class="text-dark font-title md:text-[48px] sm:text-[35px] text-[30px] font-bold">Datathon FME - Privacy Policy</h1>
+  <h1 class="text-dark font-title md:text-[48px] sm:text-[35px] text-[30px] font-bold">Datathon FME - Política de Privacitat</h1>
   <main>
 
-    <p>In compliance with current regulations on the protection of personal data, you are informed of the following
-      aspects.</p>
+    <p>En compliment de la normativa vigent sobre protecció de dades personals, se us informa dels següents aspectes.</p>
 
-    <h2>1. DATA CONTROLLER</h2>
+    <h2>1. RESPONSABLE DEL TRACTAMENT</h2>
 
-    <p>Associació d'Estudiants de Dades (hereinafter, “AED”), with address at C/ Pau Gargallo 14, D.413, 08028, Barcelona
-      (Spain), is the Data Controller of the processing of your personal data.</p>
+    <p>Associació d'Estudiants de Dades (d'ara endavant, “AED”), amb adreça a C/ Pau Gargallo 14, D.413, 08028, Barcelona
+      (Espanya), és el Responsable del Tractament de les vostres dades personals.</p>
 
-    <p>You may contact AED at the postal address previously indicated or at the following email address for any query,
-      request or clarification regarding the processing of your personal data: <a class="text-accent hover:text-dark"
+    <p>Podeu contactar amb AED a l'adreça postal anteriorment indicada o a la següent adreça de correu electrònic per a qualsevol consulta,
+      sol·licitud o aclariment sobre el tractament de les vostres dades personals: <a class="text-accent hover:text-dark"
         href="mailto:hola@aed.cat">hola@aed.cat</a>.</p>
 
-    <h2>2. WHAT PERSONAL DATA WE PROCESS AND HOW WE HAVE OBTAINED IT</h2>
+    <h2>2. QUINES DADES PERSONALS TRACTEM I COM LES HEM OBTINGUT</h2>
 
-    <p>AED shall process the following personal data: (i) any initial data that you voluntarily provide related to a
-      request to register as a participant, information requests made to our association, requests to take part in
-      promotions or requests to receive any of the services offered by AED (We shall give clear, precise instructions of
-      the mandatory data you must provide on each form); (ii) any data that is subsequently generated or exchanged with
-      Users in order for AED to fulfill your initial request; and (iii) any personal data that you provide through social
-      media in order to handle your requests. These data shall depend on the privacy settings of each participant and the
-      use made by each participant of social media, in addition to the privacy policies of the social media in question.
+    <p>AED tractarà les següents dades personals: (i) qualsevol dada inicial que proporcioneu voluntàriament relacionada amb una
+      sol·licitud de registre com a participant, sol·licituds d'informació fetes a la nostra associació, sol·licituds de participació en
+      promocions o sol·licituds per rebre qualsevol dels serveis oferts per AED (us donarem instruccions clares i precises de
+      les dades obligatòries que heu de proporcionar en cada formulari); (ii) qualsevol dada que es generi o intercanviï posteriorment amb
+      els Usuaris per tal que AED compleixi la vostra sol·licitud inicial; i (iii) qualsevol dada personal que proporcioneu a través de les xarxes
+      socials per gestionar les vostres sol·licituds. Aquestes dades dependran de la configuració de privacitat de cada participant i de
+      l'ús que faci cada participant de les xarxes socials, a més de les polítiques de privacitat de les xarxes socials en qüestió.
     </p>
 
 
-    <p class="pt-6">Here are the details of which personal data may be collected when you register as a Participant:</p>
+    <p class="pt-6">A continuació es detallen quines dades personals es poden recollir quan us registreu com a Participant:</p>
 
     <ul class="list-disc pt-4 pl-10">
-      <li>Identifying data: Name, surname(s), city, country, images or videos of yourself.</li>
-      <li>Contact data: email.</li>
-      <li>Data on personal characteristics: Gender, age, t-shirt size and menu preferences.</li>
-      <li>Academic and professional data: CV, university, current studies, current year of studies.</li>
+      <li>Dades identificatives: Nom, cognoms, ciutat, país, imatges o vídeos de vosaltres mateixos.</li>
+      <li>Dades de contacte: correu electrònic.</li>
+      <li>Dades sobre característiques personals: Gènere, edat, talla de samarreta i preferències de menú.</li>
+      <li>Dades acadèmiques i professionals: CV, universitat, estudis actuals, any actual d'estudis.</li>
     </ul>
 
-    <p class="pt-6">Here are the details of which personal data may be collected when you register as a Judge, a Mentor or a
-      Volunteer:</p>
+    <p class="pt-6">A continuació es detallen quines dades personals es poden recollir quan us registreu com a Jutge, Mentor o Voluntari:</p>
 
     <ul class="list-disc pt-4 pl-10">
-      <li>Identifying data: Name, surname(s), images or videos of yourself, links to social media and personal websites.</li>
-      <li>Contact data: email and phone number.</li>
-      <li>Data on personal characteristics: Gender, t-shirt size and menu preferences.</li>
+      <li>Dades identificatives: Nom, cognoms, imatges o vídeos de vosaltres mateixos, enllaços a xarxes socials i llocs web personals.</li>
+      <li>Dades de contacte: correu electrònic i número de telèfon.</li>
+      <li>Dades sobre característiques personals: Gènere, talla de samarreta i preferències de menú.</li>
     </ul>
 
-    <p class="pt-6">Here are the details of which personal data may be collected when you register as a Sponsor:</p>
+    <p class="pt-6">A continuació es detallen quines dades personals es poden recollir quan us registreu com a Patrocinador:</p>
 
     <ul class="list-disc pt-4 pl-10">
-      <li>Identifying data: Name, surname(s), address, zip code, and images or videos of the contact person or the
-        employee of the Sponsor.</li>
-      <li>Business contact data: Corporate e-mail of the contact person or the employee of the Sponsor. We also collect
-        what company you are working for currently, as well as your Job title.</li>
-      <li>Data on personal characteristics: Gender, t-shirt size and menu preferences.</li>
+      <li>Dades identificatives: Nom, cognoms, adreça, codi postal, i imatges o vídeos de la persona de contacte o l'empleat del Patrocinador.</li>
+      <li>Dades de contacte empresarial: Correu electrònic corporatiu de la persona de contacte o l'empleat del Patrocinador. També recollim
+        a quina empresa esteu treballant actualment, així com el vostre títol de treball.</li>
+      <li>Dades sobre característiques personals: Gènere, talla de samarreta i preferències de menú.</li>
     </ul>
 
-    <p class="pt-6">Here are the details of which personal data is collected to check if cheating has ocurred (check the "Cheating"
-      section in our <a class="text-accent hover:text-dark" target="_blank" href="/terms">terms and conditions</a>):</p>
+    <p class="pt-6">A continuació es detallen quines dades personals es recullen per comprovar si s'ha produït trampa (consulteu la secció "Trampes"
+      en els nostres <a class="text-accent hover:text-dark" target="_blank" href="/terms">termes i condicions</a>):</p>
 
     <ul class="list-disc pt-4 pl-10">
-      <li>Identifying and contact data of the reporter: Name, email, phone, etc.</li>
-      <li>Identifying and contact data of the participant/team accused of cheating: Name, email, phone, etc.</li>
-      <li>Identifying data of other people suspected of being involved in the cheating.</li>
-      <li>Identifying data of other witnesses or people who suspect the cheating.</li>
+      <li>Dades identificatives i de contacte del denunciant: Nom, correu electrònic, telèfon, etc.</li>
+      <li>Dades identificatives i de contacte del participant/equip acusat de fer trampes: Nom, correu electrònic, telèfon, etc.</li>
+      <li>Dades identificatives d'altres persones sospitoses d'estar implicades en les trampes.</li>
+      <li>Dades identificatives d'altres testimonis o persones que sospiten de les trampes.</li>
     </ul>
 
-    <h2>3. WHAT WE PROCESS YOUR PERSONAL DATA FOR</h2>
+    <h2>3. PER A QUÈ TRACTEM LES VOSTRES DADES PERSONALS</h2>
 
-    <p class="pt-6">When you subscribe to be the first to know when applications open, register as a Participant, register as a
-      Volunteer, register as a Judge or a Mentor or register as “other attendees/users”:</p>
+    <p class="pt-6">Quan us subscriviu per ser els primers a saber quan s'obren les sol·licituds, us registreu com a Participant, us registreu com a
+      Voluntari, us registreu com a Jutge o Mentor o us registreu com a “altres assistents/usuaris”:</p>
 
     <ul class="list-disc pt-4 pl-10">
-      <li>AED shall process your personal data to handle and process requests received from you, providing services
-        before and during the event, whether for information, registration, participation in promotions or the rendering
-        of services.</li>
-      <li>In addition, your personal data shall be processed to send, including via electronic media, commercial
-        communications about activities, services or products offered by AED that are of a similar nature to those
-        previously requested by you.</li>
+      <li>AED tractarà les vostres dades personals per gestionar i processar les sol·licituds rebudes de vosaltres, proporcionant serveis
+        abans i durant l'esdeveniment, ja sigui per a informació, registre, participació en promocions o la prestació
+        de serveis.</li>
+      <li>A més, les vostres dades personals es tractaran per enviar, incloent-hi mitjans electrònics, comunicacions comercials sobre activitats,
+        serveis o productes oferts per AED que siguin de naturalesa similar als sol·licitats anteriorment per vosaltres.</li>
     </ul>
 
-    <p class="pt-6">When you register as a Sponsor:</p>
+    <p class="pt-6">Quan us registreu com a Patrocinador:</p>
 
     <ul class="list-disc pt-4 pl-10">
-      <li>Your business contact data will be processed with the exclusive purpose of maintaining the commercial,
-        contractual or collaborative relationships that the organizers have with the company, entity or organization you
-        work for or collaborate with.</li>
-      <li>In addition, your business contact data shall be processed to send, including via electronic media, commercial
-        communications about activities, services or products offered by AED that are of a similar nature to those that
-        motivate the existing relationship between our entity and the company, entity or organization that you work for
-        or collaborate with or providing services before and during the event.</li>
+      <li>Les vostres dades de contacte empresarial es tractaran amb l'exclusiva finalitat de mantenir les relacions comercials,
+        contractuals o de col·laboració que els organitzadors tenen amb l'empresa, entitat o organització per a la qual treballeu
+        o col·laboreu.</li>
+      <li>A més, les vostres dades de contacte empresarial es tractaran per enviar, incloent-hi mitjans electrònics, comunicacions
+        comercials sobre activitats, serveis o productes oferts per AED que siguin de naturalesa similar als que
+        motiven la relació existent entre la nostra entitat i l'empresa, entitat o organització per a la qual treballeu
+        o col·laboreu o per proporcionar serveis abans i durant l'esdeveniment.</li>
     </ul>
 
-    <p class="pt-6">When personal data is collected to check if cheating has occured (check "Cheating" section in our <a
-      class="text-accent hover:text-dark" target="_blank" href="/terms">terms and conditions</a>):</p>
+    <p class="pt-6">Quan es recullen dades personals per comprovar si s'ha produït trampa (consulteu la secció "Trampes" en els nostres <a
+      class="text-accent hover:text-dark" target="_blank" href="/terms">termes i condicions</a>):</p>
 
     <ul class="list-disc pt-4 pl-10">
-      <li>AED shall process your personal data to handle and process the request received from the reporter and carry
-        out the investigation related to cheating.</li>
+      <li>AED tractarà les vostres dades personals per gestionar i processar la sol·licitud rebuda del denunciant i dur
+        a terme la investigació relacionada amb les trampes.</li>
     </ul>
 
-    <p class="pt-6">Regarding the images and videos of yourself:</p>
+    <p class="pt-6">Pel que fa a les imatges i vídeos de vosaltres mateixos:</p>
 
     <ul class="list-disc pt-4 pl-10">
-      <li>AED shall process your personal data to display, broadcast, and/or publish it for advertising purposes
-        through any audiovisual and/or written media (TV, press, internet, social networks, etc.) and in any advertising
-        and media support (brochures, banners, panels, website, memory of activities, publications, reports, etc.).</li>
+      <li>AED tractarà les vostres dades personals per mostrar, difondre i/o publicar-les amb finalitats publicitàries
+        a través de qualsevol mitjà audiovisual i/o escrit (TV, premsa, internet, xarxes socials, etc.) i en qualsevol suport publicitari
+        i mediàtic (fullets, pancartes, panells, lloc web, memòria d'activitats, publicacions, informes, etc.).</li>
     </ul>
 
-    <h2>4. WHY WE MAY PROCESS YOUR PERSONAL DATA</h2>
+    <h2>4. PER QUÈ PODEM TRACTAR LES VOSTRES DADES PERSONALS</h2>
 
-    <p class="pt-6">When you subscribe to be the first to know when applications open, register as a Participant, register as a
-      Volunteer, register as a Judge or a Mentor or register as “other attendees/users”:</p>
+    <p class="pt-6">Quan us subscriviu per ser els primers a saber quan s'obren les sol·licituds, us registreu com a Participant, us registreu com a
+      Voluntari, us registreu com a Jutge o Mentor o us registreu com a “altres assistents/usuaris”:</p>
 
     <ul class="list-disc pt-4 pl-10">
-      <li>AED is legally entitled to process personal data for handling and processing requests from you, as this is
-        required for AED to meet its contractual obligations in respect of such requests.</li>
-      <li>With regard to commercial communications sent about activities, services or products offered by AED of a
-        similar nature to those previously requested or acquired by you, the processing of your personal data responds
-        to a legitimate interest of AED, expressly recognized by the data protection regulation as well as by the
-        regulations on services in the information society.</li>
-      <li>You may now or at any time in the future object to receiving commercial communications about activities,
-        services or products offered by AED by sending an email to <a
+      <li>AED està legalment autoritzada a tractar dades personals per gestionar i processar les sol·licituds rebudes de vosaltres, ja que això és
+        necessari perquè AED compleixi les seves obligacions contractuals respecte a aquestes sol·licituds.</li>
+      <li>Pel que fa a les comunicacions comercials enviades sobre activitats, serveis o productes oferts per AED de
+        naturalesa similar als sol·licitats o adquirits anteriorment per vosaltres, el tractament de les vostres dades personals respon
+        a un interès legítim d'AED, expressament reconegut per la normativa de protecció de dades així com per la
+        normativa sobre serveis de la societat de la informació.</li>
+      <li>Ara o en qualsevol moment en el futur podeu oposar-vos a rebre comunicacions comercials sobre activitats,
+        serveis o productes oferts per AED enviant un correu electrònic a <a
          class="text-accent hover:text-dark"  href="mailto:hola@aed.cat">hola@aed.cat</a>.</li>
     </ul>
 
-    <p class="pt-6">When you register as a Sponsor:</p>
+    <p class="pt-6">Quan us registreu com a Patrocinador:</p>
 
     <ul class="list-disc pt-4 pl-10">
-      <li>The processing of your business contact data relative to maintaining the relationship between the organizers
-        and the company, entity or organization you work for or collaborate with responds to a legitimate interest of
-        our organization, specifically recognized in the privacy regulation.</li>
-      <li>With regard to commercial communications sent about activities, services or products offered by the organizers
-        of a similar nature to those that motivate the existing relationship between our entity and the company, entity
-        or organization that you work for or collaborate with, the processing of your personal data responds to a
-        legitimate interest of the organizers, expressly recognised by the data protection regulation as well as by the
-        regulations on services in the information society.</li>
-      <li>You may now or at any time in the future object to receive commercial communications about activities,
-        services or products offered by AED by sending an email to <a
+      <li>El tractament de les vostres dades de contacte empresarial relatives al manteniment de la relació entre els organitzadors
+        i l'empresa, entitat o organització per a la qual treballeu o col·laboreu respon a un interès legítim de
+        la nostra organització, específicament reconegut en la normativa de privacitat.</li>
+      <li>Pel que fa a les comunicacions comercials enviades sobre activitats, serveis o productes oferts pels organitzadors
+        de naturalesa similar als que motiven la relació existent entre la nostra entitat i l'empresa, entitat
+        o organització per a la qual treballeu o col·laboreu, el tractament de les vostres dades personals respon a un
+        interès legítim dels organitzadors, expressament reconegut per la normativa de protecció de dades així com per la
+        normativa sobre serveis de la societat de la informació.</li>
+      <li>Ara o en qualsevol moment en el futur podeu oposar-vos a rebre comunicacions comercials sobre activitats,
+        serveis o productes oferts per AED enviant un correu electrònic a <a
         class="text-accent hover:text-dark"  href="mailto:datathon.fme@upc.edu">datathon.fme@upc.edu</a>.</li>
     </ul>
 
-    <p class="pt-6">When personal data is collected to check if cheating has occurred (check the "Cheating" section in our <a
-      class="text-accent hover:text-dark" target="_blank" href="/terms">terms and conditions</a>):</p>
+    <p class="pt-6">Quan es recullen dades personals per comprovar si s'ha produït trampa (consulteu la secció "Trampes" en els nostres <a
+      class="text-accent hover:text-dark" target="_blank" href="/terms">termes i condicions</a>):</p>
+      <ul class="list-disc pt-4 pl-10">
+        <li>AED està legalment autoritzada a tractar dades personals per gestionar i processar la sol·licitud rebuda del denunciant
+        i dur a terme la investigació relacionada amb les trampes, ja que això és necessari perquè AED compleixi les seves
+        obligacions contractuals respecte a aquestes sol·licituds.</li>
+      </ul>
 
-    <ul class="list-disc pt-4 pl-10">
-      <li>AED is legally entitled to process personal data to handle and process the request received from the reporter
-        and carry out the investigation related to cheating, as this is required for AED to meet its contractual
-        obligations in respect of such requests.</li>
-    </ul>
+      <p class="pt-6">Pel que fa a les imatges i vídeos de vosaltres mateixos:</p>
 
-    <p class="pt-6">Regarding the images and videos of yourself:</p>
+      <ul class="list-disc pt-4 pl-10">
+        <li>AED està legalment autoritzada a tractar les vostres dades personals per mostrar, difondre i/o publicar-les perquè heu
+        donat el vostre consentiment exprés.</li>
+      </ul>
 
-    <ul class="list-disc pt-4 pl-10">
-      <li>AED is legally entitled to process your personal data to display, broadcast, and/or publish it because you have
-        given express consent.</li>
-    </ul>
+      <p class="pt-6">Pel que fa a les preferències alimentàries:</p>
 
-    <p class="pt-6">Regarding food preferences:</p>
+      <p>AED tractarà les vostres dades personals per gestionar el servei de càtering perquè heu donat el vostre consentiment
+        exprés.</p>
 
-    <p>AED shall process your personal data in order to manage the catering service because you have given express
-      consent.</p>
+      <h2>5. QUAN I PER QUÈ PODEM TRANSFERIR LES VOSTRES DADES A TERCERS</h2>
 
-    <h2>5. WHEN AND WHY WE MAY TRANSFER YOUR DATA TO THIRD PARTIES</h2>
+      <p class="pt-6">Les vostres dades poden ser transferides als següents destinataris per aquestes raons:</p>
 
-    <p class="pt-6">Your data may be transferred to the following addressees for these reasons:</p>
+      <ul class="list-disc pt-4 pl-10">
+        <li>Administracions Públiques: per complir amb les obligacions legals a les quals AED està subjecta en funció de la seva activitat.
+        </li>
+        <li>Empreses d'auditoria comptable: per complir amb les obligacions legals d'auditoria de comptes a les quals AED està subjecta
+        a causa de la seva activitat.</li>
+        <li>Forces de l'ordre: quan la nostra organització estigui obligada a proporcionar informació en compliment d'una obligació
+        legal.</li>
+        <li>Altres organitzadors de l'esdeveniment. En aquest cas, les dades poden ser transferides a l'Escola de Matemàtiques i
+        Estadística de la Universitat Politècnica de Catalunya.</li>
+        <li>Proveïdors que necessiten accedir a les vostres dades personals per proporcionar els serveis que AED ha contractat amb
+        ells, i amb els quals AED ha subscrit acords de confidencialitat i tractament de dades que són necessaris i
+        obligatoris segons la normativa de protecció de dades.</li>
+        <li>Podem compartir el vostre CV amb els patrocinadors que participen en l'esdeveniment específic organitzat per AED en el qual
+        sol·liciteu participar. AED podrà transferir les vostres dades perquè heu donat el vostre consentiment.</li>
+      </ul>
 
-    <ul class="list-disc pt-4 pl-10">
-      <li>Public Administrations: for compliance with legal obligations to which AED is subject based on its activity.
-      </li>
-      <li>Accounting audit firms: to comply with the legal obligations of auditing accounts to which AED is subject due
-        to its activity.</li>
-      <li>Law Enforcement: when our organization is required to provide information in compliance with a legal
-        obligation.</li>
-      <li>Other organizers of the event. In this case, data may be transferred to the School of Mathematics and
-        Statistics of the Polytechnic University of Catalonia.
-      <li>Providers who require access to your personal data in order to provide the services that AED has hired from
-        them, and with whom AED has subscribed confidentiality and data processing agreements that are necessary and
-        mandatory by the privacy protection regulation.</li>
-      <li>We may share your CV with the Sponsors participating at the specific event organized by AED in which you
-        request to participate in. AED will be able to transfer your data due to the fact that you have given your
-        consent.</li>
-    </ul>
+      <p class="pt-6">Se us informarà degudament si AED transfereix dades personals a altres destinataris en el futur.</p>
 
-    <p class="pt-6">You will be duly informed if AED transfers personal data to other addressees in the future.</p>
+      <h2>6. TRANSFERÈNCIES INTERNACIONALS DE DADES</h2>
 
-    <h2>6. INTERNATIONAL DATA TRANSFERS</h2>
+      <p>AED ha contractat proveïdors de serveis tecnològics ubicats en països que no tenen una normativa de protecció de dades
+        equivalent a l'europea (“Països Tercers”). Aquests proveïdors de serveis han signat els acords de confidencialitat i tractament
+        de dades requerits per la normativa, que apliquen les garanties i salvaguardes necessàries per preservar
+        la vostra privacitat.</p>
 
-    <p>AED has hired technology service providers located in countries that do not have a data protection regulation
-      equivalent to the European (“Third Countries”). These service providers have signed the confidentiality and data
-      processing agreements required by the regulation, which apply the warranties and safeguards needed to preserve
-      your privacy.</p>
+      <p>Per a més informació sobre les garanties per a la vostra privacitat, podeu contactar amb AED a les adreces electròniques o
+        postals indicades anteriorment.</p>
 
-    <p>For further information regarding warranties to your privacy, you may contact AED at the electronic or postal
-      addresses previously indicated.</p>
+      <h2>7. DURADA DE L'EMMAGATZEMATGE DE LES VOSTRES DADES</h2>
 
-    <h2>7. HOW LONG WE WILL STORE YOUR DATA</h2>
+      <p>Les vostres dades personals seran emmagatzemades mentre la vostra relació amb AED estigui en vigor i, un cop aquesta relació
+        finalitzi per qualsevol causa, durant els terminis legals aplicables. Un cop finalitzada la relació, les vostres dades seran
+        tractades únicament amb la finalitat de demostrar el compliment de les obligacions legals o contractuals de
+        l'empresa. Un cop complerts aquests terminis legals, les vostres dades seran eliminades o, alternativament, anonimitzades.</p>
 
-    <p>Your personal data will be stored while your relationship with AED is ongoing and, once said relationship is
-      terminated for whatever cause, for the applicable legal terms. Once the relationship is terminated, your data will
-      be processed solely to the effects of demonstrating compliance with the legal or contractual obligations of the
-      Company. Once said legal terms are met, your data will be eliminated or, alternatively, anonymized.</p>
+      <h2>8. QUINS SÓN ELS VOSTRES DRETS</h2>
 
-    <h2>8. WHAT ARE YOUR RIGHTS</h2>
+      <p>Us informem que teniu dret a accedir a les vostres dades personals, rectificar les dades inexactes, sol·licitar-ne la supressió
+        quan ja no siguin necessàries, oposar-vos o limitar-ne el tractament o sol·licitar la portabilitat de les dades, a través
+        de les adreces postals i electròniques indicades.</p>
 
-    <p>We inform you that you have a right to access your personal data, rectify inaccurate data, request their erasure
-      when they are no longer necessary, oppose or limit the processing or request the portability of the data, through
-      the postal and electronic addresses indicated.</p>
+      <p>A més, si considereu que el tractament de les vostres dades personals infringeix la normativa o els vostres drets a
+        la privacitat, podeu presentar una reclamació:</p>
 
-    <p>Furthermore, if you consider the processing of your personal data violates the regulation or your rights to
-      privacy, you may file a complaint:</p>
+      <ul class="list-disc pt-4 pl-10">
+        <li>A AED, a través de les adreces electròniques i postals indicades.</li>
+        <li>A l'Agència Espanyola de Protecció de Dades (Agencia Española de Protección de Datos) a través de les seves adreces electròniques o
+        postals.</li>
+      </ul>
 
-    <ul class="list-disc pt-4 pl-10">
-      <li>To AED, through the electronic and postal addresses indicated.</li>
-      <li>To the Spanish Data Protection Agency (Agencia Española de Protección de Datos) through its electronic or
-        postal addresses.</li>
-    </ul>
+      <h2>9. AVÍS PER A MENORS</h2>
 
-    <h2>9. WARNING TO MINORS</h2>
+      <p>AED us informa que els menors de 14 anys no poden registrar-se en aquest lloc web i, per tant, no poden
+        participar en les campanyes promocionals que AED pugui dur a terme en relació amb la seva activitat.</p>
 
-    <p>AED hereby informs you that minors under the age of 14 may not register on this Website and, therefore, they may
-      not take part in promotional campaigns that AED may conduct in relation to its activity.</p>
+      <p>A més, se us informa que si teniu més de 14 anys però menys de 18, es recomana que informeu els vostres
+        pares o tutors legals que teniu la intenció d'accedir al lloc web abans de fer-ho, perquè aquests us expliquin
+        les implicacions dels nostres <a class="text-accent hover:text-dark" target="_blank" href="/terms">Termes i Condicions</a> i, específicament, de la Política de Privacitat
+        continguda en aquest document, així com per aclarir-vos els possibles usos que es poden fer d'aquest lloc web, sense perjudici
+        dels casos específics en què per llei els pares o tutors legals dels menors entre 14 i 18 anys han de
+        donar el seu consentiment perquè les seves dades personals siguin tractades.</p>
 
-    <p>Furthermore, you are informed that if you are aged over 14 but under 18, it is recommended that you tell your
-      parents or legal guardians that you intend to access the Website before doing so, in order that the former explain
-      to you the implications of our <a class="text-accent hover:text-dark" target="_blank" href="/terms">Terms and Conditions</a> and, specifically, of the Privacy
-      Policy contained herein, as well as elucidating on the possible uses to be made of this Website, notwithstanding
-      the specific cases in which by law the parents or legal guardians of minors between the ages of 14 and 18 must
-      give their consent for their personal data to be processed.</p>
-
-    <p class="pt-10">Last Reviewed: September 19, 2024.</p>
-</div>
+      <p class="pt-10">Última revisió: 19 de setembre de 2024.</p>
+    </div>
 
 
 <style>

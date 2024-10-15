@@ -1,393 +1,376 @@
 <svelte:head>
-    <title>Datathon - Terms & Conditions</title> 
+  <title>Datathon - Termes i Condicions</title> 
 </svelte:head>
 
 <div class="p-6 sm:p-10">
-  <h1 class="text-dark font-title md:text-[48px] sm:text-[35px] text-[30px] font-bold">Datathon FME - Terms & Conditions</h1>
+  <h1 class="text-dark font-title md:text-[48px] sm:text-[35px] text-[30px] font-bold">Datathon FME - Termes i Condicions</h1>
 
-  <p>These Terms and Conditions (hereinafter, "T&amp;C") are intended to regulate the relationship between "Associació
-    d'Estudiants de Dades" (hereinafter, "AED") and "Facultat de Matemàtiques i Estadística - UPC" (hereinafter, "FME")
-    and the Users who decide to sign up and participate in the event "Datathon FME".</p>
+  <p>Aquests Termes i Condicions (d'ara endavant, "T&amp;C") tenen com a objectiu regular la relació entre "Associació
+  d'Estudiants de Dades" (d'ara endavant, "AED") i "Facultat de Matemàtiques i Estadística - UPC" (d'ara endavant, "FME")
+  i els Usuaris que decideixin inscriure's i participar en l'esdeveniment "Datathon FME".</p>
 
-  <p>For the purposes of this Agreement, the parties agree that, when used capitalized herein, the following terms shall
-    have the following meanings unless they are otherwise defined in this Agreement.</p>
+  <p>A efectes d'aquest Acord, les parts acorden que, quan s'utilitzin en majúscules aquí, els següents termes tindran
+  els següents significats, tret que es defineixin d'una altra manera en aquest Acord.</p>
 
-  <h2>DEFINITIONS</h2>
+  <h2>DEFINICIONS</h2>
 
-  <p><strong>The “Organizers”</strong> refers to:
+  <p><strong>Els “Organitzadors”</strong> es refereix a:
 
   <ul class="list-disc pt-4 pl-10">
-    <li>AED, with address at C/ Pau Gargallo 14, D.413, 08028, Barcelona (Spain) and contact email address <a
-         class="text-accent hover:text-dark" href="mailto:hola@aed.cat">hola@aed.cat</a>.</li>
-    <li>FME, with address at C/ Pau Gargallo 14, 08028, Barcelona (Spain) and contact email address <a
-        class="text-accent hover:text-dark" href="mailto:deganat.fme@upc.edu">deganat.fme@upc.edu</a>.</li>
+  <li>AED, amb adreça a C/ Pau Gargallo 14, D.413, 08028, Barcelona (Espanya) i adreça de correu electrònic de contacte <a
+     class="text-accent hover:text-dark" href="mailto:hola@aed.cat">hola@aed.cat</a>.</li>
+  <li>FME, amb adreça a C/ Pau Gargallo 14, 08028, Barcelona (Espanya) i adreça de correu electrònic de contacte <a
+    class="text-accent hover:text-dark" href="mailto:deganat.fme@upc.edu">deganat.fme@upc.edu</a>.</li>
   </ul>
 
 
-  <p class="pt-6"><strong>The “Participant”</strong> refers to any User who decides to sign up accepting these T&amp;Cs and
-    participates in the event organized by the Organizers by competing in the Datathon.</p>
+  <p class="pt-6"><strong>El “Participant”</strong> es refereix a qualsevol Usuari que decideixi inscriure's acceptant aquests T&amp;C i
+  participi en l'esdeveniment organitzat pels Organitzadors competint en el Datathon.</p>
 
-  <p class="pt-6"><strong>The “Attendee”</strong> refers to any User who decides to sign up accepting these T&amp;Cs and participates
-    in the event organized by the Organizers in any other role that is not the role of Participant. It includes the
-    following: Sponsor, Judge, Mentor, Organizer, Volunteer and other attendees.</p>
+  <p class="pt-6"><strong>L'“Assistente”</strong> es refereix a qualsevol Usuari que decideixi inscriure's acceptant aquests T&amp;C i participi
+  en l'esdeveniment organitzat pels Organitzadors en qualsevol altre rol que no sigui el de Participant. Inclou els
+  següents: Patrocinador, Jutge, Mentor, Organitzador, Voluntari i altres assistents.</p>
 
-  <p class="pt-6"><strong>The event “Datathon FME”</strong> refers to the Event organized by the Organizers, which is a Datathon.
-    Datathons are weekend-long competitions where you Participants are challenged to work on real-world business cases
-    from different areas of Machine Learning, AI, and Data Science. Participants are given some datasets in order to
-    answer questions or implement solutions.</p>
+  <p class="pt-6"><strong>L'esdeveniment “Datathon FME”</strong> es refereix a l'Esdeveniment organitzat pels Organitzadors, que és un Datathon.
+  Els Datathons són competicions de cap de setmana on es desafia els Participants a treballar en casos de negoci del món real
+  de diferents àrees de Machine Learning, IA i Data Science. Es proporcionen alguns conjunts de dades als Participants per
+  respondre preguntes o implementar solucions.</p>
 
-  <p class="pt-6"><strong>The “Swag”</strong> refers to any gift provided by The Organizers or any "Datathon FME" sponsor or partner
-    in any physical or online form with no cost.</p>
+  <p class="pt-6"><strong>El “Swag”</strong> es refereix a qualsevol regal proporcionat pels Organitzadors o qualsevol patrocinador o soci del "Datathon FME"
+  en qualsevol forma física o en línia sense cap cost.</p>
 
-  <h2>CLAUSES</h2>
+  <h2>CLÀUSULES</h2>
 
-  <h2>1. OBJECT</h2>
+  <h2>1. OBJECTE</h2>
 
-  <p>By virtue of this Agreement the Participant or Attendee agrees to participate in the event Datathon FME organized
-    by the Organizers.</p>
+  <p>En virtut d'aquest Acord, el Participant o Assistente accepta participar en l'esdeveniment Datathon FME organitzat
+  pels Organitzadors.</p>
 
-  <p>these T&amp;Cs apply to both the Participants and the Attendees, although some of its clauses may only be applicable
-    to the Participant given their role in the Datathon.</p>
+  <p>aquests T&amp;C s'apliquen tant als Participants com als Assistents, tot i que algunes de les seves clàusules poden ser aplicables
+  només al Participant donat el seu rol en el Datathon.</p>
 
-  <h2>2. Datathon FME COMPETITION RULES</h2>
+  <h2>2. REGLAMENT DE LA COMPETICIÓ Datathon FME</h2>
 
-  <p>These are the Datathon FME competition rules. They are a customized version of the standard competition rules used
-    at MLH Member Hackathons. If you have a suggestion for these rules or a question about them, please submit it to the
-    email address provided.</p>
+  <p>Aquestes són les regles de la competició Datathon FME. Són una versió personalitzada de les regles de competició estàndard utilitzades
+  en els Hackathons Membres de MLH. Si tens una suggerència per a aquestes regles o una pregunta sobre elles, si us plau, envia-la a l'adreça de correu electrònic proporcionada.</p>
 
-  <h3 class="pt-6">The rules of the competition</h3>
+  <h3 class="pt-6">Les regles de la competició</h3>
 
   <ol class="list-decimal pt-4 pl-10">
-    <li>There is no minimum team size, however, the maximum size is 4 people. There will be 1 prize for each member of
-      the team, independently of the team size.</li>
-    <li>Teams should be made up exclusively of students who are not organizers, judges, sponsors, or in any other
-      privileged position at the event.</li>
-    <li>All team members should be accepted into the Datathon by the organization and registered into the online
-      platforms/forms used before and during the event.</li>
-    <li>All team members should be reachable by any member of the organization team during the event.</li>
-    <li>Teams can, of course, gain advice and support from organizers, volunteers, sponsors, mentors and other related
-      people to the Datathon.</li>
-    <li>All work on a project should be done at the Datathon.</li>
-    <li>Teams can use an idea they had before the event.</li>
-    <li>Teams can work on ideas that have already been done. Solutions do not have to be “innovative”, although it is a
-      plus.</li>
-    <li>Teams can work on an idea that they have worked on before (as long as they do not re-use code).</li>
-    <li>Teams can use libraries, frameworks, or open-source code in their projects. Working on a project before the
-      event and open-sourcing it for the sole purpose of using the code during the event is against the spirit of the
-      rules and is not allowed.</li>
-    <li>Adding new features to existing projects is allowed. Judges will only consider new functionality introduced, or
-      new features added during the Datathon in determining the winners.</li>
-    <li>Teams must stop working once the time is up. However, teams are allowed to make small fixes to their
-      programs/documents after time is up. Making large changes or adding new features is not allowed.</li>
-    <li>Projects that violate the Code of Conduct are not allowed (clause 3).</li>
-    <li>Teams can be disqualified from the competition at the organizers’ discretion. Reasons might include, but are not
-      limited to, breaking the Competition Rules, breaking the Code of Conduct, or other unsporting behavior.</li>
+  <li>No hi ha una mida mínima d'equip, però la mida màxima és de 4 persones. Hi haurà 1 premi per a cada membre de
+    l'equip, independentment de la mida de l'equip.</li>
+  <li>Els equips han d'estar formats exclusivament per estudiants que no siguin organitzadors, jutges, patrocinadors o en qualsevol altra
+    posició privilegiada a l'esdeveniment.</li>
+  <li>Tots els membres de l'equip han de ser acceptats al Datathon per l'organització i registrats a les plataformes/formularis en línia utilitzats abans i durant l'esdeveniment.</li>
+  <li>Tots els membres de l'equip han de ser accessibles per qualsevol membre de l'equip d'organització durant l'esdeveniment.</li>
+  <li>Els equips poden, per descomptat, obtenir consells i suport dels organitzadors, voluntaris, patrocinadors, mentors i altres persones relacionades
+    amb el Datathon.</li>
+  <li>Tota la feina en un projecte s'ha de fer al Datathon.</li>
+  <li>Els equips poden utilitzar una idea que tenien abans de l'esdeveniment.</li>
+  <li>Els equips poden treballar en idees que ja s'han fet. Les solucions no han de ser "innovadores", tot i que és un
+    plus.</li>
+  <li>Els equips poden treballar en una idea en la qual han treballat abans (sempre que no reutilitzin codi).</li>
+  <li>Els equips poden utilitzar biblioteques, frameworks o codi de codi obert en els seus projectes. Treballar en un projecte abans de l'esdeveniment i fer-lo de codi obert amb l'únic propòsit d'utilitzar el codi durant l'esdeveniment va en contra de l'esperit de les regles i no està permès.</li>
+  <li>Afegir noves funcions a projectes existents està permès. Els jutges només consideraran la nova funcionalitat introduïda o
+    noves funcions afegides durant el Datathon per determinar els guanyadors.</li>
+  <li>Els equips han de deixar de treballar un cop s'acabi el temps. No obstant això, els equips poden fer petites correccions als seus
+    programes/documents després que s'acabi el temps. Fer grans canvis o afegir noves funcions no està permès.</li>
+  <li>Els projectes que violen el Codi de Conducta no estan permesos (clàusula 3).</li>
+  <li>Els equips poden ser desqualificats de la competició a discreció dels organitzadors. Les raons poden incloure, però no es limiten a, trencar les Regles de la Competició, trencar el Codi de Conducta o altres comportaments antiesportius.</li>
   </ol>
 
   <h3 class="pt-6">Demos</h3>
 
-  <p>After the working time finishes, teams will show their projects to each other and to the judges.</p>
+  <p>Després que s'acabi el temps de treball, els equips mostraran els seus projectes entre ells i als jutges.</p>
 
-  <p>In order to present your project to Datathon FME judges and sponsors, you would need to be able to sign up and log
-    in to third-party services complying with the applicable laws of your country. Agreeing with the terms and
-    conditions of any third-party service suggested, used or proposed by the organization.</p>
+  <p>Per presentar el teu projecte als jutges i patrocinadors del Datathon FME, hauràs de poder inscriure't i iniciar sessió
+  en serveis de tercers complint amb les lleis aplicables del teu país. Acceptant els termes i
+  condicions de qualsevol servei de tercers suggerit, utilitzat o proposat per l'organització.</p>
 
-  <p>You are strongly encouraged to present a demo of what you have built. Pitches or presentations are also an option.
+  <p>Es recomana fermament presentar una demostració del que has construït. Els pitchs o presentacions també són una opció.
   </p>
 
-  <p>You are encouraged to present what you have done, even if your solution is broken, or you weren’t able to finish.
-    It’s okay if you didn’t finish your project, that happens all the time! Completion is only one part of the judging
-    criteria, so you might still do well. Also, demoing is not just about the competition. It’s a chance to share with
-    others what you learned and what you tried to build! In the case that you don’t have anything to demo, you can give
-    a presentation about what you tried and what you learned. Hearing what other people learned is interesting and
-    inspiring for other attendees.</p>
+  <p>Es recomana presentar el que has fet, fins i tot si la teva solució està trencada o no has pogut acabar.
+  No passa res si no has acabat el teu projecte, això passa tot el temps! La finalització és només una part dels criteris de judici, així que encara podries fer-ho bé. A més, fer una demostració no és només sobre la competició. És una oportunitat per compartir amb
+  altres el que has après i el que has intentat construir! En el cas que no tinguis res per demostrar, pots fer
+  una presentació sobre el que has intentat i el que has après. Escoltar el que altres persones han après és interessant i
+  inspirador per a altres assistents.</p>
 
-  <h3 class="pt-6">Judging Criteria</h3>
+  <h3 class="pt-6">Criteris de Judici</h3>
 
-  <p>Teams will be judged on several criteria, which may include but are not limited to:
-
-  <ul class="list-disc pt-4 pl-10">
-    <li>Idea &amp; Innovation: How good is the idea? Is it innovative?</li>
-    <li>Technology: How technically impressive was the solution? Was the technical problem the team tackled difficult?
-      Did it use a particularly interesting data science technique?</li>
-    <li>Learning: Did the team stretch themselves? Did they try to learn something new?</li>
-    <li>Design & usability: Was the solution intuitive to use? Was it well-thought? </li>
-    <li>Presentation: Did you clearly communicate your solution and/or your conclusions? </li>
-    <li>Problem-solving: Is your solution useful to solve the given challenge(s)?</li>
-    <li>Efficiency: Is your solution efficient? Is it scalable?</li>
-  </ul>
-
-  <p class="pt-4">Note that these criteria are just guidelines. Ultimately judges are free to make decisions based on their gut
-    feeling about which projects are the most impressive and deserving.</p>
-
-
-  <h3>Prizes</h3>
-  <p>The Organizers keep the right to decide which method is used to give the prizes to each winner, without the need or
-    obligation to make public the criteria. The non-acceptance of the method chosen by the Organizers will be
-    cause for withdrawal of the prize.</p>
-
-  <p>The Organizers shall not take any responsibility for the failure of the participant to avail themselves of the prize due to
-    inaccurate information provided by the participant. The Organizers reserve the right to replace any winner if we
-    discover that the winner is or was in breach of these general terms and conditions.</p>
+  <p>Els equips seran jutjats en diversos criteris, que poden incloure però no es limiten a:
 
   <ul class="list-disc pt-4 pl-10">
-    <li>Prizes are non-exchangeable.</li>
-    <li>Quoted prizes might be taxable in your jurisdiction and each winner will be solely responsible for complying
-      with any and all applicable federal, state, provincial, local, or other statutes, regulations, and other laws and
-      for bearing any personal, income, VAT, GST, withholding taxes, customs duties, or other taxes, fees, insurance,
-      surcharges or other costs relating to any reward.</li>
-    <li>If the Organizers are obliged to withhold taxes under the applicable laws, they will do so without any
-      notice.</li>
-    <li>The Organizers will cooperate and issue any documents that might be required for tax purposes, but it is the
-      Participant’s obligation to request and collect such documents.</li>
+  <li>Idea &amp; Innovació: Com de bona és la idea? És innovadora?</li>
+  <li>Tecnologia: Com de tècnicament impressionant era la solució? El problema tècnic que l'equip va abordar era difícil?
+    Va utilitzar una tècnica de ciència de dades particularment interessant?</li>
+  <li>Aprenentatge: L'equip es va estirar? Van intentar aprendre alguna cosa nova?</li>
+  <li>Disseny i usabilitat: La solució era intuïtiva d'utilitzar? Estava ben pensada? </li>
+  <li>Presentació: Has comunicat clarament la teva solució i/o les teves conclusions? </li>
+  <li>Resolució de problemes: La teva solució és útil per resoldre el(s) repte(s) donat(s)?</li>
+  <li>Eficàcia: La teva solució és eficient? És escalable?</li>
   </ul>
 
-  <p class="pt-6">In order to carry out the delivery of the prize, the winners must provide all information required by the
-    Organizers or third parties on its behalf, such as identity documents, passports, etc.; any delay or failure to
-    provide the required documentation and/or information will be cause for the withdrawal of the prize.</p>
+  <p class="pt-4">Tingues en compte que aquests criteris són només guies. En última instància, els jutges són lliures de prendre decisions basades en la seva intuïció sobre quins projectes són els més impressionants i mereixedors.</p>
 
-  <p>Each winner will be responsible for complying with the tax and accounting obligations involved in obtaining the
-    prize for personal taxation purposes.</p>
 
-  <h3>Cheating</h3>
+  <h3>Premis</h3>
+  <p>Els Organitzadors es reserven el dret de decidir quin mètode s'utilitza per donar els premis a cada guanyador, sense la necessitat o
+  obligació de fer públic el criteri. La no acceptació del mètode escollit pels Organitzadors serà
+  causa de retirada del premi.</p>
 
-  <p>Accusations of cheating may include, but are not limited to:</p>
+  <p>Els Organitzadors no es faran responsables del fracàs del participant per aprofitar-se del premi a causa
+  d'informació inexacta proporcionada pel participant. Els Organitzadors es reserven el dret de substituir qualsevol guanyador si descobrim que el guanyador està o estava en incompliment d'aquests termes i condicions generals.</p>
 
   <ul class="list-disc pt-4 pl-10">
-    <li>A team using somebody else’s code.</li>
-    <li>A team misrepresenting the work they did.</li>
-    <li>A team having too many team members.</li>
-    <li>A team using code that was written outside the event.</li>
-    <li>A team with members who are not properly registered for the Datathon.</li>
+  <li>Els premis no són intercanviables.</li>
+  <li>Els premis citats podrien estar subjectes a impostos a la teva jurisdicció i cada guanyador serà l'únic responsable de complir
+    amb qualsevol i totes les lleis federals, estatals, provincials, locals o altres estatuts, regulacions i altres lleis aplicables i
+    per suportar qualsevol impost personal, d'ingressos, IVA, GST, impostos de retenció, drets de duana o altres impostos, taxes, assegurances,
+    recàrrecs o altres costos relacionats amb qualsevol recompensa.</li>
+  <li>Si els Organitzadors estan obligats a retenir impostos segons les lleis aplicables, ho faran sense cap
+    avís.</li>
+  <li>Els Organitzadors cooperaran i emetran qualsevol document que pugui ser necessari per a fins fiscals, però és l'obligació del
+    Participant sol·licitar i recollir aquests documents.</li>
   </ul>
 
-  <p class="pt-6">If you suspect cheating, please get in touch with the organizers of the event. If you are still at the event,
-    please talk to a Datathon FME organizer. If it is after the event, please email us at the given email address. Don't
-    forget to clearly state the following:
+  <p class="pt-6">Per dur a terme el lliurament del premi, els guanyadors han de proporcionar tota la informació requerida pels
+  Organitzadors o tercers en nom seu, com ara documents d'identitat, passaports, etc.; qualsevol retard o fracàs en
+  proporcionar la documentació i/o informació requerida serà causa de la retirada del premi.</p>
+
+  <p>Cada guanyador serà responsable de complir amb les obligacions fiscals i comptables implicades en l'obtenció del
+  premi per a fins de tributació personal.</p>
+  <h3>Fent trampes</h3>
+
+  <p>Les acusacions de fer trampes poden incloure, però no es limiten a:</p>
 
   <ul class="list-disc pt-4 pl-10">
-    <li>Identifying information (name, email, phone, etc.) about yourself.</li>
-    <li>Identifying information (name, email, phone, etc.) about the participant/team accused of cheating.</li>
-    <li>Reason why you suspect cheating.</li>
-    <li>Other people suspected of being involved in the cheating.</li>
-    <li>Other witnesses / people who suspect the cheating.</li>
-    <li>Any relevant URLs (e.g., for GitHub repos or Devpost pages).</li>
+    <li>Un equip utilitzant el codi d'una altra persona.</li>
+    <li>Un equip que representa falsament el treball que han fet.</li>
+    <li>Un equip amb massa membres.</li>
+    <li>Un equip utilitzant codi escrit fora de l'esdeveniment.</li>
+    <li>Un equip amb membres que no estan registrats correctament per al Datathon.</li>
   </ul>
 
-  <p class="pt-6">Datathon FME Organizers will then investigate the allegation by reviewing public materials about the solution,
-    including project repos, project submissions, and anything else available to them.</p>
-
-  <p>If Organizers determine cheating did not occur, they will inform the reporter.</p>
-
-  <p>If Organizers are unable to determine that cheating did not occur based on publicly available resources, they
-    will then communicate with the alleged cheater. Informing them of what has been reported about them and allowing the
-    alleged cheater to give their side of the story to the staff. After this point, if the report stands, the alleged
-    cheater will be informed of what actions will be taken against them.</p>
-
-  <p>Actions that Organizers will consider when dealing with alleged cheating offenders are:</p>
+  <p class="pt-6">Si sospites que algú està fent trampes, posa't en contacte amb els organitzadors de l'esdeveniment. Si encara estàs a l'esdeveniment,
+    parla amb un organitzador del Datathon FME. Si és després de l'esdeveniment, envia'ns un correu electrònic a l'adreça proporcionada. No
+    oblidis indicar clarament el següent:
 
   <ul class="list-disc pt-4 pl-10">
-    <li>Warning the cheater to cease their behavior and that any further reports will result in sanctions.</li>
-    <li>Not allowing the participants to demo.</li>
-    <li>Not allowing the participants to win prizes.</li>
-    <li>Revocation of prizes &amp; recognitions.</li>
-    <li>Banning the participants from future events (either indefinitely or for a certain time period).</li>
-    <li>Publishing an account of the cheating.</li>
+    <li>Informació identificativa (nom, correu electrònic, telèfon, etc.) sobre tu mateix.</li>
+    <li>Informació identificativa (nom, correu electrònic, telèfon, etc.) sobre el participant/equip acusat de fer trampes.</li>
+    <li>Raó per la qual sospites que s'estan fent trampes.</li>
+    <li>Altres persones sospitoses d'estar involucrades en les trampes.</li>
+    <li>Altres testimonis/persones que sospiten de les trampes.</li>
+    <li>Qualsevol URL rellevant (per exemple, per a repositoris de GitHub o pàgines de Devpost).</li>
   </ul>
 
-  <p class="pt-6">Depending on the cheating allegation, the Organizers may decide to make one or more public announcements. If
-    necessary, this will be done with a short announcement. No one other than the Datathon FME directors should make any
-    announcements.</p>
+  <p class="pt-6">Els organitzadors del Datathon FME investigaran l'acusació revisant materials públics sobre la solució,
+    incloent repositoris de projectes, presentacions de projectes i qualsevol altra cosa disponible per a ells.</p>
 
-  <h3>Remember!</h3>
+  <p>Si els organitzadors determinen que no s'han fet trampes, informaran al denunciant.</p>
 
-  <p>The competition is just a part of the Datathon. To make the most out of the event, try something new, teach other
-    people, and make new friends!</p>
+  <p>Si els organitzadors no poden determinar que no s'han fet trampes basant-se en recursos públicament disponibles,
+    es comunicaran amb l'acusat. Informant-los del que s'ha reportat sobre ells i permetent que
+    l'acusat doni la seva versió dels fets al personal. Després d'aquest punt, si la denúncia es manté, l'acusat
+    serà informat de quines accions es prendran contra ell.</p>
 
-  <h2>3. CODE OF CONDUCT</h2>
-  <p>You can check out the Code of Conduct <a target="_blank" rel="noreferrer"
-      class="text-accent hover:text-dark" href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf">here</a>.</p>
-  <p>The Code of Conduct extends to all attendees, including hackers, volunteers, organizers, sponsors, judges, mentors,
-    and MLH staff.</p>
+  <p>Les accions que els organitzadors consideraran quan tractin amb presumptes infractors de trampes són:</p>
+
+  <ul class="list-disc pt-4 pl-10">
+    <li>Avisar el tramposo perquè cessi el seu comportament i que qualsevol altre informe resultarà en sancions.</li>
+    <li>No permetre als participants fer una demostració.</li>
+    <li>No permetre als participants guanyar premis.</li>
+    <li>Revocar premis i reconeixements.</li>
+    <li>Prohibir als participants futurs esdeveniments (ja sigui indefinidament o per un període de temps determinat).</li>
+    <li>Publicar un relat de les trampes.</li>
+  </ul>
+
+  <p class="pt-6">Depenent de l'acusació de trampes, els organitzadors poden decidir fer un o més anuncis públics. Si
+    és necessari, això es farà amb un breu anunci. Ningú altre que els directors del Datathon FME hauria de fer cap
+    anunci.</p>
+
+  <h3>Recorda!</h3>
+
+  <p>La competició és només una part del Datathon. Per aprofitar al màxim l'esdeveniment, prova alguna cosa nova, ensenya a altres
+    persones i fes nous amics!</p>
+
+  <h2>3. CODI DE CONDUCTA</h2>
+  <p>Pots consultar el Codi de Conducta <a target="_blank" rel="noreferrer"
+      class="text-accent hover:text-dark" href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf">aquí</a>.</p>
+  <p>El Codi de Conducta s'estén a tots els assistents, incloent hackers, voluntaris, organitzadors, patrocinadors, jutges, mentors,
+    i personal de MLH.</p>
 
   <h2>4. SWAG</h2>
 
   <ul class="list-disc pt-4 pl-10">
-    <li>The organization may send swag to sponsors and attendees. Expenses incurred by team members as a result of
-      sending merchandising, as well as the acceptance of the prize, will be borne by the winner of the prize.</li>
-    <li>Still, the organization keeps the right to decide which attendees and sponsors will receive swag. Without the
-      obligation or need to make public the followed criteria.</li>
+    <li>L'organització pot enviar swag als patrocinadors i assistents. Les despeses incorregudes pels membres de l'equip com a resultat de
+      enviar marxandatge, així com l'acceptació del premi, seran a càrrec del guanyador del premi.</li>
+    <li>Tot i així, l'organització es reserva el dret de decidir quins assistents i patrocinadors rebran swag. Sense l'obligació o necessitat de fer públic el criteri seguit.</li>
   </ul>
 
 
-  <h2>5. TERMINATION AND CANCELLATION</h2>
+  <h2>5. TERMINACIÓ I CANCEL·LACIÓ</h2>
 
-  <p>The Organizers may at any time, in its sole discretion, immediately terminate this Agreement with or without cause.
-    The Organizers will make commercially reasonable efforts to notify the Participant or Attendee via email of any such
-    termination or cancellation up to the date of the event.</p>
+  <p>Els organitzadors poden, en qualsevol moment, a la seva sola discreció, rescindir immediatament aquest Acord amb o sense causa.
+    Els organitzadors faran esforços comercialment raonables per notificar al participant o assistent per correu electrònic de qualsevol
+    terminació o cancel·lació fins a la data de l'esdeveniment.</p>
 
-  <p>Participants or Attendees may cancel and/or terminate this Agreement with or without cause at any time, always
-    notifying the Organizers in a reasonable period of time.</p>
+  <p>Els participants o assistents poden cancel·lar i/o rescindir aquest Acord amb o sense causa en qualsevol moment, sempre
+    notificant als organitzadors amb un període de temps raonable.</p>
 
-  <p>If either party does not fulfill a material obligation defined in this Agreement, the other party has the right to
-    terminate this Agreement immediately with written notice to the party in breach, provided that such material breach
-    remains uncured, without prejudice of the right to claim the damages caused to the non-breaching party.</p>
+  <p>Si una de les parts no compleix una obligació material definida en aquest Acord, l'altra part té el dret de
+    rescindir aquest Acord immediatament amb notificació escrita a la part infractora, sempre que tal incompliment material
+    romangui sense corregir, sense perjudici del dret a reclamar els danys causats a la part no infractora.</p>
 
-  <h2>6. CONFIDENTIALITY, PERSONAL DATA PROTECTION, AND RIGHTS OF IMAGE</h2>
+  <h2>6. CONFIDENCIALITAT, PROTECCIÓ DE DADES PERSONALS I DRETS D'IMATGE</h2>
 
-  <p>In accordance with the current data protection legislation, particularly the Regulation (EU) 2016/679 of The
-    European Parliament and of The Council, of April 27th, on the protection of natural persons with regard to the
-    processing of personal data and on the free movement of such data, all personal data collected during the use of the
-    Website and during the event will be processed in accordance with the provisions of the <a
-      class="text-accent hover:text-dark" target="_blank" href="/privacy">Privacy Policy</a> which all Users must expressly accept.</p>
+  <p>D'acord amb la legislació vigent en matèria de protecció de dades, en particular el Reglament (UE) 2016/679 del
+    Parlament Europeu i del Consell, de 27 d'abril, sobre la protecció de les persones físiques pel que fa al
+    tractament de dades personals i la lliure circulació d'aquestes dades, totes les dades personals recollides durant l'ús del
+    lloc web i durant l'esdeveniment seran tractades d'acord amb les disposicions de la <a
+      class="text-accent hover:text-dark" target="_blank" href="/privacy">Política de Privacitat</a> que tots els usuaris han d'acceptar expressament.</p>
 
-  <p>As it is explained in the Privacy Policy, one of the personal data that you authorize AED to process is your image:
+  <p>Com s'explica a la Política de Privacitat, una de les dades personals que autoritzes a AED a tractar és la teva imatge:
   </p>
 
   <ul class="list-disc pt-4 pl-10">
-    <li>By accepting the Privacy Policy and these T&amp;Cs you grant Datathon FME, its Organizers, volunteers, and
-      sponsors permission to capture photographs and/or record videos of yourself in the event you request to
-      participate.</li>
-    <li>You give your consent for the images and/or videos taken during the course of this event to be displayed,
-      broadcasted, and/or published by the Organizers and/or the Sponsors of the event you request to participate for
-      advertising purposes through any audiovisual and/or written media (TV, press, internet, social networks, etc.) and
-      in any advertising and media support (brochures, banners, panels, websites, memory of activities, publications,
-      reports, etc.), worldwide, for an indefinite period and without limitation.</li>
-    <li>This authorization is perpetual and has no other limitations than those contained in the Spanish Organic Law
-      1/1982, of May 5, on Civil Protection of the right to honor, personal and family privacy, and self-image.</li>
-    <li>This authorization is made completely free of charge, and you undertake not to request or claim any
-      compensation, payment or reimbursement in exchange for this authorization.</li>
-    <li>When the photographs and/or videos are taken by AED, the applicable Privacy Policy will be AED’s Privacy
-      Policy. When the photographs and/or videos are taken by a Sponsor, the applicable Privacy Policy will be the
-      Sponsor’s Privacy Policy.</li>
+    <li>En acceptar la Política de Privacitat i aquests T&amp;C, concedeixes a Datathon FME, els seus organitzadors, voluntaris i
+      patrocinadors permís per capturar fotografies i/o enregistrar vídeos de tu mateix en l'esdeveniment en què sol·licites participar.</li>
+    <li>Dones el teu consentiment perquè les imatges i/o vídeos fets durant el curs d'aquest esdeveniment siguin mostrats,
+      emesos i/o publicats pels organitzadors i/o els patrocinadors de l'esdeveniment en què sol·licites participar amb
+      finalitats publicitàries a través de qualsevol mitjà audiovisual i/o escrit (TV, premsa, internet, xarxes socials, etc.) i
+      en qualsevol suport publicitari i mediàtic (fullets, pancartes, panells, llocs web, memòria d'activitats, publicacions,
+      informes, etc.), a tot el món, per un període indefinit i sense limitació.</li>
+    <li>Aquesta autorització és perpètua i no té altres limitacions que les contingudes a la Llei Orgànica Espanyola
+      1/1982, de 5 de maig, sobre Protecció Civil del dret a l'honor, la intimitat personal i familiar, i la pròpia imatge.</li>
+    <li>Aquesta autorització es fa completament de manera gratuïta, i et compromets a no sol·licitar ni reclamar cap
+      compensació, pagament o reemborsament a canvi d'aquesta autorització.</li>
+    <li>Quan les fotografies i/o vídeos siguin fets per AED, la Política de Privacitat aplicable serà la Política de Privacitat d'AED. Quan les fotografies i/o vídeos siguin fets per un patrocinador, la Política de Privacitat aplicable serà la Política de Privacitat del patrocinador.</li>
   </ul>
+  <h2>7. LIMITACIÓ DE RESPONSABILITAT I INDEMNITZACIÓ</h2>
 
-  <h2>7. LIMITATION OF LIABILITY AND INDEMNIFICATION</h2>
+  <h3>Indemnització</h3>
 
-  <h3>Indemnification</h3>
+  <p>Acordes indemnitzar, defensar i mantenir indemnes els Organitzadors, els seus membres (amfitrions i voluntaris), i altres
+    personalitats que tenen un paper en aquest esdeveniment (patrocinadors, jutges, mentors) de i contra qualsevol i totes les
+    despeses, reclamacions, demandes, responsabilitats, despeses, pèrdues, danys i honoraris d'advocats derivats de qualsevol
+    reclamació i demandes o procediments per difamació, calúmnia, violació de drets d'autor i marques comercials, així com totes
+    les altres reclamacions resultants de (i) la participació en l'esdeveniment Datathon FME o (ii) derivades d'una relació amb
+    els Organitzadors. També acordes indemnitzar els Organitzadors per qualsevol despesa legal incorreguda pels Organitzadors,
+    actuant raonablement, en investigar o fer valer els seus drets sota aquest Acord.</p>
 
-  <p>You agree to indemnify, defend and hold the Organizers, its members (hosts and volunteers), and other personalities
-    that have a role in this event (sponsors, judges, mentors) harmless from and against any and all costs, claims,
-    demands, liabilities, expenses, losses, damages and attorney fees arising from any claims and lawsuits or proceeding
-    for libel, slander, copyright, and trademark violation, as well as all other claims resulting from (i) the
-    participation in the event Datathon FME or (ii) otherwise arising from a relationship with the Organizers. You also
-    agree to indemnify the Organizers for any legal fees incurred by the Organizers, acting reasonably, in investigating
-    or enforcing their rights under this Agreement.</p>
+  <h3>Limitació de Responsabilitat</h3>
 
-  <h3>Limitation of Liability</h3>
+  <p>Sota cap circumstància els Organitzadors seran responsables davant el participant o assistent respecte a qualsevol matèria
+    d'aquests termes i condicions sota contracte, delicte (incloent negligència), responsabilitat estricta o altra teoria legal o
+    equitativa, ja sigui que els Organitzadors hagin estat avisats de la possibilitat de tals danys, per danys indirectes,
+    incidentals, conseqüents, especials o exemplars derivats de qualsevol disposició d'aquests termes. Aquestes limitacions
+    s'aplicaran malgrat qualsevol fallida de propòsit essencial.</p>
 
-  <p>Under no circumstances will the Organizers be liable to the participant or attendee with respect to any subject
-    matter of these terms and conditions under contract, tort (including negligence), strict liability or other legal or
-    equitable theory, whether or not the Organizers have been advised of the possibility of such damage, for indirect,
-    incidental, consequential, special or exemplary damages arising from any provision of these terms. These limitations
-    shall apply notwithstanding any failure of essential purpose.</p>
+  <h2>8. MODIFICACIONS</h2>
 
-  <h2>8. MODIFICATIONS</h2>
+  <p>Els Organitzadors es reserven el dret de modificar les disposicions del present Acord que siguin menors en abast o
+    naturalesa, i fer-ho sense citar cap raó, sempre que aquestes modificacions no condueixin a la reestructuració de l'Acord
+    en el seu conjunt.</p>
 
-  <p>The Organizers reserve the right to amend the provisions of the present Agreement that are minor in scope or
-    nature, and to do so without citing any reasons, provided such modifications do not lead to the Agreement as a whole
-    being restructured.</p>
+  <p>Si un Participant o Assistent s'oposa als nous (modificats) Termes, l'Acord entre les dues parts es donarà per acabat
+    (clàusula 6). Els Organitzadors, un cop l'acord sigui acabat, no consideraran la participació del participant tret que els
+    nous termes i condicions siguin acceptats novament en un nou procés de sol·licitud per a l'Esdeveniment seguint el procés
+    d'acceptació estàndard.</p>
 
-  <p>If a Participant or Attendee objects to the new (modified) Terms, then the Agreement between the two parties will be
-    terminated (clause 6). The Organizers, once the agreement is terminated, won’t consider the participation of the
-    participant unless the new terms and conditions are accepted again in a new application process for the Event
-    following the standard acceptance process.</p>
+  <h2>9. LLEI APLICABLE I JURISDICCIÓ</h2>
 
-  <h2>9. APPLICABLE LAW AND JURISDICTION</h2>
+  <p>Aquest Acord es regirà per la llei espanyola.</p>
 
-  <p>This Agreement shall be governed by Spanish law.</p>
+  <p>En el cas que el domicili de l'Usuari estigui fora d'Espanya, els Organitzadors i el Participant o Assistent, renunciant
+    expressament a qualsevol altra jurisdicció a la qual puguin tenir dret, se sotmeten a la jurisdicció dels Jutjats i
+    Tribunals de Barcelona.</p>
 
-  <p>In the event that the User’s domicile is outside Spain, the Organizers and the Participant or Attendee, expressly
-    waiving any other jurisdiction to which they may be entitled, hereby submit to the jurisdiction of the Courts and
-    Tribunals of Barcelona.</p>
+  <p>Els Organitzadors perseguiran l'incompliment d'aquest Acord exercint totes les accions civils i penals que puguin
+    correspondre.</p>
 
-  <p>The Organizers will pursue the breach of this Agreement by exercising all civil and criminal actions that may
-    correspond.</p>
+  <h2>10. DISPOSICIONS GENERALS</h2>
 
-  <h2>10. GENERAL PROVISIONS</h2>
+  <h3>Força Major</h3>
 
-  <h3>Force Majeure</h3>
+  <p>Excepte per les obligacions de pagament, si qualsevol de les parts es veu impedida de complir o no pot complir amb
+    qualsevol de les seves obligacions sota aquest Acord a causa de causes fora del control raonable de la part que invoca
+    aquesta disposició, incloent però no limitat a actes de Déu, actes d'autoritats civils o militars, disturbis o desobediència
+    civil, guerres, vagues o disputes laborals (cada un, un "Esdeveniment de Força Major"), el compliment d'aquesta part serà
+    excusat i el temps per al compliment s'estendrà en conseqüència, sempre que la part prengui immediatament totes les mesures
+    raonablement necessàries per reprendre el compliment complet. Si aquesta part continua sense poder reprendre el compliment
+    complet quinze (15) dies després de l'Esdeveniment de Força Major, l'altra part pot acabar aquest Acord amb avís escrit.</p>
 
-  <p>Except for payment obligations, if either party is prevented from performing or is unable to perform any of its
-    obligations under this Agreement due to causes beyond the reasonable control of the party invoking this provision,
-    including but not limited to acts of God, acts of civil or military authorities, riots or civil disobedience, wars,
-    strikes or labor disputes (each, a “Force Majeure Event”), such party’s performance shall be excused and the time
-    for performance shall be extended accordingly provided that the party immediately takes all reasonably necessary
-    steps to resume full performance. If such party remains unable to resume full performance fifteen (15) days after
-    the Force Majeure Event, the other party may terminate this Agreement upon written notice.</p>
+  <h3>Separabilitat</h3>
 
-  <h3>Severability</h3>
+  <p>Si qualsevol de les disposicions d'aquest Acord és declarada invàlida o inaplicable per les normes i regulacions d'Espanya
+    o per un tribunal espanyol, aquestes disposicions es consideraran separables de la resta d'aquest Acord i no afectaran la
+    validesa o aplicabilitat de la resta d'aquest Acord. En aquest cas, aquestes disposicions es canviaran i interpretaran per
+    aconseguir els propòsits d'aquestes disposicions tant com sigui possible dins de l'abast de les lleis rellevants o el
+    judici del tribunal.</p>
 
-  <p>Should any of the provisions of this Agreement be adjudged invalid or unenforceable by the rules and regulations of
-    Spain or a Spanish court, such provisions shall be deemed several from the remainder of this Agreement and not
-    affect the validity or enforceability of the remainder of this Agreement. In that case, such provisions shall be
-    changed and interpreted to achieve the purposes of those provisions as much as possible within the extent of
-    relevant laws or the judgment of the court.</p>
+  <h3>Supervivència</h3>
 
-  <h3>Survival</h3>
+  <p>Les clàusules 2, 5 i 8 sobreviuran a la terminació o expiració d'aquest Acord per qualsevol motiu. Tots els altres drets i
+    obligacions de les parts sota aquest Acord expiraran en la terminació d'aquest Acord, excepte que totes les obligacions de
+    pagament acumulades aquí abans de la terminació o expiració sobreviuran a aquesta terminació.</p>
 
-  <p>Clauses 2, 5 and 8 shall survive termination or expiration of this Agreement for any reason. All other rights and
-    obligations of the parties under this Agreement shall expire upon termination of this Agreement, except that all
-    payment obligations accrued hereunder prior to termination or expiration shall survive such termination.</p>
+  <h3>Cessió</h3>
 
-  <h3>Assignment</h3>
+  <p>Els organitzadors estan autoritzats a cedir, sublicenciar, delegar o transferir qualsevol dels seus drets o obligacions
+    sota aquest Acord sense el consentiment previ per escrit de l'altra part, sempre que el cessionari assumeixi tots els drets
+    i obligacions sota aquest Acord.</p>
 
-  <p>The organizers are hereby authorized to assign, sublicense, delegate or otherwise transfer any of their rights or
-    obligations under this Agreement without the prior written consent of the other party, provided that the assignee
-    shall assume all rights and obligations under this Agreement.</p>
+  <p>El Participant o Assistent no cedirà, sublicenciarà, delegarà ni transferirà cap dels seus drets o obligacions.</p>
 
-  <p>The Participant or Attendee shall not assign, sublicense, delegate or otherwise transfer any of their rights or
-    obligations.</p>
+  <h3>Notificacions</h3>
 
-  <h3>Notices</h3>
+  <p>Totes les notificacions i altres comunicacions aquí seran per escrit i es consideraran degudament donades quan es lliurin
+    en persona (incloent per servei de lliurament comercial reconegut internacionalment), i el dia que s'enviï la notificació
+    quan s'enviï per correu electrònic amb confirmació de recepció, si l'hora de transmissió és durant el dia laborable del
+    destinatari, o si no, el següent dia laborable, en cada cas a les respectives parts a les adreces postals o de correu
+    electrònic proporcionades per elles per escrit.</p>
 
-  <p>All notices and other communications hereunder shall be in writing and shall be deemed to have been duly given when
-    delivered in person (including by internationally recognized commercial delivery service), and on the day the notice
-    is sent when sent by email with confirmation receipt, if the time of transmission is during the recipient’s business
-    day, or if not on the next business day thereafter, in each case to the respective parties at the postal or email
-    addresses provided by them in writing.</p>
+  <p>Qualsevol de les parts pot canviar la seva adreça proporcionant a l'altra part una notificació escrita del canvi d'acord
+    amb aquesta secció.</p>
 
-  <p>Either party may change its address by providing the other party with written notice of the change in accordance
-    with this section.</p>
+  <h3>Relació de les Parts</h3>
 
-  <h3>Relationship of Parties</h3>
+  <p>Les parts són contractistes independents i no tindran dret a assumir o crear cap obligació o responsabilitat en nom de
+    l'altra part. Cap de les parts es presentarà com a agent de l'altra part. Aquest Acord no es considerarà per crear o
+    implicar cap relació laboral, associació, agència, empresa conjunta o entitat comercial formal de cap tipus.</p>
 
-  <p>The parties are independent contractors and will have no right to assume or create any obligation or responsibility
-    on behalf of the other party. Neither party shall hold itself out as an agent of the other party. This Agreement
-    will not be construed to create or imply any employment relationship, partnership, agency, joint venture or formal
-    business entity of any kind.</p>
+  <h3>Renúncia</h3>
 
-  <h3>Waiver</h3>
+  <p>Cap retard o fallida per part de qualsevol de les parts en exercir qualsevol dret o recurs sota aquest Acord constituirà
+    una renúncia a aquest dret o recurs. Totes les renúncies han de ser per escrit i signades per un representant autoritzat de
+    la part que renuncia als seus drets. Una renúncia per qualsevol de les parts de qualsevol incompliment o pacte no es
+    considerarà com una renúncia de qualsevol incompliment posterior de qualsevol altre pacte.</p>
 
-  <p>No delay or failure by either party to exercise any right or remedy under this Agreement will constitute a waiver
-    of such right or remedy. All waivers must be in writing and signed by an authorized representative of the party
-    waiving its rights. A waiver by any party of any breach or covenant shall not be construed as a waiver of any
-    succeeding breach of any other covenant.</p>
+  <h3>Acord Sencer</h3>
 
-  <h3>Entire Agreement</h3>
+  <p>Aquest Acord constitueix l'acord complet entre les parts i substitueix tots els acords anteriors, orals o escrits, amb
+    respecte a l'objecte d'aquest Acord. La informació i els documents proporcionats pel Participant o Assistent als
+    Organitzadors, tal com sol·licitat per aquests últims per entrar en l'Acord, també es consideraran part d'aquest Acord.
+    Aquest Acord no pot ser modificat sense el consentiment per escrit de les parts.</p>
 
-  <p>This Agreement constitutes the entire agreement between the parties and supersedes all previous agreements, oral or
-    written, with respect to the subject matter of this Agreement. The information and documents provided by the
-    Participant or Attendee to the Organizers, as requested by the latest in order to enter the Agreement, shall also be
-    considered part of this Agreement. This Agreement may not be amended without the written consent of the parties.
-  </p>
+  <h3>Títols</h3>
 
-  <h3>Headings</h3>
+  <p>Els títols dels articles i paràgrafs continguts en aquest Acord s'insereixen per conveniència i no es pretenen com a part
+    o afectar la interpretació d'aquest Acord.</p>
 
-  <p>The headings of the articles and paragraphs contained in this Agreement are inserted for convenience and are not
-    intended to be part of or affect the interpretation of this Agreement.</p>
+  <h3>Contrapartides</h3>
 
-  <h3>Counterparts</h3>
+  <p>Aquest Acord pot ser executat en contrapartides o en línia que, preses juntes, formaran un instrument legal únic.</p>
 
-  <p>This Agreement may be executed in counterparts or online which, taken together, shall form one legal instrument.</p>
+  <h3>No Hi Ha Beneficiaris Tercers</h3>
 
-  <h3>No Third-Party Beneficiaries</h3>
+  <p>Aquest Acord serà vinculant i redundarà exclusivament en benefici de les parts aquí presents i els seus cessionaris
+    permesos, i res aquí, expressat o implícit, es pretén o conferirà a qualsevol altra persona cap dret legal o equitatiu,
+    benefici o recurs de cap naturalesa sota o per raó d'aquest Acord.</p>
 
-  <p>This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their permitted
-    assigns, and nothing herein, express or implied, is intended to or shall confer upon any other person any legal or
-    equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement.</p>
-
-  <p class="pt-10">Last Reviewed: September 19, 2024.</p> 
+  <p class="pt-10">Última Revisió: 19 de setembre de 2024.</p> 
 
 </div>
 

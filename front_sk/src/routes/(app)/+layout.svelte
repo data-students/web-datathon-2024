@@ -18,7 +18,7 @@
 }
 </script>
 
-<nav id="home" class={`flex flex-row justify-between xl:justify-center items-center w-full py-8 ${($page.url.pathname === "/privacy" || $page.url.pathname === "/legal" || $page.url.pathname === "/terms") ? 'hidden' : ''}`}>
+<nav id="home" class={`flex flex-row justify-between xl:justify-center items-center w-full py-8 ${($page.url.pathname.startsWith("/privacy") || $page.url.pathname.startsWith("/legal") || $page.url.pathname.startsWith("/terms")) ? 'hidden' : ''}`}>
 
   <a href="/" class="xl:flex pl-8 justify-center items-center xl:flex-1 ">
     <img src={logo} class="h-20 xl:h-[113px] xl:w-[160px]" alt="logo" />

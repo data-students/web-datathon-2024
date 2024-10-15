@@ -1,118 +1,105 @@
+
 <svelte:head>
-    <title>Datathon - Legal Notice</title> 
+    <title>Datathon - Avís Legal</title> 
 </svelte:head>
 
 <div class="p-6 sm:p-10">
-  <h1 class="text-dark font-title md:text-[48px] sm:text-[35px] text-[30px] font-bold">Datathon FME - Legal Notice</h1>
+  <h1 class="text-dark font-title md:text-[48px] sm:text-[35px] text-[30px] font-bold">Datathon FME - Avís Legal</h1>
   <p>
-    This Legal Notice is intended to regulate access and usage and, in general, the relationship between this website,
-    accessible from the Internet addresses datathon.cat and datathon.netlify.app (the “Website”) and its Users.
+    Aquest Avís Legal té com a objectiu regular l'accés i ús, i en general, la relació entre aquest lloc web,
+    accessible des de les adreces d'Internet datathon.cat i datathon.netlify.app (el “Lloc Web”) i els seus Usuaris.
   </p>
 
-  <h2>1. IDENTITY OF THE SERVICE PROVIDER</h2>
-  <p>The owner of this Website is Associació d'Estudiants de Dades (hereinafter, “AED”) with address at C/ Pau Gargallo
-    14, D.413, 08028, Barcelona (Spain) and contact email address <a class="text-accent hover:text-dark"
+  <h2>1. IDENTITAT DEL PRESTADOR DE SERVEIS</h2>
+  <p>El propietari d'aquest Lloc Web és l'Associació d'Estudiants de Dades (en endavant, "AED") amb adreça a C/ Pau Gargallo
+    14, D.413, 08028, Barcelona (Espanya) i adreça de correu electrònic de contacte <a class="text-accent hover:text-dark"
       href="mailto:hola@aed.cat">hola@aed.cat</a>.
     <br>
-    This Website is informative, open and available to the public. The access to the Website attributes to the person
-    who carries it out the condition of User, who accepts from that moment on, fully and without any reservation, the
-    conditions contained in this Legal Notice.
+    Aquest Lloc Web és informatiu, obert i disponible per al públic. L'accés al Lloc Web atorga a la persona
+    que hi accedeix la condició d'Usuari, qui accepta des d'aquell moment, plenament i sense cap reserva, les
+    condicions contingudes en aquest Avís Legal.
   </p>
-  <h2>2. USE AND CONTENT OF THE WEBSITE</h2>
+  <h2>2. ÚS I CONTINGUT DEL LLOC WEB</h2>
   <p>
-    The User undertakes to use the Website, its contents and services in accordance with the Law, this Legal Notice, the
-    good customs and the public order. The use of the Website for illicit or harmful purposes against AED or third
-    parties is prohibited.
+    L'Usuari es compromet a utilitzar el Lloc Web, els seus continguts i serveis d'acord amb la Llei, aquest Avís Legal, els
+    bons costums i l'ordre públic. Queda prohibida la utilització del Lloc Web per a fins il·lícits o perjudicials contra AED o tercers.
     <br>
-    Reproduction, distribution or modification of the contents of this website is prohibited without the written
-    permission of the legitimate owners.
+    Està prohibida la reproducció, distribució o modificació dels continguts d'aquest lloc web sense el permís escrit dels legítims propietaris.
     <br>
-    The User expressly undertakes not to destroy, alter, render useless or in any other way damage the data, programs or
-    electronic documents that are on the Website, or to introduce programs, viruses, macros, applets, Active X controls
-    or any other logical device or sequence of characters that cause or are likely to cause any kind of alteration in
-    computer systems.
+    L'Usuari es compromet expressament a no destruir, alterar, inutilitzar o danyar de cap manera les dades, programes o
+    documents electrònics que es troben al Lloc Web, ni introduir programes, virus, macros, applets, controls Active X
+    o qualsevol altre dispositiu lògic o seqüència de caràcters que puguin causar alteracions en els sistemes informàtics.
     <br>
-    The duration of the service provided by the Website is indefinite. Without prejudice to the foregoing, AED reserves
-    the right to discontinue this service at any time and without prior notice.
+    La durada del servei proporcionat pel Lloc Web és indefinida. No obstant això, AED es reserva el dret a interrompre aquest servei en qualsevol moment i sense previ avís.
   </p>
-  <h2>3. LINKS TO THIRD-PARTY WEBSITES</h2>
+  <h2>3. ENLLAÇOS A LLOCS WEB DE TERCERS</h2>
   <p>
-    This Legal Notice refers only to this Website and its content. Therefore, it does not apply to third-party web pages
-    accessible through links inserted on the Website.
+    Aquest Avís Legal es refereix únicament a aquest Lloc Web i el seu contingut. Per tant, no s'aplica a pàgines web de tercers
+    accessibles a través d'enllaços inserits al Lloc Web.
     <br>
-    Under no circumstances shall AED be liable for the contents or services of other links made available on the
-    Website, nor can it guarantee the technical availability, quality, reliability, accuracy, breadth, accuracy,
-    validity and legality of any material or information contained in any of said links.
+    En cap cas AED serà responsable dels continguts o serveis d'altres enllaços disponibles al
+    Lloc Web, ni pot garantir la disponibilitat tècnica, qualitat, fiabilitat, exactitud, amplitud, validesa o legalitat de qualsevol material o informació inclosa en aquests enllaços.
     <br>
-    Unless expressly stated otherwise, the contents of the Website do not constitute a binding offer.
+    Llevat que s'indiqui expressament el contrari, els continguts del Lloc Web no constitueixen una oferta vinculant.
     <br>
-    Links that appear on the Website may not be approved by AED.
+    Els enllaços que apareixen al Lloc Web poden no ser aprovats per AED.
     <br>
-    Likewise, the inclusion of these external connections will not imply any type of association, merger or
-    participation with the connected entities.
+    De la mateixa manera, la inclusió d'aquestes connexions externes no implicarà cap tipus d'associació, fusió o
+    participació amb les entitats connectades.
     <br>
   </p>
 
-  <h2>4. INTELLECTUAL PROPERTY</h2>
+  <h2>4. PROPIETAT INTEL·LECTUAL</h2>
   <p>
-    AED is the legitimate owner of all rights, titles and interests in and to the Website, its contents and software,
-    including any modifications, updates and new versions, as well as any trademarks, trade names, know-how, copyrights,
-    images, photographs, graphic drawings, text files, audio, video and any other intellectual or industrial property
-    rights inherent therein.
+    AED és el legítim propietari de tots els drets, títols i interessos en i sobre el Lloc Web, els seus continguts i programari,
+    incloent-hi qualsevol modificació, actualització i noves versions, així com qualsevol marca registrada, nom comercial, know-how, drets d'autor,
+    imatges, fotografies, dibuixos gràfics, arxius de text, àudio, vídeo i qualsevol altre dret de propietat intel·lectual o industrial inherent.
     <br>
-    It is strictly forbidden to remove, circumvent or manipulate the copyright notice and any other data identifying the
-    rights of AED or their respective owners incorporated into the contents, products and/or services, as well as the
-    technical protection devices or any information and/or identification mechanisms that may be contained therein.
-    Under no circumstances shall the provision of these contents to the Users imply the transfer of their ownership or
-    any right of use and/or exploitation to the User, other than the use that the legitimate use entails and in
-    accordance with the nature of the services and functionalities of AED.
+    Està estrictament prohibit eliminar, esquivar o manipular l'avís de drets d'autor i qualsevol altra dada identificativa dels drets d'AED o dels respectius propietaris incorporats en els continguts, productes i/o serveis, així com els dispositius de protecció tècnica o qualsevol mecanisme d'informació i/o identificació que hi puguin estar continguts.
     <br>
-    Any use of the elements subject to industrial and intellectual property for any type of purpose, especially
-    commercial, as well as their transmission, distribution, public communication, reproduction or storage, in whole or
-    in part, whether for profit or for commercial or non-commercial purposes, is strictly prohibited, unless expressly
-    authorized in writing by the owner of the same.
+    En cap cas la prestació d'aquests continguts als Usuaris implicarà la transferència de la seva titularitat ni de cap dret d'ús i/o explotació a l'Usuari, fora de l'ús legítim que comporta i d'acord amb la naturalesa dels serveis i funcionalitats d'AED.
+    <br>
+    Qualsevol ús dels elements subjectes a propietat industrial i intel·lectual per a qualsevol tipus de finalitat, especialment
+    comercial, així com la seva transmissió, distribució, comunicació pública, reproducció o emmagatzematge, total o parcial, ja sigui amb ànim de lucre o per a finalitats comercials o no comercials, està estrictament prohibit, llevat que estigui expressament autoritzat per escrit pel propietari dels mateixos.
   </p>
-  <h2>5. LIABILITY</h2>
-  <p>Visiting users undertake not to introduce, voluntarily or involuntarily, viruses or files of any nature that may
-    disturb the functioning of the Website; in which case they would be fully responsible.
+  <h2>5. RESPONSABILITAT</h2>
+  <p>Els usuaris visitants es comprometen a no introduir, voluntàriament o involuntàriament, virus o arxius de qualsevol tipus que puguin
+    alterar el funcionament del Lloc Web; en aquest cas en seran plenament responsables.
     <br>
-    Your use and browsing of the Website is at your own risk. AED shall be exempt from any liability for damages to the
-    User and third parties in connection with:
+    L'ús i la navegació pel Lloc Web es realitza sota el propi risc de l'Usuari. AED queda exempt de qualsevol responsabilitat per danys a l'Usuari i tercers en relació amb:
     <br>
   </p>
   <ul class="list-disc pt-4 pl-10"> 
-    <li>The incorrect functioning of the Website.</li>
-    <li>The lack of adequacy of the Website and/or its services or contents to satisfy the needs, specific results or
-      expectations of the Users.</li>
-    <li>Presence of contaminating codes or viruses that could produce alterations in the computer system of the Users.
-    </li>
-    <li>Any damage that may occur as a result of the contents of third parties included on the Website.</li>
-    <li>AED reserves the right to prevent, block and/or remove from the Website those Users who display inappropriate
-      behaviour or who breach any of the clauses of this Legal Notice, without prior notice from AED.</li>
+    <li>El mal funcionament del Lloc Web.</li>
+    <li>La falta d'adequació del Lloc Web i/o dels seus serveis o continguts per satisfer les necessitats, resultats específics o
+      expectatives dels Usuaris.</li>
+    <li>La presència de codis contaminants o virus que puguin provocar alteracions en el sistema informàtic dels Usuaris.</li>
+    <li>Qualsevol dany que pugui produir-se com a resultat dels continguts de tercers inclosos al Lloc Web.</li>
+    <li>AED es reserva el dret a prevenir, bloquejar i/o eliminar del Lloc Web aquells Usuaris que mostrin un comportament inadequat
+      o que incompleixin qualsevol de les clàusules d'aquest Avís Legal, sense avís previ d'AED.</li>
   </ul>
-  <h2>6. APPLICABLE LAW AND JURISDICTION</h2>
+  <h2>6. LLEI APLICABLE I JURISDICCIÓ</h2>
   <p>
-    This Legal Notice shall be governed by Spanish law.
+    Aquest Avís Legal es regirà per la legislació espanyola.
     <br>
-    In the event that the User’s domicile is outside Spain, AED and the User, expressly waiving any other jurisdiction
-    to which they may be entitled, hereby submit to the jurisdiction of the Courts and Tribunals of Barcelona.
+    En cas que el domicili de l'Usuari es trobi fora d'Espanya, AED i l'Usuari, renunciant expressament a qualsevol altra jurisdicció
+    que els pugui correspondre, se sotmeten a la jurisdicció dels Jutjats i Tribunals de Barcelona.
     <br>
-    AED will pursue the breach of this Legal Notice as well as any improper use of the Website by exercising all civil
-    and criminal actions that may correspond.
+    AED perseguirà l'incompliment d'aquest Avís Legal així com qualsevol ús indegut del Lloc Web exercint totes les accions civils
+    i penals que puguin correspondre.
   </p>
-  <h2>7. MODIFICATION AND UPDATE</h2>
+  <h2>7. MODIFICACIÓ I ACTUALITZACIÓ</h2>
   <p>
-    The information contained in these pages is current as of the date of the last update.
+    La informació continguda en aquestes pàgines està actualitzada a la data de l'última actualització.
     <br>
-    AED reserves the right to modify this Legal Notice at any time and to restrict access temporarily or permanently,
-    indicating at the end of this Legal Notice the date of the last modification.
+    AED es reserva el dret de modificar aquest Avís Legal en qualsevol moment i de restringir l'accés temporalment o permanentment,
+    indicant al final d'aquest Avís Legal la data de l'última modificació.
   </p>
   <p class="pt-10">
-    Last Reviewed: September 19, 2024.
+    Última Revisió: 19 de setembre de 2024.
   </p>
   <br>
 </div>
-
 
 <style>
   h1{
