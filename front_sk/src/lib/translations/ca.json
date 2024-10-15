@@ -1,27 +1,27 @@
 {
   "subtitle": "Barcelona, 16-17 Novembre 2024",
   "generator": "Generador",
-  "join": "Unir-se",
-  "about": "Sobre nosaltres",
+  "join": "Entrar",
+  "about": "Detalls",
   "schedule": "Horari",
-  "aed": "DEA",
+  "aed": "AED",
   "contact": "Contacte",
-  "faqs": "Preguntes freqüents",
+  "faqs": "FAQs",
   "menu": "Menú",
   "home": "Inici",
   "register": "Registrar-se",
   "sponsored": "PATROCINAT PER",
   "organized": "ORGANITZAT PER",
   "prizes": "EN PREMIS",
-  "join_free": "Unir-se és <span class='text-dark font-extrabold a'>GRATUÏT</span>!",
+  "join_free": "És <span class='text-dark font-extrabold a'>GRATUÏT</span> participar!",
 
   "what": {
-    "title": "Què és el Datathon FME?",
-    "body": "El datathon és una competició de cap de setmana on se't desafia a resoldre problemes del món real utilitzant tècniques d’aprenentatge automàtic, IA i ciència de dades en grups de màxim 4 persones. Presentarem 3 reptes, i hauràs de triar-ne un. Normalment, se't demanarà trobar solucions a problemes específics utilitzant alguns conjunts de dades. A més, hi haurà tallers i activitats no obligatoris per relaxar-se i conèixer gent nova!",
-    "cta": "Uneix-te ara!",
+    "title": "Què és la Datathon FME?",
+    "body": "La datathon és una competició que dura un sol de cap de setmana on se't desafia a resoldre problemes reals utilitzant tècniques d’aprenentatge automàtic, IA i ciència de dades en grups de màxim 4 persones. Presentarem 3 reptes, i hauràs de triar-ne un. Normalment, se't demanarà trobar solucions a problemes específics utilitzant alguns conjunts de dades. A més, hi haurà tallers i activitats no obligatoris per relaxar-se i conèixer gent nova!",
+    "cta": "Apunta't ara!",
     "section1": {
       "title": "On?",
-      "body": "El nostre esdeveniment tindrà lloc a la Facultat de Matemàtiques i Estadística de la UPC, situada a <a class='underline decoration-accent hover:text-accent' href='https://maps.app.goo.gl/14XKLDg4Jk5bdcZj6' target='_blank'>C/ Pau Gargallo 14, Barcelona.</a>"
+      "body": "L'esdeveniment tindrà lloc a la Facultat de Matemàtiques i Estadística de la UPC, situada a  <a class='underline decoration-accent hover:text-accent' href='https://maps.app.goo.gl/14XKLDg4Jk5bdcZj6' target='_blank'>C/ Pau Gargallo 14, Barcelona.</a>"
     },
     "section2": {
       "title": "Quan?",
@@ -29,28 +29,28 @@
     },
     "section3": {
       "title": "Qui?",
-      "body": "Apte per a entusiastes de les dades que actualment estan matriculats a la universitat o que recentment s'han graduat!"
+      "body": "Apte per a entusiastes de les dades que actualment estiguin matriculats a la universitat o que s'hagin graduat recentment!"
     }
   },
   "summary": "Resum de l'edició de l'any passat!",
 
   "aed1": {
     "title": "Sobre nosaltres",
-    "body": "Som l'Associació d'Estudiants de Dades! Estem organitzant la quarta edició d'aquest datathon, conjuntament amb l'FME. Un dels nostres objectius és promoure la ciència de dades dins la UPC. Si estàs estudiant <a href='https://dse.upc.edu/' target='_blank' class='text-accent decoration-accent underline'>Ciència i Enginyeria de Dades</a>, t'has d'unir a nosaltres!",
+    "body": "Som l'Associació d'Estudiants de Dades! Estem organitzant la quarta edició de la datathon, conjuntament amb l'FME. Un dels nostres objectius és promoure la ciència de dades dins la UPC. Si estàs estudiant <a href='https://dse.upc.edu/' target='_blank' class='text-accent decoration-accent underline'>Ciència i Enginyeria de Dades</a>, t'has d'unir!",
     "cta": "Més informació"
   },
   "aed2": {
-    "title": "Uneix-te a l'esdeveniment!",
-    "body": "Si estàs pensant a associar-te o patrocinar-nos, no dubtis a contactar-nos per correu electrònic. Si tens algun dubte, també ens pots contactar! També acceptem suggeriments o idees per a altres esdeveniments.",
-    "cta": "Contacta'ns"
+    "title": "Vols contribuir?",
+    "body": "Si estàs pensant a patrocinar-nos o ajudar-nos, no dubtis a contactar amb nosaltres per correu electrònic. A més a més, si tens algun dubte, ens pots contactar! També acceptem suggeriments o idees per a altres esdeveniments.",
+    "cta": "Contactar"
   },
   "aed3": {
     "title": "Busquem mentors!",
-    "body": "T'agradaria ajudar els participants amb els seus projectes? Si tens alguna habilitat tècnica destacada (ML, frameworks, llenguatges de programació), aplica ara per ser mentor!",
+    "body": "T'agradaria ajudar els participants amb els seus projectes? Si tens alguna habilitat tècnica destacable (ML, frameworks, llenguatges de programació), aplica ara per ser mentor!",
     "cta": "Fes-te voluntari"
   },
   "mails": {
-    "title": "Contacta'ns",
+    "title": "Contacta amb nosaltres",
     "general": "General",
     "sponsors": "Patrocinadors",
     "registrations": "Inscripcions"

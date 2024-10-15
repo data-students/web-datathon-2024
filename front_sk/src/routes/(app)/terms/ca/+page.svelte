@@ -25,18 +25,18 @@
 
 
   <p class="pt-6"><strong>El “Participant”</strong> es refereix a qualsevol Usuari que decideixi inscriure's acceptant aquests T&amp;C i
-  participi en l'esdeveniment organitzat pels Organitzadors competint en el Datathon.</p>
+  participi en l'esdeveniment organitzat pels Organitzadors competint en la Datathon.</p>
 
-  <p class="pt-6"><strong>L'“Assistente”</strong> es refereix a qualsevol Usuari que decideixi inscriure's acceptant aquests T&amp;C i participi
+  <p class="pt-6"><strong>L'“Assistent”</strong> es refereix a qualsevol Usuari que decideixi inscriure's acceptant aquests T&amp;C i participi
   en l'esdeveniment organitzat pels Organitzadors en qualsevol altre rol que no sigui el de Participant. Inclou els
   següents: Patrocinador, Jutge, Mentor, Organitzador, Voluntari i altres assistents.</p>
 
-  <p class="pt-6"><strong>L'esdeveniment “Datathon FME”</strong> es refereix a l'Esdeveniment organitzat pels Organitzadors, que és un Datathon.
-  Els Datathons són competicions de cap de setmana on es desafia els Participants a treballar en casos de negoci del món real
+  <p class="pt-6"><strong>L'esdeveniment “Datathon FME”</strong> es refereix a l'Esdeveniment organitzat pels Organitzadors, que és una Datathon.
+  Les Datathons són competicions amb durada de un cap de setmana on es desafia els Participants a treballar en casos de negoci del món real
   de diferents àrees de Machine Learning, IA i Data Science. Es proporcionen alguns conjunts de dades als Participants per
   respondre preguntes o implementar solucions.</p>
 
-  <p class="pt-6"><strong>El “Swag”</strong> es refereix a qualsevol regal proporcionat pels Organitzadors o qualsevol patrocinador o soci del "Datathon FME"
+  <p class="pt-6"><strong>El “Swag”</strong> es refereix a qualsevol regal proporcionat pels Organitzadors o qualsevol patrocinador o soci de la "Datathon FME"
   en qualsevol forma física o en línia sense cap cost.</p>
 
   <h2>CLÀUSULES</h2>
@@ -47,7 +47,7 @@
   pels Organitzadors.</p>
 
   <p>aquests T&amp;C s'apliquen tant als Participants com als Assistents, tot i que algunes de les seves clàusules poden ser aplicables
-  només al Participant donat el seu rol en el Datathon.</p>
+  només al Participant donat el seu rol en la Datathon.</p>
 
   <h2>2. REGLAMENT DE LA COMPETICIÓ Datathon FME</h2>
 
@@ -61,18 +61,18 @@
     l'equip, independentment de la mida de l'equip.</li>
   <li>Els equips han d'estar formats exclusivament per estudiants que no siguin organitzadors, jutges, patrocinadors o en qualsevol altra
     posició privilegiada a l'esdeveniment.</li>
-  <li>Tots els membres de l'equip han de ser acceptats al Datathon per l'organització i registrats a les plataformes/formularis en línia utilitzats abans i durant l'esdeveniment.</li>
+  <li>Tots els membres de l'equip han de ser acceptats a la Datathon per l'organització i registrats a les plataformes/formularis en línia utilitzats abans i durant l'esdeveniment.</li>
   <li>Tots els membres de l'equip han de ser accessibles per qualsevol membre de l'equip d'organització durant l'esdeveniment.</li>
   <li>Els equips poden, per descomptat, obtenir consells i suport dels organitzadors, voluntaris, patrocinadors, mentors i altres persones relacionades
-    amb el Datathon.</li>
-  <li>Tota la feina en un projecte s'ha de fer al Datathon.</li>
+    amb la Datathon.</li>
+  <li>Tota la feina en un projecte s'ha de fer la Datathon.</li>
   <li>Els equips poden utilitzar una idea que tenien abans de l'esdeveniment.</li>
   <li>Els equips poden treballar en idees que ja s'han fet. Les solucions no han de ser "innovadores", tot i que és un
     plus.</li>
   <li>Els equips poden treballar en una idea en la qual han treballat abans (sempre que no reutilitzin codi).</li>
   <li>Els equips poden utilitzar biblioteques, frameworks o codi de codi obert en els seus projectes. Treballar en un projecte abans de l'esdeveniment i fer-lo de codi obert amb l'únic propòsit d'utilitzar el codi durant l'esdeveniment va en contra de l'esperit de les regles i no està permès.</li>
   <li>Afegir noves funcions a projectes existents està permès. Els jutges només consideraran la nova funcionalitat introduïda o
-    noves funcions afegides durant el Datathon per determinar els guanyadors.</li>
+    noves funcions afegides durant la Datathon per determinar els guanyadors.</li>
   <li>Els equips han de deixar de treballar un cop s'acabi el temps. No obstant això, els equips poden fer petites correccions als seus
     programes/documents després que s'acabi el temps. Fer grans canvis o afegir noves funcions no està permès.</li>
   <li>Els projectes que violen el Codi de Conducta no estan permesos (clàusula 3).</li>
@@ -83,7 +83,7 @@
 
   <p>Després que s'acabi el temps de treball, els equips mostraran els seus projectes entre ells i als jutges.</p>
 
-  <p>Per presentar el teu projecte als jutges i patrocinadors del Datathon FME, hauràs de poder inscriure't i iniciar sessió
+  <p>Per presentar el teu projecte als jutges i patrocinadors de la Datathon FME, hauràs de poder inscriure't i iniciar sessió
   en serveis de tercers complint amb les lleis aplicables del teu país. Acceptant els termes i
   condicions de qualsevol servei de tercers suggerit, utilitzat o proposat per l'organització.</p>
 
@@ -149,11 +149,11 @@
     <li>Un equip que representa falsament el treball que han fet.</li>
     <li>Un equip amb massa membres.</li>
     <li>Un equip utilitzant codi escrit fora de l'esdeveniment.</li>
-    <li>Un equip amb membres que no estan registrats correctament per al Datathon.</li>
+    <li>Un equip amb membres que no estan registrats correctament per la Datathon.</li>
   </ul>
 
   <p class="pt-6">Si sospites que algú està fent trampes, posa't en contacte amb els organitzadors de l'esdeveniment. Si encara estàs a l'esdeveniment,
-    parla amb un organitzador del Datathon FME. Si és després de l'esdeveniment, envia'ns un correu electrònic a l'adreça proporcionada. No
+    parla amb un organitzador de la Datathon FME. Si és després de l'esdeveniment, envia'ns un correu electrònic a l'adreça proporcionada. No
     oblidis indicar clarament el següent:
 
   <ul class="list-disc pt-4 pl-10">
@@ -165,7 +165,7 @@
     <li>Qualsevol URL rellevant (per exemple, per a repositoris de GitHub o pàgines de Devpost).</li>
   </ul>
 
-  <p class="pt-6">Els organitzadors del Datathon FME investigaran l'acusació revisant materials públics sobre la solució,
+  <p class="pt-6">Els organitzadors de la Datathon FME investigaran l'acusació revisant materials públics sobre la solució,
     incloent repositoris de projectes, presentacions de projectes i qualsevol altra cosa disponible per a ells.</p>
 
   <p>Si els organitzadors determinen que no s'han fet trampes, informaran al denunciant.</p>
@@ -187,12 +187,12 @@
   </ul>
 
   <p class="pt-6">Depenent de l'acusació de trampes, els organitzadors poden decidir fer un o més anuncis públics. Si
-    és necessari, això es farà amb un breu anunci. Ningú altre que els directors del Datathon FME hauria de fer cap
+    és necessari, això es farà amb un breu anunci. Ningú altre que els directors de la Datathon FME hauria de fer cap
     anunci.</p>
 
   <h3>Recorda!</h3>
 
-  <p>La competició és només una part del Datathon. Per aprofitar al màxim l'esdeveniment, prova alguna cosa nova, ensenya a altres
+  <p>La competició és només una part de la Datathon. Per aprofitar al màxim l'esdeveniment, prova alguna cosa nova, ensenya a altres
     persones i fes nous amics!</p>
 
   <h2>3. CODI DE CONDUCTA</h2>

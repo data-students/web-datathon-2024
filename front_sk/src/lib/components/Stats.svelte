@@ -59,7 +59,7 @@
         <div class="div2 z-20">
             <Card className="w-[250px] sm:w-[330px] h-[200px] bg-accent p-[30px] justify-center drop-shadow-xl">
                 <div class="">
-                    <p class="text-terc font-title text-[44px] font-bold text-center">
+                    <p class="text-terc font-title text-[35px] md:text-[44px] font-bold text-center">
                         {@html $t("main.join_free")}
                     </p>
                 </div>

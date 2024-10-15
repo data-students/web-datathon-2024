@@ -56,7 +56,7 @@
     </ul>
 
     <p class="pt-6">A continuació es detallen quines dades personals es recullen per comprovar si s'ha produït trampa (consulteu la secció "Trampes"
-      en els nostres <a class="text-accent hover:text-dark" target="_blank" href="/terms">termes i condicions</a>):</p>
+      en els nostres <a class="text-accent hover:text-dark" target="_blank" href="/terms/ca">termes i condicions</a>):</p>
 
     <ul class="list-disc pt-4 pl-10">
       <li>Dades identificatives i de contacte del denunciant: Nom, correu electrònic, telèfon, etc.</li>
@@ -91,7 +91,7 @@
     </ul>
 
     <p class="pt-6">Quan es recullen dades personals per comprovar si s'ha produït trampa (consulteu la secció "Trampes" en els nostres <a
-      class="text-accent hover:text-dark" target="_blank" href="/terms">termes i condicions</a>):</p>
+      class="text-accent hover:text-dark" target="_blank" href="/terms/ca">termes i condicions</a>):</p>
 
     <ul class="list-disc pt-4 pl-10">
       <li>AED tractarà les vostres dades personals per gestionar i processar la sol·licitud rebuda del denunciant i dur
@@ -140,7 +140,7 @@
     </ul>
 
     <p class="pt-6">Quan es recullen dades personals per comprovar si s'ha produït trampa (consulteu la secció "Trampes" en els nostres <a
-      class="text-accent hover:text-dark" target="_blank" href="/terms">termes i condicions</a>):</p>
+      class="text-accent hover:text-dark" target="_blank" href="/terms/ca">termes i condicions</a>):</p>
       <ul class="list-disc pt-4 pl-10">
         <li>AED està legalment autoritzada a tractar dades personals per gestionar i processar la sol·licitud rebuda del denunciant
         i dur a terme la investigació relacionada amb les trampes, ja que això és necessari perquè AED compleixi les seves
@@ -220,7 +220,7 @@
 
       <p>A més, se us informa que si teniu més de 14 anys però menys de 18, es recomana que informeu els vostres
         pares o tutors legals que teniu la intenció d'accedir al lloc web abans de fer-ho, perquè aquests us expliquin
-        les implicacions dels nostres <a class="text-accent hover:text-dark" target="_blank" href="/terms">Termes i Condicions</a> i, específicament, de la Política de Privacitat
+        les implicacions dels nostres <a class="text-accent hover:text-dark" target="_blank" href="/terms/ca">Termes i Condicions</a> i, específicament, de la Política de Privacitat
         continguda en aquest document, així com per aclarir-vos els possibles usos que es poden fer d'aquest lloc web, sense perjudici
         dels casos específics en què per llei els pares o tutors legals dels menors entre 14 i 18 anys han de
         donar el seu consentiment perquè les seves dades personals siguin tractades.</p>

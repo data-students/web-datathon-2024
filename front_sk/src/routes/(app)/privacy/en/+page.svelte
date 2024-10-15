@@ -60,7 +60,7 @@
     </ul>
 
     <p class="pt-6">Here are the details of which personal data is collected to check if cheating has ocurred (check the "Cheating"
-      section in our <a class="text-accent hover:text-dark" target="_blank" href="/terms">terms and conditions</a>):</p>
+      section in our <a class="text-accent hover:text-dark" target="_blank" href="/terms/en">terms and conditions</a>):</p>
 
     <ul class="list-disc pt-4 pl-10">
       <li>Identifying and contact data of the reporter: Name, email, phone, etc.</li>
@@ -96,7 +96,7 @@
     </ul>
 
     <p class="pt-6">When personal data is collected to check if cheating has occured (check "Cheating" section in our <a
-      class="text-accent hover:text-dark" target="_blank" href="/terms">terms and conditions</a>):</p>
+      class="text-accent hover:text-dark" target="_blank" href="/terms/en">terms and conditions</a>):</p>
 
     <ul class="list-disc pt-4 pl-10">
       <li>AED shall process your personal data to handle and process the request received from the reporter and carry
@@ -145,7 +145,7 @@
     </ul>
 
     <p class="pt-6">When personal data is collected to check if cheating has occurred (check the "Cheating" section in our <a
-      class="text-accent hover:text-dark" target="_blank" href="/terms">terms and conditions</a>):</p>
+      class="text-accent hover:text-dark" target="_blank" href="/terms/en">terms and conditions</a>):</p>
 
     <ul class="list-disc pt-4 pl-10">
       <li>AED is legally entitled to process personal data to handle and process the request received from the reporter
@@ -227,7 +227,7 @@
 
     <p>Furthermore, you are informed that if you are aged over 14 but under 18, it is recommended that you tell your
       parents or legal guardians that you intend to access the Website before doing so, in order that the former explain
-      to you the implications of our <a class="text-accent hover:text-dark" target="_blank" href="/terms">Terms and Conditions</a> and, specifically, of the Privacy
+      to you the implications of our <a class="text-accent hover:text-dark" target="_blank" href="/terms/en">Terms and Conditions</a> and, specifically, of the Privacy
       Policy contained herein, as well as elucidating on the possible uses to be made of this Website, notwithstanding
       the specific cases in which by law the parents or legal guardians of minors between the ages of 14 and 18 must
       give their consent for their personal data to be processed.</p>

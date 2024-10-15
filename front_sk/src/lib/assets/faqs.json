@@ -125,36 +125,36 @@
       "section_title": "Sobre l'esdeveniment",
       "questions": [
         {
-          "question": "Què és un Datathon?",
-          "answer": "Un datathon és una competició en equip on els participants resolen problemes reals utilitzant tècniques de machine learning (ML) i ciència de dades. És una gran oportunitat per col·laborar, aprendre i aplicar les teves habilitats en un entorn pràctic."
+          "question": "Què és la Datathon?",
+          "answer": "La datathon és una competició en equip on els participants resolen problemes reals utilitzant tècniques de machine learning (ML) i ciència de dades. És una gran oportunitat per col·laborar, aprendre i aplicar les teves habilitats en un entorn pràctic."
         },
         {
-          "question": "Quan té lloc el Datathon FME?",
-          "answer": "El Datathon FME se celebrarà els dies 16 i 17 de novembre."
+          "question": "Quan té lloc la Datathon FME?",
+          "answer": "La Datathon FME se celebrarà els dies 16 i 17 de novembre."
         },
         {
           "question": "No tinc gaire experiència en programació. Em recomanaríeu participar?",
-          "answer": "Sens dubte! El Datathon FME és una gran oportunitat per aprendre i créixer, independentment del teu nivell d'experiència. Comptem amb mentors que t'ajudaran i et donaran suport durant tot l'esdeveniment."
+          "answer": "Sens dubte! La Datathon FME és una gran oportunitat per aprendre i desenvolupar-te, independentment del teu nivell d'experiència. Comptem amb mentors que t'ajudaran i et donaran suport durant tot l'esdeveniment."
         },
         {
           "question": "Quin és el preu de l'esdeveniment?",
-          "answer": "La participació al Datathon FME és completament GRATUÏTA!"
+          "answer": "La participació en la Datathon FME és completament GRATUÏTA!"
         },
         {
           "question": "Què haig de portar?",
-          "answer": "Si us plau, porta el teu portàtil, carregador i un document d'identitat vàlid. També et recomanem portar articles de neteja personal, un sac de dormir i una estora per passar la nit."
+          "answer": "Si us plau, porta el teu portàtil, carregador i un document d'identitat vàlid. També et recomanem portar el què necessitis per la teva higiene personal, un sac de dormir i una estora per passar la nit."
         },
         {
           "question": "He de portar menjar?",
-          "answer": "Proporcionarem esmorzar, dinar i sopar el dissabte, així com esmorzar i dinar el diumenge. Pots portar el teu propi menjar si vols."
+          "answer": "Proporcionarem esmorzar, dinar i sopar el dissabte, així com esmorzar i dinar el diumenge. Pots portar els teus propis snacks si vols."
         },
         {
           "question": "Què passa si tinc requisits dietètics específics?",
-          "answer": "Cap problema! Indica-ho durant el procés d'inscripció, i et proporcionarem menjar adequat per a tu."
+          "answer": "Cap problema! Indica-ho durant el procés d'inscripció, i et proporcionarem menjar adequat."
         },
         {
-          "question": "El Datathon FME és presencial?",
-          "answer": "Sí, el Datathon FME és un esdeveniment presencial. Aquest format ofereix una oportunitat fantàstica per connectar cara a cara amb mentors, altres participants i professionals de la indústria. Podràs fer networking, intercanviar idees i establir relacions valuoses que podrien beneficiar la teva carrera i aprenentatge."
+          "question": "La Datathon FME és presencial?",
+          "answer": "Sí, la Datathon FME és un esdeveniment presencial. Aquest format ofereix una oportunitat fantàstica per connectar cara a cara amb mentors, altres participants i professionals de la indústria. Podràs fer networking, intercanviar idees i establir relacions valuoses que podrien beneficiar la teva carrera i aprenentatge."
         },
         {
           "question": "Puc sortir de la facultat durant la competició?",
@@ -166,19 +166,19 @@
         },
         {
           "question": "Què passa si arribo tard?",
-          "answer": "Si arribes abans de [TBC hora], dirigeix-te a [TBC ubicació]. Si arribes més tard, ves directament a l'Escola de Matemàtiques i Estadística. En ambdós casos, avisa a un organitzador quan arribis."
+          "answer": "Si arribes abans de [TBC hora], dirigeix-te a [TBC ubicació]. Si arribes més tard, ves directament a la Facultat de Matemàtiques i Estadística. En ambdós casos, avisa a algun organitzador quan arribis."
         },
         {
           "question": "Què passa si finalment no puc assistir?",
           "answer": "Si no pots assistir, si us plau, avisa'ns enviant un correu a <a class='text-accent' href='mailto:registrations.datathon@aed.cat'>registrations.datathon@aed.cat</a> . Així, podrem oferir la teva plaça a una altra persona."
         },
         {
-          "question": "Oferiu reemborsament de viatge?",
-          "answer": "Ens sap greu, però no podem cobrir les despeses de viatge."
+          "question": "Oferiu reemborsament del viatge?",
+          "answer": "Ens sap greu, però no podem cobrir les despeses del viatge."
         },
         {
           "question": "Quins premis hi haurà?",
-          "answer": "Hi haurà un premi per a cada repte i un premi especial per als rookies, destinat a estudiants de primer o segon any d'universitat o participants de batxillerat."
+          "answer": "Hi haurà un premi per a cada repte i un premi especial per als rookies, destinat a estudiants de primer o segon curs o participants de batxillerat."
         },
         {
           "question": "La meva participació serà reconeguda oficialment?",
@@ -208,7 +208,7 @@
         },
         {
           "question": "Què passa si no tinc equip?",
-          "answer": "Cap problema! Pots inscriure't com a individual, i t'ajudarem a formar un equip amb altres participants que també busquen companys."
+          "answer": "Cap problema! Pots inscriure't individualment, i t'ajudarem a formar un equip amb altres participants que també busquen companys."
         },
         {
           "question": "Què passa si m'he registrat sense equip, però ara en tinc un?",
@@ -221,11 +221,11 @@
       "questions": [
         {
           "question": "Quines tasques faré com a voluntari?",
-          "answer": "Pots triar ajudar en una o més àrees: Organització prèvia a l'esdeveniment, Mentoria i Logística de l'esdeveniment. Agrairem molt la teva contribució a l'esdeveniment!"
+          "answer": "Pots triar ajudar en una o més àrees: Organització prèvia a l'esdeveniment, Mentoria i Logística de l'esdeveniment. Agrairem molt la teva contribució!"
         },
         {
           "question": "Hi ha algun tipus de reconeixement?",
-          "answer": "Si ets estudiant de la UPC, obtindràs 1 ECTS per fer voluntariat."
+          "answer": "Si ets estudiant de la UPC, obtindràs 1 ECTS per fer de voluntari."
         }
       ]
     },
@@ -233,7 +233,7 @@
       "section_title": "Sobre el patrocini",
       "questions": [
         {
-          "question": "Estic interessat a ser patrocinador del Datathon FME. Què he de fer?",
+          "question": "Estic interessat a ser patrocinador de la Datathon FME. Què he de fer?",
           "answer": "Envia'ns un correu a <a class='text-accent' href='mailto:sponsors.datathon@aed.cat'>sponsors.datathon@aed.cat</a>, i t'ajudarem a trobar una opció de patrocini que s'adapti a les teves necessitats."
         }
       ]
