@@ -6,6 +6,7 @@
     import novartis from '$lib/assets/sponsors/novartisLogo.svg';
     import qualcomm from '$lib/assets/sponsors/qualcommLogo.svg';
     import mango from '$lib/assets/sponsors/mangoLogo.svg';
+    import t2c from '$lib/assets/sponsors/t2cLogo.svg';
     import { t } from '$lib/translations/translations';
 </script>
 
@@ -30,6 +31,11 @@
             </li>
         </ul>                
         <ul class="flex flex-wrap items-center justify-center [&_li]:mx-8 [&_li]:my-4 my-4">
+              <li class="lg:pr-10">
+                <a href="https://www.t2client.com/" target="_blank" aria-label="t2c logo">
+                    <img src={t2c} alt="t2c logo" class=" w-auto h-6 md:h-8 lg:h-10 opacity-[80%]"/>
+                </a>
+            </li>
             <li>
                 <a href="https://www.novartis.com" target="_blank" aria-label="novartis logo">
                     <img src={novartis} alt="novartis electric logo" class=" w-auto h-6 md:h-8 lg:h-10 opacity-[80%]"/>
@@ -37,7 +43,7 @@
             </li>
             <li>
                 <a href="https://www.qualcomm.com/" target="_blank" aria-label="qualcomm logo">
-                    <img src={qualcomm} alt="qualcomm logo" class=" w-auto h-6 md:h-8 lg:h-10 opacity-[80%]"/>
+                    <img src={qualcomm} alt="qualcomm logo" class=" w-auto h-6 md:h-8 lg:h-8 opacity-[80%]"/>
                 </a>
             </li>
         </ul>

@@ -11,11 +11,9 @@
     <iframe loading="lazy" class=" absolute inset-x-0 -top-[17%] sm:-top-[17%] md:-top-[10%] lg:top-1 w-full  h-[158rem] sm:h-[143rem] md:h-[147rem] lg:h-[120rem] -z-10 border-0 opacity-[50%] overfow-hidden" title="bg" src='https://my.spline.design/vaporwavebackgroundcopy-d951eda28d2ab9cb3bdc517f94e2bdd4/' frameborder='0'></iframe>
 
     <div class="flex flex-col justify-center items-center my-[14vh]">
-        <div class="py-1">
-            <p class=" w-full mb-0 xs:-mb-6 px-2 text-right font-title font-bold text-black text-lg flex flex-row items-center justify-center xs:justify-end">Powered by <span><img src={mango} alt="mango logo" class="pl-2 w-auto h-4"/></span></p>
-            <h1 class="font-title font-bold text-[62px] md:text-[96px] text-dark text-center">Datathon FME</h1>
-        </div>
+        <h1 class="font-title font-bold text-[62px] md:text-[96px] text-dark text-center">Datathon FME</h1>
         <h4 class="font-body text-[20px] md:text-[36px] px-4 text-secondary text-center">{$t("main.subtitle")}</h4>
+        <p class=" w-full mb-0 mt-3 px-2 text-right font-title font-bold text-black text-lg flex flex-row items-center justify-center xs:justify-center">Powered by <span><img src={mango} alt="mango logo" class="pl-2 w-auto h-4"/></span></p>
         <a class="mt-8" href="https://otld03s5z97.typeform.com/to/GAz1tKet" target="_blank"><Button >{$t("main.register")}</Button></a>
     </div>
     <Logos />
