@@ -5,6 +5,7 @@ export default {
     extend: {
       screens: {
         'xl': '1300px',
+        'xs': '430px'
       },
       animation: {
         "infinite-scroll": "infinite-scroll 55s linear infinite",
