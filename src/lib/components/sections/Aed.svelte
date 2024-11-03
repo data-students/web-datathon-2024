@@ -37,32 +37,5 @@
       </div>
     </section>
   </div>
-  
-</div>
-  
-<div class="relative mt-20 md:mt-40 p-6 sm:p-0">
-  <!-- <img src={circle} alt="circle" class="absolute left-0 object-cover -z-20 w-auto h-[150%] w-[150%]" /> -->
-  <section class="relative flex flex-col min-[1400px]:flex-row items-center text-center min-[1400px]:text-left ">
-    <!-- Positioned absolutely within the section to act as a background -->
-    
-    <!-- Content of the section -->
-    <div class="flex flex-col items-center max-w-sm md:max-w-2xl  z-10">
-      <h2 class=" u font-title font-bold text-[36px] md:text-[48px] text-accent text-center">{$t("main.aed3.title")}</h2>
-      <p class="text-secondary font-body mb-6 mt-2 text-justify text-[14px] md:text-[17px]">
-        {$t("main.aed3.body")}
-        
-      </p>
-      <div class="flex flex-wrap space-x-1 sm:space-x-4 justify-center">
-        <a href="https://otld03s5z97.typeform.com/to/rvhjbdrf" target="_blank">
-          <Button outline>{$t("main.aed3.cta")}</Button>
-        </a>
-      </div>
-    </div>
-  </section>
 </div>
 
-<style>
-  .u {
-    text-decoration: #21918C wavy underline;
-}
-</style>

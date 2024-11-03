@@ -239,7 +239,7 @@
     European Parliament and of The Council, of April 27th, on the protection of natural persons with regard to the
     processing of personal data and on the free movement of such data, all personal data collected during the use of the
     Website and during the event will be processed in accordance with the provisions of the <a
-      class="text-accent hover:text-dark" target="_blank" href="/privacy">Privacy Policy</a> which all Users must expressly accept.</p>
+      class="text-accent hover:text-dark" target="_blank" href="/privacy/en">Privacy Policy</a> which all Users must expressly accept.</p>
 
   <p>As it is explained in the Privacy Policy, one of the personal data that you authorize AED to process is your image:
   </p>

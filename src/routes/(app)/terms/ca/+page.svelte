@@ -229,7 +229,7 @@
     Parlament Europeu i del Consell, de 27 d'abril, sobre la protecció de les persones físiques pel que fa al
     tractament de dades personals i la lliure circulació d'aquestes dades, totes les dades personals recollides durant l'ús del
     lloc web i durant l'esdeveniment seran tractades d'acord amb les disposicions de la <a
-      class="text-accent hover:text-dark" target="_blank" href="/privacy">Política de Privacitat</a> que tots els usuaris han d'acceptar expressament.</p>
+      class="text-accent hover:text-dark" target="_blank" href="/privacy/ca">Política de Privacitat</a> que tots els usuaris han d'acceptar expressament.</p>
 
   <p>Com s'explica a la Política de Privacitat, una de les dades personals que autoritzes a AED a tractar és la teva imatge:
   </p>

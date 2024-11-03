@@ -74,7 +74,7 @@
         },
         {
           "question": "Until what day can I register?",
-          "answer": "The registration deadline is [TBC]. However, once reached our maximum capacity we might close the registrations sooner. Make sure to sign up as soon as possible to secure your participation."
+          "answer": "The registration deadline is <b>5th of November </b>. However, once reached our maximum capacity we might close the registrations sooner. Make sure to sign up as soon as possible to secure your participation."
         }
       ]
     },
@@ -195,7 +195,7 @@
         },
         {
           "question": "Fins a quin dia puc inscriure'm?",
-          "answer": "La data límit per a les inscripcions és [TBC]. No obstant, si arribem al màxim de participants, podríem tancar les inscripcions abans. Assegura't de registrar-te el més aviat possible per garantir la teva participació."
+          "answer": "La data límit per a les inscripcions és el <b> 5 de novembre</b>. No obstant, si arribem al màxim de participants, podríem tancar les inscripcions abans. Assegura't de registrar-te el més aviat possible per garantir la teva participació."
         }
       ]
     },
