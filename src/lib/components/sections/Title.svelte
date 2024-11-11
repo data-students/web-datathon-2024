@@ -13,8 +13,8 @@
     <div class="flex flex-col justify-center items-center my-[14vh]">
         <h1 class="font-title font-bold text-[62px] md:text-[96px] text-dark text-center">Datathon FME</h1>
         <h4 class="font-body text-[20px] md:text-[36px] px-4 text-secondary text-center">{$t("main.subtitle")}</h4>
-        <p class=" w-full mb-0 mt-3 px-2 text-right font-title font-bold text-black text-lg flex flex-row items-center justify-center xs:justify-center">Powered by <span><img src={mango} alt="mango logo" class="pl-2 w-auto h-4"/></span></p>
-        <a class="mt-8" href="https://otld03s5z97.typeform.com/to/GAz1tKet" target="_blank"><Button >{$t("main.register")}</Button></a>
+        <p class=" w-full mb-8 mt-3 px-2 text-right font-title font-bold text-black text-lg flex flex-row items-center justify-center xs:justify-center">Powered by <span><img src={mango} alt="mango logo" class="pl-2 w-auto h-4"/></span></p>
+        <Button disabled >{$t("main.register")}</Button>
     </div>
     <Logos />
 </div>

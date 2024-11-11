@@ -60,7 +60,7 @@
     {:else}
       <a href="/generator"><Button outline>{$t("main.generator")}</Button></a>
     {/if}
-    <a href="https://otld03s5z97.typeform.com/to/GAz1tKet" target="_blank"><Button>{$t("main.join")}</Button></a>
+    <Button disabled>{$t("main.join")}</Button>
     <Button onClick={() => locale.update(current => (current ===  "en" ? "ca" : "en"))}>
         <img src={$locale === 'en' ? catalanFlag : englishFlag} alt="Language Flag" class="w-8 h-8" />
     </Button>
@@ -92,7 +92,7 @@
           {:else}
             <a href="/generator"><Button onClick={() => (toggle = !toggle)} outline>{$t("main.generator")}</Button></a>
           {/if}
-          <a href="https://otld03s5z97.typeform.com/to/GAz1tKet" target="_blank"><Button>{$t("main.join")}</Button></a>
+          <Button disabled>{$t("main.join")}</Button>
         </div>
         <div class="fixed bottom-0">
           <Button plain outline onClick={() => (toggle = !toggle)} className="w-22 h-22 mb-8 bg-primary text-dark px-4 py-2 rounded">

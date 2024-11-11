@@ -14,7 +14,7 @@
         <div class=" w-full flex flex-row space-x-6 pt-2">
             <p class="w-full lg:w-[80%] font-body text-black/75 text-justify text-[14px] md:text-[17px]">{$t("main.what.body")} </p>
           <div class="hidden lg:flex items-center justify-center w-1/4">
-        <a class="-mt-4" href="https://otld03s5z97.typeform.com/to/GAz1tKet" target="_blank"><Button >{$t("main.what.cta")}</Button></a>
+          <Button className="-mt-4" disabled >{$t("main.what.cta")}</Button>
           </div>
         </div>
         <div class="flex flex-col lg:flex-row  pt-10 w-full lg:space-x-12 space-y-12 lg:space-y-0">

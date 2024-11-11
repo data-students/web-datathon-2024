@@ -3,13 +3,15 @@
     export let plain: true | false = false;
     export let outline: true | false = false;
     export let onClick: () => void = () => {};
+    export let disabled: true | false = false;
 
 </script>
 
 <button on:click={onClick} class={`font-title font-bold text-[20px] border-accent border-2 rounded-[13px] px-[20px] py-[6px]
                 ${outline ? "bg-white text-accent border-accent" : "bg-accent text-white"}
                 ${className}`}
-        class:effect={!plain}>
+        class:effect={!plain}
+        disabled={disabled}>
     <slot></slot>
 </button>
 
