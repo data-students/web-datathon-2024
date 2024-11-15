@@ -5,7 +5,7 @@
   import {t} from '$lib/translations/translations';
 </script>
 
-<div id="aed" class="flex justify-center items-center w-full mt-52">
+<div id="aed" class="flex justify-center items-center w-full mt-40">
   <!-- <div class="flex flex-col gap-24 lg:gap-0 lg:flex-row w-full lg:justify-evenly"> -->
   <div class="w-full flex flex-col gap-24 min-[1400px]:flex-row min-[1400px]:justify-center min-[1400px]:space-x-20">
 
